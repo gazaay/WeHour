@@ -1,4 +1,5 @@
 # Smart Contracts
+# 智能合约
 
 ## 📝 Decentralized Logic Implementation
 

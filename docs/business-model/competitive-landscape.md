@@ -1,4 +1,5 @@
 # Competitive Landscape
+# 竞争格局
 
 ## 🏆 Market Positioning & Competitive Analysis
 

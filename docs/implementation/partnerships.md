@@ -1,4 +1,5 @@
 # Partnerships
+# 合作伙伴关系
 
 ## 🤝 Strategic Partnership Framework
 

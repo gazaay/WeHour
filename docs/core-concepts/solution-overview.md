@@ -1,18 +1,25 @@
 # Solution Overview
+# 解决方案概述
 
 ## 🎯 The WeHour Ecosystem
+## 🎯 WeHour生态系统
 
 WeHour is a comprehensive blockchain-based platform that transforms volunteer service into verifiable, valuable, and portable digital assets through a dual-token ecosystem.
+
+WeHour是一个综合性的基于区块链的平台，通过双代币生态系统将义工服务转化为可验证、有价值且可携带的数字资产。
 
 ---
 
 ## 🏗️ Core Architecture
+## 🏗️ 核心架构
 
 <div class="highlight">
 **Dual-Token Model**: VH$ (WeHours Token) for utility and rewards + VB$ (Badge Token) for credentials and proof of participation
+**双代币模式**: VH$（WeHours代币）用于实用性和奖励 + VB$（徽章代币）用于凭证和参与证明
 </div>
 
 ### Platform Components
+### 平台组件
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
 

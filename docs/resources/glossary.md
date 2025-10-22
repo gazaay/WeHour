@@ -1,4 +1,5 @@
 # Glossary
+# 词汇表
 
 ## 📚 WeHour Terminology & Definitions
 
