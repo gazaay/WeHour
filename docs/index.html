@@ -188,11 +188,11 @@
       name: 'WeHour White Paper',
       repo: '',
       loadSidebar: true,
-      subMaxLevel: 2,
+      subMaxLevel: 0,
       search: 'auto',
       autoHeader: false,
       auto2top: true,
-      maxLevel: 2,
+      maxLevel: 0,
       notFoundPage: true,
       loadNavbar: false,
       copyCode: {
@@ -225,6 +225,34 @@
               return match.replace(/[^\w\s#]/g, '').trim() + ' ';
             });
             return html
+          })
+        },
+        function(hook, vm) {
+          hook.afterEach(function (html, next) {
+            // Fix any remaining emoji-based navigation links
+            html = html.replace(/href="#\/[^"]*id=%[^"]*"/g, function(match) {
+              // Extract the section name and redirect to proper path
+              if (match.includes('technical-architecture') || match.includes('%f0%9f%8f%97%ef%b8%8f')) {
+                return 'href="#/technical-architecture/system-overview"';
+              }
+              if (match.includes('tokenomics') || match.includes('%f0%9f%aa%99')) {
+                return 'href="#/tokenomics/dual-token-model"';
+              }
+              if (match.includes('business-model') || match.includes('%f0%9f%8f%a1%ef%b8%8f')) {
+                return 'href="#/business-model/revenue-streams"';
+              }
+              if (match.includes('implementation') || match.includes('%f0%9f%9a%80')) {
+                return 'href="#/implementation/roadmap"';
+              }
+              if (match.includes('metrics-kpis') || match.includes('%f0%9f%93%8a')) {
+                return 'href="#/metrics-kpis/success-metrics"';
+              }
+              if (match.includes('resources') || match.includes('%f0%9f%94%8d')) {
+                return 'href="#/resources/glossary"';
+              }
+              return match;
+            });
+            next(html);
           })
         }
       ]
