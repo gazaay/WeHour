@@ -1,0 +1,21 @@
+{
+  "name": "wehour-docs",
+  "version": "1.0.0",
+  "description": "WeHour Documentation Site",
+  "main": "index.js",
+  "scripts": {
+    "serve": "docsify serve docs",
+    "start": "docsify serve docs",
+    "dev": "docsify serve docs --port 3000"
+  },
+  "keywords": [
+    "docsify",
+    "documentation",
+    "wehour"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "docsify-cli": "^4.4.4"
+  }
+}
