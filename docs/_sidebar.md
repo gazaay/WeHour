@@ -22,6 +22,12 @@
 * [Security Framework](technical-architecture/security-framework.md)
 * [Privacy & Compliance](technical-architecture/privacy-compliance.md)
 
+## 🎯 Product & Platform
+* [Platform Components](product-platform/platform-components.md)
+* [User Interfaces](product-platform/user-interfaces.md)
+* [Integration Ecosystem](product-platform/integration-ecosystem.md)
+* [API Documentation](product-platform/api-documentation.md)
+
 ## 💼 Business Model
 * [Revenue Streams](business-model/revenue-streams.md)
 * [Cross-Merchant Model](business-model/cross-merchant-model.md)
@@ -34,6 +40,11 @@
 * [Pilot Programs](implementation/pilot-programs.md)
 * [Partnerships](implementation/partnerships.md)
 * [Risk Management](implementation/risk-management.md)
+
+## 📊 Metrics & KPIs
+* [Success Metrics](metrics-kpis/success-metrics.md)
+* [Token Metrics](metrics-kpis/token-metrics.md)
+* [Platform Analytics](metrics-kpis/platform-analytics.md)
 
 ## 🔗 Resources
 * [Glossary](resources/glossary.md)
