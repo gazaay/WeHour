@@ -1,8 +1,12 @@
 # VH$ (WeHours Token) - Utility Token
+# VH$（WeHours代币）- 实用代币
 
 ## 🪙 The Economic Engine of Volunteer Service
+## 🪙 义工服务的经济引擎
 
 VH$ (WeHours Token) is the utility token that powers the WeHour ecosystem, representing verified volunteer hours and enabling real-world value creation through rewards, donations, and cross-platform utility.
+
+VH$（WeHours代币）是为WeHour生态系统提供动力的实用代币，代表已验证的义工时数，并通过奖励、捐赠和跨平台实用性实现真实世界的价值创造。
 
 ---
 
