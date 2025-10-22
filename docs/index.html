@@ -26,6 +26,40 @@
     .sidebar {
       background-color: #ffffff !important;
       border-right: 1px solid var(--border-color) !important;
+      position: fixed !important;
+      top: 0 !important;
+      left: 0 !important;
+      height: 100vh !important;
+      z-index: 1000 !important;
+    }
+    
+    .sidebar-toggle {
+      display: none !important;
+    }
+    
+    @media (max-width: 768px) {
+      .sidebar {
+        transform: translateX(-100%);
+        transition: transform 0.3s ease;
+      }
+      
+      .sidebar.open {
+        transform: translateX(0);
+      }
+      
+      .sidebar-toggle {
+        display: block !important;
+        position: fixed;
+        top: 10px;
+        left: 10px;
+        z-index: 1001;
+        background: var(--accent-color);
+        color: white;
+        border: none;
+        padding: 10px;
+        border-radius: 5px;
+        cursor: pointer;
+      }
     }
     
     .sidebar-nav > ul > li > a {
@@ -43,6 +77,15 @@
     .content {
       background-color: #ffffff !important;
       color: var(--text-color) !important;
+      margin-left: 300px !important;
+      padding: 20px !important;
+    }
+    
+    @media (max-width: 768px) {
+      .content {
+        margin-left: 0 !important;
+        padding: 60px 20px 20px 20px !important;
+      }
     }
     
     h1, h2, h3, h4, h5, h6 {
@@ -138,6 +181,7 @@
   </style>
 </head>
 <body>
+  <button class="sidebar-toggle" onclick="toggleSidebar()">☰</button>
   <div id="app">Loading...</div>
   <script>
     window.$docsify = {
@@ -148,8 +192,9 @@
       search: 'auto',
       autoHeader: false,
       auto2top: true,
-      maxLevel: 2,
+      maxLevel: 0,
       notFoundPage: true,
+      loadNavbar: false,
       copyCode: {
         buttonText: 'Copy to clipboard',
         errorText: 'Error',
@@ -192,5 +237,23 @@
   <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-mermaid@latest/dist/docsify-mermaid.js"></script>
+  <script>
+    function toggleSidebar() {
+      const sidebar = document.querySelector('.sidebar');
+      if (sidebar) {
+        sidebar.classList.toggle('open');
+      }
+    }
+    
+    // Close sidebar when clicking on a link (mobile)
+    document.addEventListener('click', function(e) {
+      if (e.target.matches('.sidebar-nav a')) {
+        const sidebar = document.querySelector('.sidebar');
+        if (sidebar && window.innerWidth <= 768) {
+          sidebar.classList.remove('open');
+        }
+      }
+    });
+  </script>
 </body>
 </html>
