@@ -5,7 +5,7 @@
 
 <div class="highlight">
 **WeHour** is a revolutionary blockchain-based platform that transforms volunteer service into verifiable, portable, and valuable digital assets through a dual-token ecosystem.
-**WeHour** 是一个革命性的基于区块链的平台，通过双代币生态系统将义工服务转化为可验证、可携带和有价值的数字资产。
+**WeHour** 是一个革命性的基于区块链的平台，通过双代币生态系统将义工服务转化为可验证、可携带和有价值的数字资产。</div>
 
 ---
 
@@ -30,7 +30,7 @@ WeHour通过引入全面的代币化系统来解决义工服务认可和价值�
 <li>可兑换优惠券、捐赠和奖励</li>
 <li>Cross-chain compatible for global accessibility</li>
 <li>跨链兼容，全球可访问</li>
-</ul>
+</ul> </div>
 
 <div class="token-card">
 <h3>🏆 VB$ (Badge Token)</h3>
@@ -43,7 +43,7 @@ WeHour通过引入全面的代币化系统来解决义工服务认可和价值�
 <li>包含组织、角色和影响的丰富元数据</li>
 <li>Fraud-resistant with multi-attestation verification</li>
 <li>通过多重认证验证防欺诈</li>
-</ul>
+</ul> </div>
 
 ---
 
@@ -146,6 +146,7 @@ WeHour通过引入全面的代币化系统来解决义工服务认可和价值�
 <a href="business-model/revenue-streams.md">Explore →</a>
 <a href="business-model/revenue-streams.md">探索 →</a>
 
+</div>
 
 ---
 
