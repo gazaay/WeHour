@@ -24,7 +24,6 @@ WeHour是一个综合性的基于区块链的平台，通过双代币生态系�
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
 
 <div class="feature-box">
-<h4>🏢 Organization Dashboard</h4>
 <ul>
 <li>Event creation and management</li>
 <li>Volunteer role assignment</li>
@@ -34,7 +33,6 @@ WeHour是一个综合性的基于区块链的平台，通过双代币生态系�
 </div>
 
 <div class="feature-box">
-<h4>📱 Volunteer App</h4>
 <ul>
 <li>Event discovery and registration</li>
 <li>Time tracking and logging</li>
@@ -44,7 +42,6 @@ WeHour是一个综合性的基于区块链的平台，通过双代币生态系�
 </div>
 
 <div class="feature-box">
-<h4>💰 Sponsor Portal</h4>
 <ul>
 <li>Volunteer hour purchasing</li>
 <li>Brand campaign management</li>
@@ -54,7 +51,6 @@ WeHour是一个综合性的基于区块链的平台，通过双代币生态系�
 </div>
 
 <div class="feature-box">
-<h4>🛒 Marketplace</h4>
 <ul>
 <li>Coupon and reward catalog</li>
 <li>Retailer integration</li>
@@ -95,7 +91,6 @@ Sponsors → Purchase Hours → Volunteers → Redeem Rewards → Donate to Caus
 
 ### VH$ (WeHours Token) - Utility & Rewards
 <div class="token-card">
-<h4>🪙 VH$ Token Characteristics</h4>
 <ul>
 <li><strong>Purpose:</strong> Represents verified volunteer hours</li>
 <li><strong>Issuance:</strong> 1 VH$ = 1 verified hour (with role multipliers)</li>
@@ -107,7 +102,6 @@ Sponsors → Purchase Hours → Volunteers → Redeem Rewards → Donate to Caus
 
 ### VB$ (Badge Token) - Credentials & Proof
 <div class="token-card">
-<h4>🏆 VB$ Token Characteristics</h4>
 <ul>
 <li><strong>Purpose:</strong> Immutable proof of participation</li>
 <li><strong>Type:</strong> Soulbound Token (SBT) - non-transferable</li>
@@ -139,49 +133,40 @@ Sponsors → Purchase Hours → Volunteers → Redeem Rewards → Donate to Caus
 
 ### For Volunteers
 <div class="feature-box">
-<h4>✅ Zero-Crypto Experience</h4>
 <p>Traditional app interface with blockchain benefits hidden from users</p>
 </div>
 
 <div class="feature-box">
-<h4>✅ Portable Credentials</h4>
 <p>Service records follow volunteers across organizations and borders</p>
 </div>
 
 <div class="feature-box">
-<h4>✅ Real Rewards</h4>
 <p>Convert volunteer hours into tangible benefits and donations</p>
 </div>
 
 ### For Organizations
 <div class="feature-box">
-<h4>✅ Automated Management</h4>
 <p>Streamlined volunteer tracking and verification processes</p>
 </div>
 
 <div class="feature-box">
-<h4>✅ Impact Measurement</h4>
 <p>Real-time analytics and transparent reporting capabilities</p>
 </div>
 
 <div class="feature-box">
-<h4>✅ Funding Opportunities</h4>
 <p>Enhanced ability to demonstrate impact to funders and sponsors</p>
 </div>
 
 ### For Sponsors
 <div class="feature-box">
-<h4>✅ Verifiable Impact</h4>
 <p>Transparent, auditable data on volunteer service impact</p>
 </div>
 
 <div class="feature-box">
-<h4>✅ Direct Engagement</h4>
 <p>Direct connection with volunteer communities and causes</p>
 </div>
 
 <div class="feature-box">
-<h4>✅ Measurable ROI</h4>
 <p>Clear metrics on social investment returns and community impact</p>
 </div>
 

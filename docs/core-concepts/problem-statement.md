@@ -46,8 +46,6 @@ Volunteer service, despite its immense social value, suffers from fundamental sy
 ## 🔍 根本原因分析
 
 <div class="feature-box">
-<h4>🏗️ Infrastructure Problems</h4>
-<h4>🏗️ 基础设施问题</h4>
 <ul>
 <li><strong>Legacy Systems:</strong> Outdated, non-interoperable tracking systems</li>
 <li><strong>遗留系统:</strong> 过时、不可互操作的追踪系统</li>
@@ -59,8 +57,6 @@ Volunteer service, despite its immense social value, suffers from fundamental sy
 </div>
 
 <div class="feature-box">
-<h4>🔐 Trust & Verification Issues</h4>
-<h4>🔐 信任和验证问题</h4>
 <ul>
 <li><strong>No Standardization:</strong> Inconsistent verification methods across organizations</li>
 <li><strong>缺乏标准化:</strong> 各组织间验证方法不一致</li>
@@ -72,8 +68,6 @@ Volunteer service, despite its immense social value, suffers from fundamental sy
 </div>
 
 <div class="feature-box">
-<h4>💰 Value Recognition Gap</h4>
-<h4>💰 价值认可缺口</h4>
 <ul>
 <li><strong>Invisible Impact:</strong> Volunteer contributions lack measurable value</li>
 <li><strong>无形影响:</strong> 义工贡献缺乏可衡量的价值</li>
@@ -140,7 +134,6 @@ Volunteer service, despite its immense social value, suffers from fundamental sy
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
 
 <div class="feature-box">
-<h4>👥 Volunteers</h4>
 <ul>
 <li>❌ No portable service records</li>
 <li>❌ Limited recognition from employers</li>
@@ -151,7 +144,6 @@ Volunteer service, despite its immense social value, suffers from fundamental sy
 </div>
 
 <div class="feature-box">
-<h4>🏢 NGOs</h4>
 <ul>
 <li>❌ Manual volunteer management</li>
 <li>❌ Difficulty proving impact to funders</li>
@@ -162,7 +154,6 @@ Volunteer service, despite its immense social value, suffers from fundamental sy
 </div>
 
 <div class="feature-box">
-<h4>💰 Sponsors</h4>
 <ul>
 <li>❌ Cannot verify CSR impact</li>
 <li>❌ Limited ROI measurement</li>
@@ -173,7 +164,6 @@ Volunteer service, despite its immense social value, suffers from fundamental sy
 </div>
 
 <div class="feature-box">
-<h4>🏪 Retailers</h4>
 <ul>
 <li>❌ Limited customer engagement</li>
 <li>❌ Weak loyalty programs</li>

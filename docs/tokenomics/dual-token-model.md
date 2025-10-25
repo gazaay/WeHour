@@ -18,8 +18,6 @@ WeHour采用复杂的双代币模型，将效用与凭证分离，创建一个�
 ### 稳定币转换流程
 
 <div class="feature-box">
-<h4>🔄 Conversion Mechanism</h4>
-<h4>转换机制</h4>
 <ul>
 <li><strong>VH$ to Stable Coin:</strong> Convert volunteer hours to stable coins for cross-merchant use</li>
 <li><strong>Point Integration:</strong> Integrate with existing merchant point systems</li>
@@ -78,7 +76,6 @@ graph TD
 
 ### Core Characteristics
 <div class="token-card">
-<h4>🪙 VH$ Token Specifications</h4>
 <ul>
 <li><strong>Standard:</strong> ERC-20 compatible utility token</li>
 <li><strong>Issuance Rate:</strong> 1 VH$ = 1 verified volunteer hour</li>
@@ -101,7 +98,6 @@ graph TD
 
 ### Utility Functions
 <div class="feature-box">
-<h4>💰 Reward Redemption</h4>
 <ul>
 <li>Convert VH$ to retailer coupons and discounts</li>
 <li>Exchange for gift cards and vouchers</li>
@@ -111,7 +107,6 @@ graph TD
 </div>
 
 <div class="feature-box">
-<h4>💝 Donation Power</h4>
 <ul>
 <li>Direct donations to supported causes</li>
 <li>Matching donation programs with sponsors</li>
@@ -121,7 +116,6 @@ graph TD
 </div>
 
 <div class="feature-box">
-<h4>🌍 Cross-Chain Utility</h4>
 <ul>
 <li>Transfer tokens across supported blockchains</li>
 <li>Participate in cross-chain reward programs</li>
@@ -136,7 +130,6 @@ graph TD
 
 ### Core Characteristics
 <div class="token-card">
-<h4>🏆 VB$ Token Specifications</h4>
 <ul>
 <li><strong>Standard:</strong> Soulbound Token (SBT) - ERC-721 compatible</li>
 <li><strong>Issuance:</strong> 1 VB$ per event participation</li>
@@ -156,7 +149,6 @@ graph TD
 
 ### Verification Features
 <div class="feature-box">
-<h4>🔍 QR Code Verification</h4>
 <ul>
 <li>Instant verification for employers and institutions</li>
 <li>Public verification without revealing personal data</li>
@@ -166,7 +158,6 @@ graph TD
 </div>
 
 <div class="feature-box">
-<h4>📊 Rich Metadata</h4>
 <ul>
 <li>Detailed event and role information</li>
 <li>Impact metrics and outcomes achieved</li>
@@ -176,7 +167,6 @@ graph TD
 </div>
 
 <div class="feature-box">
-<h4>🛡️ Fraud Prevention</h4>
 <ul>
 <li>Multi-attestation verification system</li>
 <li>Immutable blockchain records</li>
@@ -211,7 +201,6 @@ graph TD
 
 ### Token Issuance
 <div class="feature-box">
-<h4>📈 Issuance Triggers</h4>
 <ul>
 <li><strong>Event Completion:</strong> VB$ issued after verified participation</li>
 <li><strong>Hour Verification:</strong> VH$ issued for each verified hour</li>
@@ -222,7 +211,6 @@ graph TD
 
 ### Token Sinks (Value Destruction)
 <div class="feature-box">
-<h4>🔥 Sink Mechanisms</h4>
 <ul>
 <li><strong>Reward Redemption:</strong> VH$ burned when redeeming rewards</li>
 <li><strong>Donation Processing:</strong> VH$ converted to donations</li>
@@ -245,7 +233,6 @@ graph TD
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin: 20px 0;">
 
 <div class="feature-box">
-<h4>🔗 Ethereum L2</h4>
 <ul>
 <li>Primary network for operations</li>
 <li>Low-cost transactions</li>
@@ -255,7 +242,6 @@ graph TD
 </div>
 
 <div class="feature-box">
-<h4>🔗 Polygon</h4>
 <ul>
 <li>Secondary network for scalability</li>
 <li>Ultra-low transaction costs</li>
@@ -265,7 +251,6 @@ graph TD
 </div>
 
 <div class="feature-box">
-<h4>🔗 BSC</h4>
 <ul>
 <li>Alternative network for cost efficiency</li>
 <li>High throughput capabilities</li>
@@ -275,7 +260,6 @@ graph TD
 </div>
 
 <div class="feature-box">
-<h4>🔗 Future Networks</h4>
 <ul>
 <li>Planned expansion to other chains</li>
 <li>Cross-chain interoperability</li>
@@ -298,7 +282,6 @@ graph TD
 
 ### VH$ Use Cases
 <div class="feature-box">
-<h4>🛒 Consumer Rewards</h4>
 <ul>
 <li>Retailer coupons and discounts</li>
 <li>Restaurant vouchers and deals</li>
@@ -308,7 +291,6 @@ graph TD
 </div>
 
 <div class="feature-box">
-<h4>💝 Social Impact</h4>
 <ul>
 <li>Direct donations to causes</li>
 <li>Matching donation programs</li>
@@ -318,7 +300,6 @@ graph TD
 </div>
 
 <div class="feature-box">
-<h4>🌍 Global Utility</h4>
 <ul>
 <li>Cross-border volunteer opportunities</li>
 <li>International recognition programs</li>
@@ -329,7 +310,6 @@ graph TD
 
 ### VB$ Use Cases
 <div class="feature-box">
-<h4>🎓 Educational Recognition</h4>
 <ul>
 <li>University application credentials</li>
 <li>Scholarship and grant applications</li>
@@ -339,7 +319,6 @@ graph TD
 </div>
 
 <div class="feature-box">
-<h4>💼 Professional Development</h4>
 <ul>
 <li>Employer verification of volunteer experience</li>
 <li>Skill demonstration and competency proof</li>
@@ -349,7 +328,6 @@ graph TD
 </div>
 
 <div class="feature-box">
-<h4>🏆 Social Recognition</h4>
 <ul>
 <li>Community leadership recognition</li>
 <li>Social impact demonstration</li>

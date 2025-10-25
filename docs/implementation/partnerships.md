@@ -25,7 +25,6 @@ WeHour's partnership strategy focuses on building strategic relationships with k
 
 ### NGO Partnerships
 <div class="feature-box">
-<h4>🏢 NGO Collaborations</h4>
 <ul>
 <li><strong>Strategic NGOs:</strong> Key NGOs in Hong Kong and region</li>
 <li><strong>Partnership Scope:</strong> Volunteer program management and impact measurement</li>
@@ -36,7 +35,6 @@ WeHour's partnership strategy focuses on building strategic relationships with k
 
 ### Corporate Partnerships
 <div class="feature-box">
-<h4>💰 Corporate Collaborations</h4>
 <ul>
 <li><strong>CSR Programs:</strong> Corporate social responsibility programs</li>
 <li><strong>Partnership Scope:</strong> Employee volunteer programs and impact measurement</li>
@@ -47,7 +45,6 @@ WeHour's partnership strategy focuses on building strategic relationships with k
 
 ### Educational Partnerships
 <div class="feature-box">
-<h4>🎓 Educational Collaborations</h4>
 <ul>
 <li><strong>Institutions:</strong> Schools, universities, and educational organizations</li>
 <li><strong>Partnership Scope:</strong> Student volunteer programs and academic recognition</li>
@@ -58,7 +55,6 @@ WeHour's partnership strategy focuses on building strategic relationships with k
 
 ### Technology Partnerships
 <div class="feature-box">
-<h4>🔧 Technology Collaborations</h4>
 <ul>
 <li><strong>Integration Partners:</strong> Technology and integration partners</li>
 <li><strong>Partnership Scope:</strong> Platform integration and technical collaboration</li>
@@ -73,7 +69,6 @@ WeHour's partnership strategy focuses on building strategic relationships with k
 
 ### Partnership Identification
 <div class="feature-box">
-<h4>🔍 Partner Selection</h4>
 <ul>
 <li><strong>Market Research:</strong> Comprehensive market research and analysis</li>
 <li><strong>Stakeholder Mapping:</strong> Stakeholder mapping and identification</li>
@@ -84,7 +79,6 @@ WeHour's partnership strategy focuses on building strategic relationships with k
 
 ### Partnership Development
 <div class="feature-box">
-<h4>📋 Development Process</h4>
 <ul>
 <li><strong>Initial Contact:</strong> Initial contact and relationship building</li>
 <li><strong>Needs Assessment:</strong> Partner needs and requirements assessment</li>
@@ -95,7 +89,6 @@ WeHour's partnership strategy focuses on building strategic relationships with k
 
 ### Partnership Implementation
 <div class="feature-box">
-<h4>🚀 Implementation Process</h4>
 <ul>
 <li><strong>Agreement Execution:</strong> Partnership agreement execution</li>
 <li><strong>Program Launch:</strong> Partnership program launch</li>
@@ -110,7 +103,6 @@ WeHour's partnership strategy focuses on building strategic relationships with k
 
 ### For NGOs
 <div class="feature-box">
-<h4>🏢 NGO Benefits</h4>
 <ul>
 <li><strong>Enhanced Management:</strong> Improved volunteer management and tracking</li>
 <li><strong>Impact Measurement:</strong> Better impact measurement and reporting</li>
@@ -121,7 +113,6 @@ WeHour's partnership strategy focuses on building strategic relationships with k
 
 ### For Corporations
 <div class="feature-box">
-<h4>💰 Corporate Benefits</h4>
 <ul>
 <li><strong>CSR Impact:</strong> Enhanced corporate social responsibility impact</li>
 <li><strong>Employee Engagement:</strong> Improved employee engagement and satisfaction</li>
@@ -132,7 +123,6 @@ WeHour's partnership strategy focuses on building strategic relationships with k
 
 ### For Educational Institutions
 <div class="feature-box">
-<h4>🎓 Educational Benefits</h4>
 <ul>
 <li><strong>Student Engagement:</strong> Enhanced student engagement and participation</li>
 <li><strong>Academic Recognition:</strong> Academic recognition for volunteer service</li>
@@ -143,7 +133,6 @@ WeHour's partnership strategy focuses on building strategic relationships with k
 
 ### For Technology Partners
 <div class="feature-box">
-<h4>🔧 Technology Benefits</h4>
 <ul>
 <li><strong>Platform Integration:</strong> Seamless platform integration and connectivity</li>
 <li><strong>User Experience:</strong> Enhanced user experience and functionality</li>
@@ -158,7 +147,6 @@ WeHour's partnership strategy focuses on building strategic relationships with k
 
 ### Key Performance Indicators
 <div class="feature-box">
-<h4>📈 Partnership KPIs</h4>
 <ul>
 <li><strong>Partnership Growth:</strong> Number of active partnerships</li>
 <li><strong>User Acquisition:</strong> Users acquired through partnerships</li>
@@ -169,7 +157,6 @@ WeHour's partnership strategy focuses on building strategic relationships with k
 
 ### Success Metrics
 <div class="feature-box">
-<h4>📊 Success Indicators</h4>
 <ul>
 <li><strong>Partnership Value:</strong> Value created through partnerships</li>
 <li><strong>Market Impact:</strong> Market impact and penetration</li>
@@ -184,7 +171,6 @@ WeHour's partnership strategy focuses on building strategic relationships with k
 
 ### Partnership Expansion
 <div class="feature-box">
-<h4>📈 Growth Strategy</h4>
 <ul>
 <li><strong>Vertical Expansion:</strong> Expand within existing partnership categories</li>
 <li><strong>Horizontal Expansion:</strong> Expand to new partnership categories</li>
@@ -195,7 +181,6 @@ WeHour's partnership strategy focuses on building strategic relationships with k
 
 ### Partnership Optimization
 <div class="feature-box">
-<h4>🔧 Optimization Strategy</h4>
 <ul>
 <li><strong>Performance Optimization:</strong> Optimize partnership performance</li>
 <li><strong>Value Enhancement:</strong> Enhance partnership value creation</li>
@@ -210,7 +195,6 @@ WeHour's partnership strategy focuses on building strategic relationships with k
 
 ### NGO Partnership Scenarios
 <div class="feature-box">
-<h4>🏢 NGO Use Cases</h4>
 <ul>
 <li><strong>Volunteer Management:</strong> Enhanced volunteer management and tracking</li>
 <li><strong>Impact Measurement:</strong> Better impact measurement and reporting</li>
@@ -221,7 +205,6 @@ WeHour's partnership strategy focuses on building strategic relationships with k
 
 ### Corporate Partnership Scenarios
 <div class="feature-box">
-<h4>💰 Corporate Use Cases</h4>
 <ul>
 <li><strong>CSR Programs:</strong> Corporate social responsibility programs</li>
 <li><strong>Employee Engagement:</strong> Employee volunteer programs</li>
@@ -232,7 +215,6 @@ WeHour's partnership strategy focuses on building strategic relationships with k
 
 ### Educational Partnership Scenarios
 <div class="feature-box">
-<h4>🎓 Educational Use Cases</h4>
 <ul>
 <li><strong>Student Programs:</strong> Student volunteer programs</li>
 <li><strong>Academic Recognition:</strong> Academic credit for volunteer service</li>
@@ -243,7 +225,6 @@ WeHour's partnership strategy focuses on building strategic relationships with k
 
 ### Technology Partnership Scenarios
 <div class="feature-box">
-<h4>🔧 Technology Use Cases</h4>
 <ul>
 <li><strong>Platform Integration:</strong> Seamless platform integration</li>
 <li><strong>Feature Development:</strong> Collaborative feature development</li>
@@ -258,7 +239,6 @@ WeHour's partnership strategy focuses on building strategic relationships with k
 
 ### Emerging Partnerships
 <div class="feature-box">
-<h4>🚀 Future Opportunities</h4>
 <ul>
 <li><strong>AI Partners:</strong> Artificial intelligence and machine learning partners</li>
 <li><strong>Blockchain Partners:</strong> Advanced blockchain technology partners</li>
@@ -269,7 +249,6 @@ WeHour's partnership strategy focuses on building strategic relationships with k
 
 ### Partnership Innovation
 <div class="feature-box">
-<h4>💡 Innovation Areas</h4>
 <ul>
 <li><strong>Technology Innovation:</strong> Advanced technology partnerships</li>
 <li><strong>Business Innovation:</strong> Innovative business model partnerships</li>
@@ -284,7 +263,6 @@ WeHour's partnership strategy focuses on building strategic relationships with k
 
 ### Partnership Lifecycle
 <div class="feature-box">
-<h4>🔄 Lifecycle Management</h4>
 <ul>
 <li><strong>Onboarding:</strong> Partnership onboarding and setup</li>
 <li><strong>Development:</strong> Partnership development and growth</li>
@@ -295,7 +273,6 @@ WeHour's partnership strategy focuses on building strategic relationships with k
 
 ### Partnership Support
 <div class="feature-box">
-<h4>🤝 Support Framework</h4>
 <ul>
 <li><strong>Technical Support:</strong> Technical support and assistance</li>
 <li><strong>Business Support:</strong> Business support and guidance</li>
@@ -310,7 +287,6 @@ WeHour's partnership strategy focuses on building strategic relationships with k
 
 ### Critical Success Factors
 <div class="feature-box">
-<h4>✅ Success Factors</h4>
 <ul>
 <li><strong>Strategic Alignment:</strong> Strong strategic alignment and fit</li>
 <li><strong>Mutual Value:</strong> Clear mutual value creation</li>
@@ -321,7 +297,6 @@ WeHour's partnership strategy focuses on building strategic relationships with k
 
 ### Risk Management
 <div class="feature-box">
-<h4>⚠️ Risk Mitigation</h4>
 <ul>
 <li><strong>Partnership Risks:</strong> Partnership relationship risks</li>
 <li><strong>Performance Risks:</strong> Partnership performance risks</li>

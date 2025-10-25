@@ -46,8 +46,6 @@ pie title Revenue Distribution
 ### 跨商家稳定币生态系统
 
 <div class="feature-box">
-<h4>🪙 Stable Coin Revenue Model</h4>
-<h4>稳定币收入模式</h4>
 <ul>
 <li><strong>Point Acquisition:</strong> Users obtain points from merchants or volunteer hours from organizations</li>
 <li><strong>Stable Coin Conversion:</strong> Points and volunteer hours can be converted to stable coins for cross-merchant use</li>
@@ -66,8 +64,6 @@ pie title Revenue Distribution
 ### 积分系统收入
 
 <div class="feature-box">
-<h4>💳 Point System Revenue</h4>
-<h4>积分系统收入</h4>
 <ul>
 <li><strong>Merchant A Points:</strong> Revenue from Merchant A point transactions and conversions</li>
 <li><strong>Merchant B Points:</strong> Revenue from Merchant B point transactions and conversions</li>
@@ -86,8 +82,6 @@ pie title Revenue Distribution
 ### 稳定币池收入
 
 <div class="feature-box">
-<h4>🏦 Stable Coin Pool</h4>
-<h4>稳定币池</h4>
 <ul>
 <li><strong>Conversion Fees:</strong> Fees for converting points/hours to stable coins</li>
 <li><strong>Cross-Merchant Fees:</strong> Fees for using stable coins across different merchants</li>
@@ -105,8 +99,6 @@ pie title Revenue Distribution
 ### SaaS Subscriptions
 ### SaaS订阅服务
 <div class="feature-box">
-<h4>💻 Platform Subscriptions</h4>
-<h4>平台订阅</h4>
 <ul>
 <li><strong>Organization Plans:</strong> HKD 500-2,000/org/month</li>
 <li><strong>Volunteer Plans:</strong> HKD 2-5 per active volunteer (tiered)</li>
@@ -124,8 +116,6 @@ pie title Revenue Distribution
 ### Transaction Fees
 ### 交易费用
 <div class="feature-box">
-<h4>💳 Transaction Revenue</h4>
-<h4>交易收入</h4>
 <ul>
 <li><strong>VH$ Transactions:</strong> 5-10% on VH$ transaction volume</li>
 <li><strong>Reward Redemptions:</strong> Fee on reward redemptions</li>
@@ -142,7 +132,6 @@ pie title Revenue Distribution
 
 ### Sponsor Packages
 <div class="feature-box">
-<h4>💰 Corporate Sponsorships</h4>
 <ul>
 <li><strong>Campaign Packages:</strong> HKD 50-500k branded campaigns</li>
 <li><strong>Impact Reporting:</strong> Detailed impact and ROI reports</li>
@@ -176,7 +165,6 @@ gantt
 
 ### Revenue Distribution
 <div class="feature-box">
-<h4>📈 Revenue Sources</h4>
 <ul>
 <li><strong>SaaS Subscriptions:</strong> 40% of total revenue</li>
 <li><strong>Transaction Fees:</strong> 35% of total revenue</li>
@@ -187,7 +175,6 @@ gantt
 
 ### Growth Projections
 <div class="feature-box">
-<h4>📊 Revenue Growth</h4>
 <ul>
 <li><strong>Year 1:</strong> HKD 2-5M revenue</li>
 <li><strong>Year 2:</strong> HKD 10-20M revenue</li>
@@ -202,7 +189,6 @@ gantt
 
 ### Primary Markets
 <div class="feature-box">
-<h4>🎯 Target Segments</h4>
 <ul>
 <li><strong>NGOs:</strong> Non-profit organizations and charities</li>
 <li><strong>Educational Institutions:</strong> Schools and universities</li>
@@ -213,7 +199,6 @@ gantt
 
 ### Market Sizing
 <div class="feature-box">
-<h4>📊 Market Opportunity</h4>
 <ul>
 <li><strong>TAM:</strong> $2.3B Asia-Pacific volunteer service market</li>
 <li><strong>SAM:</strong> $180M Hong Kong volunteer ecosystem</li>
@@ -228,7 +213,6 @@ gantt
 
 ### For NGOs
 <div class="feature-box">
-<h4>🏢 NGO Benefits</h4>
 <ul>
 <li><strong>Cost Reduction:</strong> 80% reduction in volunteer management costs</li>
 <li><strong>Enhanced Funding:</strong> Verifiable impact data for funders</li>
@@ -239,7 +223,6 @@ gantt
 
 ### For Educational Institutions
 <div class="feature-box">
-<h4>🎓 Educational Benefits</h4>
 <ul>
 <li><strong>Student Engagement:</strong> Enhanced student volunteer participation</li>
 <li><strong>Academic Recognition:</strong> Volunteer service for academic credit</li>
@@ -250,7 +233,6 @@ gantt
 
 ### For Corporate Sponsors
 <div class="feature-box">
-<h4>💰 Corporate Benefits</h4>
 <ul>
 <li><strong>CSR Impact:</strong> Verifiable corporate social responsibility impact</li>
 <li><strong>Brand Association:</strong> Positive brand association with social causes</li>
@@ -265,7 +247,6 @@ gantt
 
 ### Phase 1: Foundation (0-12 months)
 <div class="feature-box">
-<h4>🏗️ Foundation Phase</h4>
 <ul>
 <li><strong>Pilot Revenue:</strong> HKD 500K-1M from pilot programs</li>
 <li><strong>Early Adopters:</strong> 10-20 organizations</li>
@@ -276,7 +257,6 @@ gantt
 
 ### Phase 2: Growth (12-24 months)
 <div class="feature-box">
-<h4>📈 Growth Phase</h4>
 <ul>
 <li><strong>Scale Revenue:</strong> HKD 5-10M from expanded operations</li>
 <li><strong>Market Expansion:</strong> 50-100 organizations</li>
@@ -287,7 +267,6 @@ gantt
 
 ### Phase 3: Maturity (24+ months)
 <div class="feature-box">
-<h4>🌍 Maturity Phase</h4>
 <ul>
 <li><strong>Mature Revenue:</strong> HKD 25-50M from full market penetration</li>
 <li><strong>Global Expansion:</strong> International markets and recognition</li>
@@ -302,7 +281,6 @@ gantt
 
 ### Subscription Pricing
 <div class="feature-box">
-<h4>💻 SaaS Pricing</h4>
 <ul>
 <li><strong>Basic Plan:</strong> HKD 500/org/month (up to 100 volunteers)</li>
 <li><strong>Professional Plan:</strong> HKD 1,000/org/month (up to 500 volunteers)</li>
@@ -313,7 +291,6 @@ gantt
 
 ### Transaction Pricing
 <div class="feature-box">
-<h4>💳 Transaction Fees</h4>
 <ul>
 <li><strong>VH$ Transactions:</strong> 5-10% of transaction value</li>
 <li><strong>Reward Redemptions:</strong> 2-5% of redemption value</li>
@@ -324,7 +301,6 @@ gantt
 
 ### Sponsor Pricing
 <div class="feature-box">
-<h4>💰 Sponsor Packages</h4>
 <ul>
 <li><strong>Basic Campaign:</strong> HKD 50-100k (local impact)</li>
 <li><strong>Professional Campaign:</strong> HKD 200-300k (regional impact)</li>
@@ -339,7 +315,6 @@ gantt
 
 ### Key Metrics
 <div class="feature-box">
-<h4>📈 Revenue KPIs</h4>
 <ul>
 <li><strong>Monthly Recurring Revenue (MRR):</strong> Subscription revenue</li>
 <li><strong>Transaction Volume:</strong> Total transaction value</li>
@@ -350,7 +325,6 @@ gantt
 
 ### Performance Indicators
 <div class="feature-box">
-<h4>📊 Performance Metrics</h4>
 <ul>
 <li><strong>Revenue Growth:</strong> Month-over-month revenue growth</li>
 <li><strong>Churn Rate:</strong> Customer retention rate</li>
@@ -365,7 +339,6 @@ gantt
 
 ### Growth Strategies
 <div class="feature-box">
-<h4>📈 Growth Tactics</h4>
 <ul>
 <li><strong>Upselling:</strong> Upgrade existing customers to higher tiers</li>
 <li><strong>Cross-selling:</strong> Sell additional services to existing customers</li>
@@ -376,7 +349,6 @@ gantt
 
 ### Cost Optimization
 <div class="feature-box">
-<h4>💰 Cost Management</h4>
 <ul>
 <li><strong>Operational Efficiency:</strong> Streamline operations and reduce costs</li>
 <li><strong>Technology Optimization:</strong> Optimize technology infrastructure</li>
@@ -391,7 +363,6 @@ gantt
 
 ### Emerging Revenue Streams
 <div class="feature-box">
-<h4>🚀 New Opportunities</h4>
 <ul>
 <li><strong>Data Analytics:</strong> Advanced analytics and insights services</li>
 <li><strong>Consulting Services:</strong> Volunteer program consulting</li>
@@ -402,7 +373,6 @@ gantt
 
 ### Innovation Areas
 <div class="feature-box">
-<h4>💡 Innovation Focus</h4>
 <ul>
 <li><strong>AI-Powered Services:</strong> AI-driven volunteer matching and optimization</li>
 <li><strong>Blockchain Services:</strong> Blockchain consulting and implementation</li>
@@ -417,7 +387,6 @@ gantt
 
 ### NGO Revenue
 <div class="feature-box">
-<h4>🏢 NGO Scenarios</h4>
 <ul>
 <li><strong>Small NGO:</strong> HKD 500/month for basic platform access</li>
 <li><strong>Medium NGO:</strong> HKD 1,000/month for professional features</li>
@@ -428,7 +397,6 @@ gantt
 
 ### Corporate Revenue
 <div class="feature-box">
-<h4>💰 Corporate Scenarios</h4>
 <ul>
 <li><strong>CSR Campaign:</strong> HKD 100k for local impact campaign</li>
 <li><strong>Employee Program:</strong> HKD 200k for employee volunteer program</li>
@@ -439,7 +407,6 @@ gantt
 
 ### Platform Revenue
 <div class="feature-box">
-<h4>🖥️ Platform Scenarios</h4>
 <ul>
 <li><strong>Transaction Fees:</strong> 5-10% on VH$ transactions</li>
 <li><strong>Subscription Revenue:</strong> Monthly recurring revenue</li>
@@ -454,7 +421,6 @@ gantt
 
 ### 5-Year Projections
 <div class="feature-box">
-<h4>📈 Revenue Forecast</h4>
 <ul>
 <li><strong>Year 1:</strong> HKD 2-5M (Foundation phase)</li>
 <li><strong>Year 2:</strong> HKD 10-20M (Growth phase)</li>
@@ -465,7 +431,6 @@ gantt
 
 ### Revenue Drivers
 <div class="feature-box">
-<h4>🚀 Growth Drivers</h4>
 <ul>
 <li><strong>User Growth:</strong> Increasing number of users and organizations</li>
 <li><strong>Feature Expansion:</strong> New features and capabilities</li>

@@ -18,8 +18,6 @@
 ### 用户旅程映射
 
 <div class="feature-box">
-<h4>🗺️ Journey Metrics</h4>
-<h4>旅程指标</h4>
 <ul>
 <li><strong>Onboarding Completion:</strong> 85%+ complete registration</li>
 <li><strong>First Service Completion:</strong> 70%+ within 7 days</li>
@@ -40,8 +38,6 @@
 ### 参与模式
 
 <div class="feature-box">
-<h4>📱 Engagement Analytics</h4>
-<h4>参与分析</h4>
 <ul>
 <li><strong>Session Frequency:</strong> 4.2 sessions per week</li>
 <li><strong>Session Duration:</strong> 12.5 minutes average</li>
@@ -62,8 +58,6 @@
 ### 用户细分
 
 <div class="feature-box">
-<h4>👤 Segment Analysis</h4>
-<h4>细分分析</h4>
 <ul>
 <li><strong>Volunteer Segment:</strong> 60% of total users</li>
 <li><strong>Organization Segment:</strong> 25% of total users</li>
@@ -89,8 +83,6 @@
 ### 技术性能
 
 <div class="feature-box">
-<h4>⚡ Performance Metrics</h4>
-<h4>性能指标</h4>
 <ul>
 <li><strong>Page Load Time:</strong> <2 seconds average</li>
 <li><strong>API Response Time:</strong> <500ms average</li>
@@ -111,8 +103,6 @@
 ### 可扩展性指标
 
 <div class="feature-box">
-<h4>📈 Scalability Analytics</h4>
-<h4>可扩展性分析</h4>
 <ul>
 <li><strong>Concurrent Users:</strong> 5,000+ supported</li>
 <li><strong>Database Performance:</strong> <100ms query time</li>
@@ -133,8 +123,6 @@
 ### 安全分析
 
 <div class="feature-box">
-<h4>🛡️ Security Metrics</h4>
-<h4>安全指标</h4>
 <ul>
 <li><strong>Security Incidents:</strong> 0 major breaches</li>
 <li><strong>Threat Detection:</strong> 99.5%+ accuracy</li>
@@ -160,8 +148,6 @@
 ### 网络增长
 
 <div class="feature-box">
-<h4>🔗 Network Metrics</h4>
-<h4>网络指标</h4>
 <ul>
 <li><strong>Active Organizations:</strong> 150+ participating</li>
 <li><strong>Merchant Partners:</strong> 75+ integrated</li>
@@ -182,8 +168,6 @@
 ### 服务质量指标
 
 <div class="feature-box">
-<h4>⭐ Quality Analytics</h4>
-<h4>质量分析</h4>
 <ul>
 <li><strong>Service Completion Rate:</strong> 92%+ completion</li>
 <li><strong>User Satisfaction:</strong> 4.6+ stars average</li>
@@ -204,8 +188,6 @@
 ### 经济健康
 
 <div class="feature-box">
-<h4>💰 Economic Metrics</h4>
-<h4>经济指标</h4>
 <ul>
 <li><strong>Total Value Transacted:</strong> HKD 2M+ monthly</li>
 <li><strong>Average Transaction Value:</strong> HKD 150+ per transaction</li>
@@ -231,8 +213,6 @@
 ### 平台使用
 
 <div class="feature-box">
-<h4>📊 Usage Distribution</h4>
-<h4>使用分布</h4>
 <ul>
 <li><strong>Mobile App Usage:</strong> 70% of total sessions</li>
 <li><strong>Web Platform Usage:</strong> 30% of total sessions</li>
@@ -253,8 +233,6 @@
 ### 功能采用
 
 <div class="feature-box">
-<h4>🚀 Feature Analytics</h4>
-<h4>功能分析</h4>
 <ul>
 <li><strong>Core Features:</strong> 90%+ adoption rate</li>
 <li><strong>Advanced Features:</strong> 60%+ adoption rate</li>
@@ -280,8 +258,6 @@
 ### 预测分析
 
 <div class="feature-box">
-<h4>🔮 Predictive Metrics</h4>
-<h4>预测指标</h4>
 <ul>
 <li><strong>Churn Prediction:</strong> 85%+ accuracy</li>
 <li><strong>Demand Forecasting:</strong> 90%+ accuracy</li>
@@ -302,8 +278,6 @@
 ### 机器学习洞察
 
 <div class="feature-box">
-<h4>🤖 ML Analytics</h4>
-<h4>ML分析</h4>
 <ul>
 <li><strong>Recommendation Accuracy:</strong> 85%+ click-through rate</li>
 <li><strong>Fraud Detection:</strong> 99%+ accuracy</li>
@@ -329,8 +303,6 @@
 ### 仪表板指标
 
 <div class="feature-box">
-<h4>📊 Live Metrics</h4>
-<h4>实时指标</h4>
 <ul>
 <li><strong>Active Users:</strong> Real-time count</li>
 <li><strong>Transaction Volume:</strong> Live updates</li>
@@ -351,8 +323,6 @@
 ### 警报系统
 
 <div class="feature-box">
-<h4>🚨 Alert Metrics</h4>
-<h4>警报指标</h4>
 <ul>
 <li><strong>Performance Alerts:</strong> <1 second response time</li>
 <li><strong>Error Alerts:</strong> <5 minutes detection</li>

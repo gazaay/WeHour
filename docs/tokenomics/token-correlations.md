@@ -70,7 +70,6 @@ graph TD
 
 ### For Volunteers
 <div class="feature-box">
-<h4>🎯 Combined Value Proposition</h4>
 <ul>
 <li><strong>VB$ Credentials:</strong> Prove participation and build reputation</li>
 <li><strong>VH$ Rewards:</strong> Convert service into tangible benefits</li>
@@ -81,7 +80,6 @@ graph TD
 
 ### For Organizations
 <div class="feature-box">
-<h4>📊 Comprehensive Tracking</h4>
 <ul>
 <li><strong>VB$ Verification:</strong> Immutable proof of volunteer participation</li>
 <li><strong>VH$ Analytics:</strong> Economic value of volunteer contributions</li>
@@ -92,7 +90,6 @@ graph TD
 
 ### For Sponsors
 <div class="feature-box">
-<h4>💰 Value Validation</h4>
 <ul>
 <li><strong>VB$ Proof:</strong> Verifiable volunteer participation</li>
 <li><strong>VH$ Value:</strong> Quantifiable economic impact</li>
@@ -107,7 +104,6 @@ graph TD
 
 ### Positive Correlations
 <div class="feature-box">
-<h4>📊 Strong Positive Correlations</h4>
 <ul>
 <li><strong>Badge Count ↔ Token Holdings:</strong> More badges = more tokens</li>
 <li><strong>Verification Rate ↔ Redemption Rate:</strong> Verified badges drive token usage</li>
@@ -118,7 +114,6 @@ graph TD
 
 ### Negative Correlations
 <div class="feature-box">
-<h4>⚠️ Negative Correlations</h4>
 <ul>
 <li><strong>Fraud Rate ↔ Token Value:</strong> Fraud decreases token value</li>
 <li><strong>Revocation Rate ↔ Trust:</strong> High revocation reduces trust</li>
@@ -133,7 +128,6 @@ graph TD
 
 ### Issuance Phase
 <div class="feature-box">
-<h4>📝 Simultaneous Issuance</h4>
 <ul>
 <li><strong>Event Completion:</strong> Both tokens issued after verified participation</li>
 <li><strong>Role Multipliers:</strong> Leadership roles earn more VH$ and enhanced VB$ metadata</li>
@@ -144,7 +138,6 @@ graph TD
 
 ### Usage Phase
 <div class="feature-box">
-<h4>🔄 Interdependent Usage</h4>
 <ul>
 <li><strong>VB$ Verification:</strong> Required for VH$ redemption in some cases</li>
 <li><strong>VH$ Rewards:</strong> Enhanced rewards for holders of specific VB$ badges</li>
@@ -155,7 +148,6 @@ graph TD
 
 ### Value Phase
 <div class="feature-box">
-<h4>💰 Value Enhancement</h4>
 <ul>
 <li><strong>Reputation Value:</strong> VB$ badges increase VH$ earning potential</li>
 <li><strong>Economic Value:</strong> VH$ tokens validate VB$ badge worth</li>
@@ -170,7 +162,6 @@ graph TD
 
 ### Multi-Network Synergy
 <div class="feature-box">
-<h4>🔗 Cross-Chain Benefits</h4>
 <ul>
 <li><strong>VB$ Portability:</strong> Credentials recognized across all networks</li>
 <li><strong>VH$ Utility:</strong> Tokens usable on any supported network</li>
@@ -181,7 +172,6 @@ graph TD
 
 ### Network-Specific Correlations
 <div class="feature-box">
-<h4>🌍 Regional Variations</h4>
 <ul>
 <li><strong>Ethereum L2:</strong> High security, premium credentials and rewards</li>
 <li><strong>BSC:</strong> Low cost, high volume, mass adoption</li>
@@ -196,7 +186,6 @@ graph TD
 
 ### Key Correlation Metrics
 <div class="feature-box">
-<h4>📈 Primary Metrics</h4>
 <ul>
 <li><strong>Token Correlation Coefficient:</strong> Statistical relationship between VH$ and VB$ usage</li>
 <li><strong>User Engagement Correlation:</strong> How badge earning affects token usage</li>
@@ -207,7 +196,6 @@ graph TD
 
 ### Advanced Analytics
 <div class="feature-box">
-<h4>🤖 AI-Powered Insights</h4>
 <ul>
 <li><strong>Predictive Correlation:</strong> Forecast token and credential trends</li>
 <li><strong>Behavioral Analysis:</strong> Understand user token and credential patterns</li>
@@ -222,7 +210,6 @@ graph TD
 
 ### User Engagement Strategies
 <div class="feature-box">
-<h4>👥 Engagement Optimization</h4>
 <ul>
 <li><strong>Badge Incentives:</strong> Special VH$ rewards for specific VB$ badge holders</li>
 <li><strong>Token Bonuses:</strong> Enhanced VB$ metadata for high VH$ holders</li>
@@ -233,7 +220,6 @@ graph TD
 
 ### Ecosystem Growth Strategies
 <div class="feature-box">
-<h4>🌱 Growth Optimization</h4>
 <ul>
 <li><strong>Network Effects:</strong> Leverage token correlations for viral growth</li>
 <li><strong>Value Creation:</strong> Create new value through token interactions</li>
@@ -248,7 +234,6 @@ graph TD
 
 ### Advanced Correlation Features
 <div class="feature-box">
-<h4>🚀 Planned Enhancements</h4>
 <ul>
 <li><strong>Dynamic Multipliers:</strong> VB$ badge quality affects VH$ earning rates</li>
 <li><strong>Cross-Token Staking:</strong> Stake both tokens for enhanced rewards</li>
@@ -259,7 +244,6 @@ graph TD
 
 ### Ecosystem Integration
 <div class="feature-box">
-<h4>🌍 Global Integration</h4>
 <ul>
 <li><strong>International Recognition:</strong> Cross-border token and credential correlations</li>
 <li><strong>Multi-Platform Integration:</strong> Correlations across different platforms</li>
@@ -274,7 +258,6 @@ graph TD
 
 ### High-Value Volunteer
 <div class="feature-box">
-<h4>🌟 Exemplary Volunteer</h4>
 <ul>
 <li><strong>VB$ Portfolio:</strong> 15+ badges across multiple causes</li>
 <li><strong>VH$ Holdings:</strong> 500+ tokens from sustained participation</li>
@@ -285,7 +268,6 @@ graph TD
 
 ### Corporate Sponsor
 <div class="feature-box">
-<h4>💰 Corporate Engagement</h4>
 <ul>
 <li><strong>VB$ Verification:</strong> Verifiable volunteer participation data</li>
 <li><strong>VH$ Investment:</strong> $10,000+ in volunteer hour purchases</li>
@@ -296,7 +278,6 @@ graph TD
 
 ### Organization Impact
 <div class="feature-box">
-<h4>🏢 NGO Success</h4>
 <ul>
 <li><strong>VB$ Issuance:</strong> 1,000+ badges issued to volunteers</li>
 <li><strong>VH$ Circulation:</strong> 50,000+ tokens in volunteer ecosystem</li>
@@ -311,7 +292,6 @@ graph TD
 
 ### Anti-Manipulation Measures
 <div class="feature-box">
-<h4>🛡️ Security Features</h4>
 <ul>
 <li><strong>Fraud Detection:</strong> AI-powered correlation anomaly detection</li>
 <li><strong>Audit Trails:</strong> Complete correlation history tracking</li>
@@ -322,7 +302,6 @@ graph TD
 
 ### Transparency Measures
 <div class="feature-box">
-<h4>🔍 Transparency Features</h4>
 <ul>
 <li><strong>Public Analytics:</strong> Open correlation data and insights</li>
 <li><strong>Real-Time Monitoring:</strong> Live correlation tracking and reporting</li>

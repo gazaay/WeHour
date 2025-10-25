@@ -13,7 +13,6 @@ VH$（WeHours代币）是为WeHour生态系统提供动力的实用代币，代�
 ## 🏗️ Token Specifications
 
 <div class="token-card">
-<h4>🪙 VH$ Technical Details</h4>
 <ul>
 <li><strong>Token Standard:</strong> ERC-20 compatible utility token</li>
 <li><strong>Token Name:</strong> WeHours Token</li>
@@ -38,7 +37,6 @@ VH$（WeHours代币）是为WeHour生态系统提供动力的实用代币，代�
 
 ### Role-Based Multipliers
 <div class="feature-box">
-<h4>👥 Standard Volunteers</h4>
 <ul>
 <li><strong>Multiplier:</strong> 1.0x (1 VH$ per hour)</li>
 <li><strong>Roles:</strong> General volunteers, participants</li>
@@ -48,7 +46,6 @@ VH$（WeHours代币）是为WeHour生态系统提供动力的实用代币，代�
 </div>
 
 <div class="feature-box">
-<h4>👨‍💼 Team Leaders</h4>
 <ul>
 <li><strong>Multiplier:</strong> 1.5x (1.5 VH$ per hour)</li>
 <li><strong>Roles:</strong> Team leaders, coordinators, supervisors</li>
@@ -58,7 +55,6 @@ VH$（WeHours代币）是为WeHour生态系统提供动力的实用代币，代�
 </div>
 
 <div class="feature-box">
-<h4>🎯 Event Coordinators</h4>
 <ul>
 <li><strong>Multiplier:</strong> 2.0x (2 VH$ per hour)</li>
 <li><strong>Roles:</strong> Event organizers, project managers</li>
@@ -68,7 +64,6 @@ VH$（WeHours代币）是为WeHour生态系统提供动力的实用代币，代�
 </div>
 
 <div class="feature-box">
-<h4>🔧 Specialized Skills</h4>
 <ul>
 <li><strong>Multiplier:</strong> 1.2x - 1.8x (varies by skill)</li>
 <li><strong>Roles:</strong> Medical, technical, legal, educational specialists</li>
@@ -83,7 +78,6 @@ VH$（WeHours代币）是为WeHour生态系统提供动力的实用代币，代�
 
 ### Reward Redemption
 <div class="feature-box">
-<h4>🛒 Retail Rewards</h4>
 <ul>
 <li><strong>Coupons:</strong> 10 VH$ = $1 retail coupon</li>
 <li><strong>Discounts:</strong> 5% discount per 50 VH$ spent</li>
@@ -93,7 +87,6 @@ VH$（WeHours代币）是为WeHour生态系统提供动力的实用代币，代�
 </div>
 
 <div class="feature-box">
-<h4>🍽️ Lifestyle Benefits</h4>
 <ul>
 <li><strong>Restaurants:</strong> Meal vouchers and dining credits</li>
 <li><strong>Entertainment:</strong> Movie tickets, event passes, experiences</li>
@@ -104,7 +97,6 @@ VH$（WeHours代币）是为WeHour生态系统提供动力的实用代币，代�
 
 ### Donation Power
 <div class="feature-box">
-<h4>💝 Direct Donations</h4>
 <ul>
 <li><strong>Cause Support:</strong> Direct donations to supported organizations</li>
 <li><strong>Emergency Relief:</strong> Rapid response to crisis situations</li>
@@ -114,7 +106,6 @@ VH$（WeHours代币）是为WeHour生态系统提供动力的实用代币，代�
 </div>
 
 <div class="feature-box">
-<h4>🤝 Matching Programs</h4>
 <ul>
 <li><strong>Sponsor Matching:</strong> Corporate sponsors match volunteer donations</li>
 <li><strong>Multiplier Effects:</strong> 2x or 3x matching for specific causes</li>
@@ -131,7 +122,6 @@ VH$（WeHours代币）是为WeHour生态系统提供动力的实用代币，代�
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin: 20px 0;">
 
 <div class="feature-box">
-<h4>🔗 Ethereum L2 (Primary)</h4>
 <ul>
 <li><strong>Network:</strong> Polygon, Arbitrum, Optimism</li>
 <li><strong>Gas Cost:</strong> $0.01 - $0.05 per transaction</li>
@@ -141,7 +131,6 @@ VH$（WeHours代币）是为WeHour生态系统提供动力的实用代币，代�
 </div>
 
 <div class="feature-box">
-<h4>🔗 BSC (Secondary)</h4>
 <ul>
 <li><strong>Network:</strong> Binance Smart Chain</li>
 <li><strong>Gas Cost:</strong> $0.001 - $0.01 per transaction</li>
@@ -151,7 +140,6 @@ VH$（WeHours代币）是为WeHour生态系统提供动力的实用代币，代�
 </div>
 
 <div class="feature-box">
-<h4>🔗 Future Networks</h4>
 <ul>
 <li><strong>Planned:</strong> Avalanche, Solana, Cardano</li>
 <li><strong>Benefits:</strong> Enhanced scalability and speed</li>
@@ -175,7 +163,6 @@ VH$（WeHours代币）是为WeHour生态系统提供动力的实用代币，代�
 
 ### Supply Dynamics
 <div class="feature-box">
-<h4>📈 Token Issuance</h4>
 <ul>
 <li><strong>Event-Based:</strong> Tokens issued after verified event completion</li>
 <li><strong>Hour-Based:</strong> 1 VH$ per verified volunteer hour</li>
@@ -185,7 +172,6 @@ VH$（WeHours代币）是为WeHour生态系统提供动力的实用代币，代�
 </div>
 
 <div class="feature-box">
-<h4>🔥 Token Sinks</h4>
 <ul>
 <li><strong>Reward Redemption:</strong> Tokens burned when redeeming rewards</li>
 <li><strong>Donation Processing:</strong> Tokens converted to donations</li>
@@ -196,7 +182,6 @@ VH$（WeHours代币）是为WeHour生态系统提供动力的实用代币，代�
 
 ### Demand Drivers
 <div class="feature-box">
-<h4>💰 Sponsor Demand</h4>
 <ul>
 <li><strong>CSR Programs:</strong> Corporate social responsibility initiatives</li>
 <li><strong>Brand Campaigns:</strong> Marketing and engagement programs</li>
@@ -206,7 +191,6 @@ VH$（WeHours代币）是为WeHour生态系统提供动力的实用代币，代�
 </div>
 
 <div class="feature-box">
-<h4>🛒 Retailer Demand</h4>
 <ul>
 <li><strong>Customer Acquisition:</strong> Attract socially conscious customers</li>
 <li><strong>Loyalty Programs:</strong> Enhanced customer retention</li>
@@ -221,7 +205,6 @@ VH$（WeHours代币）是为WeHour生态系统提供动力的实用代币，代�
 
 ### Anti-Fraud Measures
 <div class="feature-box">
-<h4>🛡️ Verification System</h4>
 <ul>
 <li><strong>Multi-Attestation:</strong> Multiple verifiers confirm participation</li>
 <li><strong>Time Validation:</strong> GPS and timestamp verification</li>
@@ -231,7 +214,6 @@ VH$（WeHours代币）是为WeHour生态系统提供动力的实用代币，代�
 </div>
 
 <div class="feature-box">
-<h4>🔍 Fraud Detection</h4>
 <ul>
 <li><strong>Anomaly Detection:</strong> AI-powered fraud prevention</li>
 <li><strong>Pattern Analysis:</strong> Identify suspicious activity patterns</li>
@@ -242,7 +224,6 @@ VH$（WeHours代币）是为WeHour生态系统提供动力的实用代币，代�
 
 ### Regulatory Compliance
 <div class="feature-box">
-<h4>⚖️ Legal Framework</h4>
 <ul>
 <li><strong>Token Classification:</strong> Utility token, not security</li>
 <li><strong>KYC/AML:</strong> Required for high-value users</li>
@@ -257,7 +238,6 @@ VH$（WeHours代币）是为WeHour生态系统提供动力的实用代币，代�
 
 ### Key Performance Indicators
 <div class="feature-box">
-<h4>📈 Circulation Metrics</h4>
 <ul>
 <li><strong>Total Supply:</strong> VH$ tokens in circulation</li>
 <li><strong>Issuance Rate:</strong> Tokens issued per day/week/month</li>
@@ -267,7 +247,6 @@ VH$（WeHours代币）是为WeHour生态系统提供动力的实用代币，代�
 </div>
 
 <div class="feature-box">
-<h4>💰 Value Metrics</h4>
 <ul>
 <li><strong>Redemption Rate:</strong> Tokens redeemed vs. held</li>
 <li><strong>Donation Rate:</strong> Tokens donated vs. redeemed</li>
@@ -288,7 +267,6 @@ VH$（WeHours代币）是为WeHour生态系统提供动力的实用代币，代�
 
 ### Planned Features
 <div class="feature-box">
-<h4>🤖 AI-Powered Optimization</h4>
 <ul>
 <li><strong>Dynamic Multipliers:</strong> AI-adjusted role multipliers</li>
 <li><strong>Quality Assessment:</strong> Automated performance evaluation</li>
@@ -298,7 +276,6 @@ VH$（WeHours代币）是为WeHour生态系统提供动力的实用代币，代�
 </div>
 
 <div class="feature-box">
-<h4>🌍 Global Expansion</h4>
 <ul>
 <li><strong>Multi-Currency:</strong> Support for local currencies</li>
 <li><strong>Regional Partners:</strong> Local retailer and sponsor networks</li>
@@ -319,7 +296,6 @@ VH$（WeHours代币）是为WeHour生态系统提供动力的实用代币，代�
 
 ### Volunteer Scenarios
 <div class="feature-box">
-<h4>👨‍🎓 Student Volunteer</h4>
 <ul>
 <li><strong>Activity:</strong> 4-hour community cleanup</li>
 <li><strong>Role:</strong> Standard volunteer (1.0x multiplier)</li>
@@ -329,7 +305,6 @@ VH$（WeHours代币）是为WeHour生态系统提供动力的实用代币，代�
 </div>
 
 <div class="feature-box">
-<h4>👨‍💼 Professional Volunteer</h4>
 <ul>
 <li><strong>Activity:</strong> 8-hour event coordination</li>
 <li><strong>Role:</strong> Event coordinator (2.0x multiplier)</li>
@@ -339,7 +314,6 @@ VH$（WeHours代币）是为WeHour生态系统提供动力的实用代币，代�
 </div>
 
 <div class="feature-box">
-<h4>🏥 Medical Volunteer</h4>
 <ul>
 <li><strong>Activity:</strong> 6-hour health screening</li>
 <li><strong>Role:</strong> Medical specialist (1.5x multiplier)</li>

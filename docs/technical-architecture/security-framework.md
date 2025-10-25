@@ -30,7 +30,6 @@ graph TD
 
 ### Multi-Factor Authentication
 <div class="feature-box">
-<h4>🔑 Authentication Features</h4>
 <ul>
 <li><strong>Social Login:</strong> Google, Facebook, Apple ID integration</li>
 <li><strong>Email/Password:</strong> Traditional authentication method</li>
@@ -41,7 +40,6 @@ graph TD
 
 ### Role-Based Access Control
 <div class="feature-box">
-<h4>👥 Access Management</h4>
 <ul>
 <li><strong>Volunteer Access:</strong> Basic platform access and features</li>
 <li><strong>Organization Access:</strong> Event management and volunteer tracking</li>
@@ -56,7 +54,6 @@ graph TD
 
 ### Encryption Standards
 <div class="feature-box">
-<h4>🔐 Data Encryption</h4>
 <ul>
 <li><strong>Data at Rest:</strong> AES-256 encryption for stored data</li>
 <li><strong>Data in Transit:</strong> TLS 1.3 encryption for data transmission</li>
@@ -67,7 +64,6 @@ graph TD
 
 ### Privacy Protection
 <div class="feature-box">
-<h4>🔒 Privacy Measures</h4>
 <ul>
 <li><strong>Data Minimization:</strong> Only necessary data collected and stored</li>
 <li><strong>Consent Management:</strong> Granular control over data sharing</li>
@@ -82,7 +78,6 @@ graph TD
 
 ### Multi-Attestation System
 <div class="feature-box">
-<h4>✅ Verification Security</h4>
 <ul>
 <li><strong>Multiple Verifiers:</strong> Independent confirmation of participation</li>
 <li><strong>Time Validation:</strong> GPS and timestamp verification</li>
@@ -93,7 +88,6 @@ graph TD
 
 ### AI-Powered Fraud Detection
 <div class="feature-box">
-<h4>🤖 Fraud Detection</h4>
 <ul>
 <li><strong>Anomaly Detection:</strong> AI-powered fraud pattern recognition</li>
 <li><strong>Behavioral Analysis:</strong> User behavior pattern analysis</li>
@@ -108,7 +102,6 @@ graph TD
 
 ### Smart Contract Security
 <div class="feature-box">
-<h4>📝 Contract Security</h4>
 <ul>
 <li><strong>Code Audits:</strong> Professional security audits</li>
 <li><strong>Access Controls:</strong> Role-based contract access</li>
@@ -119,7 +112,6 @@ graph TD
 
 ### Transaction Security
 <div class="feature-box">
-<h4>🔐 Transaction Protection</h4>
 <ul>
 <li><strong>Digital Signatures:</strong> Cryptographic transaction signing</li>
 <li><strong>Nonce Protection:</strong> Prevent transaction replay attacks</li>
@@ -134,7 +126,6 @@ graph TD
 
 ### Infrastructure Security
 <div class="feature-box">
-<h4>🖥️ Infrastructure Protection</h4>
 <ul>
 <li><strong>DDoS Protection:</strong> Distributed denial of service protection</li>
 <li><strong>Firewall Security:</strong> Network firewall and intrusion detection</li>
@@ -145,7 +136,6 @@ graph TD
 
 ### API Security
 <div class="feature-box">
-<h4>🔌 API Protection</h4>
 <ul>
 <li><strong>Rate Limiting:</strong> API usage limits and throttling</li>
 <li><strong>Authentication:</strong> API key and token authentication</li>
@@ -160,7 +150,6 @@ graph TD
 
 ### Security Monitoring
 <div class="feature-box">
-<h4>📊 Monitoring Systems</h4>
 <ul>
 <li><strong>Real-Time Monitoring:</strong> Continuous security monitoring</li>
 <li><strong>Alert Systems:</strong> Automated security alerts</li>
@@ -171,7 +160,6 @@ graph TD
 
 ### Threat Detection
 <div class="feature-box">
-<h4>🚨 Threat Detection</h4>
 <ul>
 <li><strong>Intrusion Detection:</strong> Network intrusion detection</li>
 <li><strong>Malware Protection:</strong> Malware detection and prevention</li>
@@ -186,7 +174,6 @@ graph TD
 
 ### Response Framework
 <div class="feature-box">
-<h4>🚨 Incident Response</h4>
 <ul>
 <li><strong>Response Team:</strong> Dedicated security response team</li>
 <li><strong>Response Procedures:</strong> Standardized incident response procedures</li>
@@ -197,7 +184,6 @@ graph TD
 
 ### Recovery Procedures
 <div class="feature-box">
-<h4>🔄 Recovery Systems</h4>
 <ul>
 <li><strong>Backup Systems:</strong> Regular data backups and recovery</li>
 <li><strong>Disaster Recovery:</strong> Disaster recovery planning and testing</li>
@@ -212,7 +198,6 @@ graph TD
 
 ### Regulatory Compliance
 <div class="feature-box">
-<h4>⚖️ Compliance Framework</h4>
 <ul>
 <li><strong>GDPR Compliance:</strong> European data protection compliance</li>
 <li><strong>CCPA Compliance:</strong> California privacy law compliance</li>
@@ -223,7 +208,6 @@ graph TD
 
 ### Audit & Reporting
 <div class="feature-box">
-<h4>📋 Audit Systems</h4>
 <ul>
 <li><strong>Regular Audits:</strong> Regular security audits and assessments</li>
 <li><strong>Compliance Reporting:</strong> Regulatory compliance reporting</li>
@@ -238,7 +222,6 @@ graph TD
 
 ### Wallet Security
 <div class="feature-box">
-<h4>💼 Wallet Protection</h4>
 <ul>
 <li><strong>Custodial Wallets:</strong> Managed wallets for non-technical users</li>
 <li><strong>Hardware Support:</strong> Hardware wallet integration</li>
@@ -249,7 +232,6 @@ graph TD
 
 ### Account Security
 <div class="feature-box">
-<h4>👤 Account Protection</h4>
 <ul>
 <li><strong>Password Security:</strong> Strong password requirements</li>
 <li><strong>Session Management:</strong> Secure session management</li>
@@ -264,7 +246,6 @@ graph TD
 
 ### Advanced Security Features
 <div class="feature-box">
-<h4>🚀 Planned Features</h4>
 <ul>
 <li><strong>AI Security:</strong> AI-powered security monitoring</li>
 <li><strong>Quantum Security:</strong> Quantum-resistant cryptography</li>
@@ -275,7 +256,6 @@ graph TD
 
 ### Security Innovation
 <div class="feature-box">
-<h4>💡 Innovation Areas</h4>
 <ul>
 <li><strong>Blockchain Security:</strong> Advanced blockchain security measures</li>
 <li><strong>Privacy Technology:</strong> Enhanced privacy protection</li>
@@ -290,7 +270,6 @@ graph TD
 
 ### Volunteer Security
 <div class="feature-box">
-<h4>👥 Volunteer Protection</h4>
 <ul>
 <li><strong>Data Privacy:</strong> Personal data protection</li>
 <li><strong>Account Security:</strong> Secure account management</li>
@@ -301,7 +280,6 @@ graph TD
 
 ### Organization Security
 <div class="feature-box">
-<h4>🏢 Organization Protection</h4>
 <ul>
 <li><strong>Data Security:</strong> Organization data protection</li>
 <li><strong>Access Control:</strong> Role-based access management</li>
@@ -312,7 +290,6 @@ graph TD
 
 ### Platform Security
 <div class="feature-box">
-<h4>🖥️ Platform Protection</h4>
 <ul>
 <li><strong>System Security:</strong> Platform system protection</li>
 <li><strong>Network Security:</strong> Network infrastructure protection</li>
@@ -327,7 +304,6 @@ graph TD
 
 ### Security KPIs
 <div class="feature-box">
-<h4>📈 Security Metrics</h4>
 <ul>
 <li><strong>Security Incidents:</strong> Number and severity of security incidents</li>
 <li><strong>Response Time:</strong> Average incident response time</li>
@@ -348,7 +324,6 @@ graph TD
 
 ### User Best Practices
 <div class="feature-box">
-<h4>👤 User Guidelines</h4>
 <ul>
 <li><strong>Strong Passwords:</strong> Use strong, unique passwords</li>
 <li><strong>2FA Enablement:</strong> Enable two-factor authentication</li>
@@ -359,7 +334,6 @@ graph TD
 
 ### Organization Best Practices
 <div class="feature-box">
-<h4>🏢 Organization Guidelines</h4>
 <ul>
 <li><strong>Access Management:</strong> Proper access control management</li>
 <li><strong>Data Classification:</strong> Classify and protect data appropriately</li>

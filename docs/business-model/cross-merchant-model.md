@@ -54,8 +54,6 @@ graph TD
 ### 积分获取阶段
 
 <div class="feature-box">
-<h4>📊 Point Sources</h4>
-<h4>积分来源</h4>
 <ul>
 <li><strong>Merchant A Points:</strong> Users earn points from Merchant A through purchases</li>
 <li><strong>Merchant B Points:</strong> Users earn points from Merchant B through purchases</li>
@@ -74,8 +72,6 @@ graph TD
 ### 使用选择阶段
 
 <div class="feature-box">
-<h4>🎯 User Choices</h4>
-<h4>用户选择</h4>
 <ul>
 <li><strong>Direct Usage:</strong> Use points/hours directly within original ecosystem</li>
 <li><strong>Stable Coin Conversion:</strong> Convert points/hours to stable coins for flexibility</li>
@@ -94,8 +90,6 @@ graph TD
 ### 跨商家消费阶段
 
 <div class="feature-box">
-<h4>🛒 Cross-Merchant Benefits</h4>
-<h4>跨商家优势</h4>
 <ul>
 <li><strong>Universal Spending:</strong> Use stable coins across any participating merchant</li>
 <li><strong>Value Preservation:</strong> Maintain value across different merchant ecosystems</li>
@@ -147,8 +141,6 @@ graph LR
 ### 转换费用
 
 <div class="feature-box">
-<h4>💳 Fee Structure</h4>
-<h4>费用结构</h4>
 <ul>
 <li><strong>Point to Stable Coin:</strong> 2-5% conversion fee</li>
 <li><strong>Volunteer Hours to Stable Coin:</strong> 1-3% conversion fee</li>
@@ -167,8 +159,6 @@ graph LR
 ### 流动性池收入
 
 <div class="feature-box">
-<h4>🏦 Pool Management</h4>
-<h4>池管理</h4>
 <ul>
 <li><strong>Liquidity Provision:</strong> Revenue from providing liquidity for conversions</li>
 <li><strong>Interest Generation:</strong> Interest earned on stable coin reserves</li>
@@ -239,8 +229,6 @@ graph TB
 ### 商家入驻
 
 <div class="feature-box">
-<h4>📋 Onboarding Process</h4>
-<h4>入驻流程</h4>
 <ul>
 <li><strong>Application Review:</strong> Comprehensive merchant application review</li>
 <li><strong>Technical Integration:</strong> API integration and testing</li>
@@ -259,8 +247,6 @@ graph TB
 ### 商家优势
 
 <div class="feature-box">
-<h4>💼 Value Proposition</h4>
-<h4>价值主张</h4>
 <ul>
 <li><strong>Customer Acquisition:</strong> Access to cross-merchant customer base</li>
 <li><strong>Revenue Growth:</strong> Increased transaction volume and revenue</li>
@@ -284,8 +270,6 @@ graph TB
 ### 无缝整合
 
 <div class="feature-box">
-<h4>🔄 User Journey</h4>
-<h4>用户旅程</h4>
 <ul>
 <li><strong>Point Earning:</strong> Earn points from various sources</li>
 <li><strong>Conversion Decision:</strong> Choose to convert to stable coins</li>
@@ -304,8 +288,6 @@ graph TB
 ### 移动应用功能
 
 <div class="feature-box">
-<h4>📱 App Capabilities</h4>
-<h4>应用功能</h4>
 <ul>
 <li><strong>Point Tracking:</strong> Track points from all sources</li>
 <li><strong>Conversion Tools:</strong> Easy conversion to stable coins</li>
@@ -329,8 +311,6 @@ graph TB
 ### 关键绩效指标
 
 <div class="feature-box">
-<h4>📈 Success Metrics</h4>
-<h4>成功指标</h4>
 <ul>
 <li><strong>Conversion Rate:</strong> Percentage of points/hours converted to stable coins</li>
 <li><strong>Cross-Merchant Usage:</strong> Usage of stable coins across merchants</li>
@@ -349,8 +329,6 @@ graph TB
 ### 收入预测
 
 <div class="feature-box">
-<h4>💰 Revenue Forecast</h4>
-<h4>收入预测</h4>
 <ul>
 <li><strong>Year 1:</strong> HKD 5-10M from conversion fees</li>
 <li><strong>Year 2:</strong> HKD 15-25M from network effects</li>
@@ -374,8 +352,6 @@ graph TB
 ### 技术演进
 
 <div class="feature-box">
-<h4>🚀 Innovation Areas</h4>
-<h4>创新领域</h4>
 <ul>
 <li><strong>AI-Powered Optimization:</strong> AI-driven conversion recommendations</li>
 <li><strong>Predictive Analytics:</strong> Predictive spending behavior analysis</li>
@@ -394,8 +370,6 @@ graph TB
 ### 市场扩张
 
 <div class="feature-box">
-<h4>🌍 Expansion Strategy</h4>
-<h4>扩张策略</h4>
 <ul>
 <li><strong>Regional Growth:</strong> Expand to Macau, Singapore, Taiwan</li>
 <li><strong>Industry Diversification:</strong> Enter new industry verticals</li>

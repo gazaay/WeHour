@@ -12,7 +12,6 @@ WeHour creates unprecedented value by transforming volunteer service from an inv
 ### 👥 For Volunteers
 
 <div class="feature-box">
-<h4>🌟 Recognition & Credibility</h4>
 <ul>
 <li><strong>Portable Credentials:</strong> Service records follow you across organizations and borders</li>
 <li><strong>Employer Verification:</strong> Prove volunteer experience to potential employers</li>
@@ -22,7 +21,6 @@ WeHour creates unprecedented value by transforming volunteer service from an inv
 </div>
 
 <div class="feature-box">
-<h4>💰 Real Rewards & Value</h4>
 <ul>
 <li><strong>Tangible Benefits:</strong> Convert volunteer hours into coupons, discounts, and rewards</li>
 <li><strong>Donation Power:</strong> Direct your earned tokens to causes you care about</li>
@@ -32,7 +30,6 @@ WeHour creates unprecedented value by transforming volunteer service from an inv
 </div>
 
 <div class="feature-box">
-<h4>🚀 Enhanced Experience</h4>
 <ul>
 <li><strong>Zero-Crypto UX:</strong> Traditional app experience with blockchain benefits</li>
 <li><strong>Seamless Integration:</strong> Works with existing volunteer management systems</li>
@@ -44,7 +41,6 @@ WeHour creates unprecedented value by transforming volunteer service from an inv
 ### 🏢 For Organizations (NGOs)
 
 <div class="feature-box">
-<h4>📊 Operational Efficiency</h4>
 <ul>
 <li><strong>Automated Tracking:</strong> Reduce administrative burden by 80%</li>
 <li><strong>Real-Time Analytics:</strong> Instant insights into volunteer engagement and impact</li>
@@ -54,7 +50,6 @@ WeHour creates unprecedented value by transforming volunteer service from an inv
 </div>
 
 <div class="feature-box">
-<h4>💰 Enhanced Funding</h4>
 <ul>
 <li><strong>Transparent Impact:</strong> Verifiable data attracts more sponsors and funders</li>
 <li><strong>CSR Partnerships:</strong> Direct connection with corporate social responsibility programs</li>
@@ -64,7 +59,6 @@ WeHour creates unprecedented value by transforming volunteer service from an inv
 </div>
 
 <div class="feature-box">
-<h4>👥 Volunteer Retention</h4>
 <ul>
 <li><strong>Recognition System:</strong> Volunteers feel valued and appreciated</li>
 <li><strong>Reward Incentives:</strong> Tangible benefits encourage continued participation</li>
@@ -76,7 +70,6 @@ WeHour creates unprecedented value by transforming volunteer service from an inv
 ### 💰 For Sponsors & Corporations
 
 <div class="feature-box">
-<h4>📈 Measurable Impact</h4>
 <ul>
 <li><strong>Verifiable Data:</strong> Transparent, auditable volunteer impact metrics</li>
 <li><strong>ROI Measurement:</strong> Clear return on social investment</li>
@@ -86,7 +79,6 @@ WeHour creates unprecedented value by transforming volunteer service from an inv
 </div>
 
 <div class="feature-box">
-<h4>🎯 Targeted Engagement</h4>
 <ul>
 <li><strong>Direct Connection:</strong> Engage directly with volunteer communities</li>
 <li><strong>Brand Campaigns:</strong> Create branded volunteer programs and initiatives</li>
@@ -96,7 +88,6 @@ WeHour creates unprecedented value by transforming volunteer service from an inv
 </div>
 
 <div class="feature-box">
-<h4>💼 Business Benefits</h4>
 <ul>
 <li><strong>Customer Acquisition:</strong> Attract customers who value social responsibility</li>
 <li><strong>Employee Retention:</strong> Engage employees through meaningful volunteer programs</li>
@@ -108,7 +99,6 @@ WeHour creates unprecedented value by transforming volunteer service from an inv
 ### 🏪 For Retailers & Partners
 
 <div class="feature-box">
-<h4>🛒 Customer Engagement</h4>
 <ul>
 <li><strong>Loyalty Programs:</strong> Integrate with existing customer loyalty systems</li>
 <li><strong>Social Impact:</strong> Attract customers who value social responsibility</li>
@@ -118,7 +108,6 @@ WeHour creates unprecedented value by transforming volunteer service from an inv
 </div>
 
 <div class="feature-box">
-<h4>📊 Business Growth</h4>
 <ul>
 <li><strong>Customer Acquisition:</strong> Reach new customers through volunteer networks</li>
 <li><strong>Retention Programs:</strong> Reward loyal customers with volunteer-earned benefits</li>
@@ -167,7 +156,6 @@ WeHour creates unprecedented value by transforming volunteer service from an inv
 
 ### vs. Traditional Volunteer Management
 <div class="feature-box">
-<h4>✅ WeHour Advantages</h4>
 <ul>
 <li><strong>Verification:</strong> Blockchain-verified vs. manual records</li>
 <li><strong>Portability:</strong> Cross-organization vs. siloed data</li>
@@ -178,7 +166,6 @@ WeHour creates unprecedented value by transforming volunteer service from an inv
 
 ### vs. Other Blockchain Projects
 <div class="feature-box">
-<h4>✅ WeHour Advantages</h4>
 <ul>
 <li><strong>Real Utility:</strong> Practical use cases vs. speculative tokens</li>
 <li><strong>User Experience:</strong> Zero-crypto UX vs. complex interfaces</li>
@@ -189,7 +176,6 @@ WeHour creates unprecedented value by transforming volunteer service from an inv
 
 ### vs. Point Systems & Loyalty Programs
 <div class="feature-box">
-<h4>✅ WeHour Advantages</h4>
 <ul>
 <li><strong>Social Impact:</strong> Meaningful contribution vs. commercial transactions</li>
 <li><strong>Verification:</strong> Multi-attestation vs. self-reported activities</li>

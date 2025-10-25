@@ -16,7 +16,6 @@ WeHour's cross-chain implementation enables VH$ and VB$ tokens to operate seamle
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
 
 <div class="feature-box">
-<h4>🔗 Ethereum L2 (Primary)</h4>
 <ul>
 <li><strong>Networks:</strong> Polygon, Arbitrum, Optimism</li>
 <li><strong>Gas Cost:</strong> $0.01 - $0.05 per transaction</li>
@@ -27,7 +26,6 @@ WeHour's cross-chain implementation enables VH$ and VB$ tokens to operate seamle
 </div>
 
 <div class="feature-box">
-<h4>🔗 BSC (Secondary)</h4>
 <ul>
 <li><strong>Network:</strong> Binance Smart Chain</li>
 <li><strong>Gas Cost:</strong> $0.001 - $0.01 per transaction</li>
@@ -38,7 +36,6 @@ WeHour's cross-chain implementation enables VH$ and VB$ tokens to operate seamle
 </div>
 
 <div class="feature-box">
-<h4>🔗 Future Networks</h4>
 <ul>
 <li><strong>Planned:</strong> Avalanche, Solana, Cardano</li>
 <li><strong>Benefits:</strong> Enhanced scalability and speed</li>
@@ -55,7 +52,6 @@ WeHour's cross-chain implementation enables VH$ and VB$ tokens to operate seamle
 
 ### Cross-Chain Bridges
 <div class="feature-box">
-<h4>🔗 Bridge Types</h4>
 <ul>
 <li><strong>Token Bridges:</strong> Secure VH$ transfers between networks</li>
 <li><strong>Credential Bridges:</strong> VB$ badge verification across chains</li>
@@ -66,7 +62,6 @@ WeHour's cross-chain implementation enables VH$ and VB$ tokens to operate seamle
 
 ### Bridge Security
 <div class="feature-box">
-<h4>🛡️ Security Measures</h4>
 <ul>
 <li><strong>Multi-Signature:</strong> Multiple signatures required for bridge operations</li>
 <li><strong>Time Locks:</strong> Delayed execution for large transfers</li>
@@ -81,7 +76,6 @@ WeHour's cross-chain implementation enables VH$ and VB$ tokens to operate seamle
 
 ### VH$ Cross-Chain Functionality
 <div class="feature-box">
-<h4>🪙 VH$ Multi-Chain Features</h4>
 <ul>
 <li><strong>Unified Supply:</strong> Total VH$ supply across all networks</li>
 <li><strong>Seamless Transfers:</strong> Move VH$ between networks instantly</li>
@@ -92,7 +86,6 @@ WeHour's cross-chain implementation enables VH$ and VB$ tokens to operate seamle
 
 ### VB$ Cross-Chain Functionality
 <div class="feature-box">
-<h4>🏆 VB$ Multi-Chain Features</h4>
 <ul>
 <li><strong>Credential Portability:</strong> VB$ badges recognized across all networks</li>
 <li><strong>Verification Consistency:</strong> Same verification process on all networks</li>
@@ -135,7 +128,6 @@ graph TD
 
 ### Gas Fee Management
 <div class="feature-box">
-<h4>⛽ Gas Optimization</h4>
 <ul>
 <li><strong>Network Selection:</strong> Automatic selection of lowest-cost network</li>
 <li><strong>Batch Operations:</strong> Group multiple transactions for efficiency</li>
@@ -146,7 +138,6 @@ graph TD
 
 ### Transaction Routing
 <div class="feature-box">
-<h4>🔄 Smart Routing</h4>
 <ul>
 <li><strong>Cost Analysis:</strong> Compare gas costs across networks</li>
 <li><strong>Speed Optimization:</strong> Balance cost vs. speed requirements</li>
@@ -161,7 +152,6 @@ graph TD
 
 ### Regional Network Optimization
 <div class="feature-box">
-<h4>🌏 Regional Features</h4>
 <ul>
 <li><strong>Asia-Pacific:</strong> BSC for cost efficiency, Ethereum L2 for premium</li>
 <li><strong>North America:</strong> Ethereum L2 for security, BSC for volume</li>
@@ -172,7 +162,6 @@ graph TD
 
 ### Localization Features
 <div class="feature-box">
-<h4>🌐 Localization</h4>
 <ul>
 <li><strong>Language Support:</strong> Multi-language interfaces</li>
 <li><strong>Currency Integration:</strong> Local currency conversion</li>
@@ -187,7 +176,6 @@ graph TD
 
 ### Cross-Chain Security
 <div class="feature-box">
-<h4>🛡️ Security Measures</h4>
 <ul>
 <li><strong>Multi-Signature Wallets:</strong> Enhanced security for cross-chain operations</li>
 <li><strong>Time-Locked Transfers:</strong> Delayed execution for large transfers</li>
@@ -198,7 +186,6 @@ graph TD
 
 ### Privacy Protection
 <div class="feature-box">
-<h4>🔒 Privacy Features</h4>
 <ul>
 <li><strong>Data Minimization:</strong> Only necessary data stored on each network</li>
 <li><strong>Encryption:</strong> Sensitive data encrypted across networks</li>
@@ -213,7 +200,6 @@ graph TD
 
 ### Network Performance Metrics
 <div class="feature-box">
-<h4>📈 Performance Tracking</h4>
 <ul>
 <li><strong>Transaction Volume:</strong> VH$ and VB$ transactions per network</li>
 <li><strong>Gas Costs:</strong> Average gas costs across networks</li>
@@ -224,7 +210,6 @@ graph TD
 
 ### Cross-Chain Analytics
 <div class="feature-box">
-<h4>🔍 Analytics Features</h4>
 <ul>
 <li><strong>Token Flow:</strong> VH$ and VB$ movement between networks</li>
 <li><strong>User Behavior:</strong> Cross-chain usage patterns</li>
@@ -239,7 +224,6 @@ graph TD
 
 ### Advanced Cross-Chain Features
 <div class="feature-box">
-<h4>🔮 Planned Features</h4>
 <ul>
 <li><strong>Atomic Swaps:</strong> Direct token exchanges between networks</li>
 <li><strong>Cross-Chain Staking:</strong> Stake tokens across multiple networks</li>
@@ -250,7 +234,6 @@ graph TD
 
 ### Network Expansion
 <div class="feature-box">
-<h4>🌍 Network Growth</h4>
 <ul>
 <li><strong>New Networks:</strong> Support for emerging blockchain networks</li>
 <li><strong>Specialized Networks:</strong> Purpose-built networks for specific use cases</li>
@@ -265,7 +248,6 @@ graph TD
 
 ### Global Volunteer
 <div class="feature-box">
-<h4>🌍 International Volunteer</h4>
 <ul>
 <li><strong>Hong Kong Event:</strong> Earns VB$ badge on Ethereum L2</li>
 <li><strong>Singapore Event:</strong> Earns VB$ badge on BSC</li>
@@ -276,7 +258,6 @@ graph TD
 
 ### Corporate Sponsor
 <div class="feature-box">
-<h4>💰 Multi-Network Sponsor</h4>
 <ul>
 <li><strong>Premium Campaigns:</strong> High-value campaigns on Ethereum L2</li>
 <li><strong>Mass Campaigns:</strong> High-volume campaigns on BSC</li>
@@ -287,7 +268,6 @@ graph TD
 
 ### Organization Impact
 <div class="feature-box">
-<h4>🏢 Multi-Network NGO</h4>
 <ul>
 <li><strong>Local Events:</strong> BSC for cost-efficient local events</li>
 <li><strong>International Events:</strong> Ethereum L2 for global recognition</li>
@@ -302,7 +282,6 @@ graph TD
 
 ### Smart Contract Architecture
 <div class="feature-box">
-<h4>📝 Contract Design</h4>
 <ul>
 <li><strong>Standardized Interfaces:</strong> Consistent contract interfaces across networks</li>
 <li><strong>Upgradeable Contracts:</strong> Ability to upgrade contracts without migration</li>
@@ -313,7 +292,6 @@ graph TD
 
 ### Bridge Implementation
 <div class="feature-box">
-<h4>🌉 Bridge Technology</h4>
 <ul>
 <li><strong>Lock-and-Mint:</strong> Lock tokens on source, mint on destination</li>
 <li><strong>Burn-and-Mint:</strong> Burn tokens on source, mint on destination</li>
@@ -328,7 +306,6 @@ graph TD
 
 ### Cross-Chain KPIs
 <div class="feature-box">
-<h4>📊 Key Metrics</h4>
 <ul>
 <li><strong>Cross-Chain Volume:</strong> Total VH$ and VB$ transfers between networks</li>
 <li><strong>Network Distribution:</strong> User and transaction distribution across networks</li>
@@ -349,7 +326,6 @@ graph TD
 
 ### Cross-Chain Security
 <div class="feature-box">
-<h4>🛡️ Security Features</h4>
 <ul>
 <li><strong>Multi-Signature:</strong> Multiple signatures for bridge operations</li>
 <li><strong>Time Locks:</strong> Delayed execution for large transfers</li>
@@ -360,7 +336,6 @@ graph TD
 
 ### Regulatory Compliance
 <div class="feature-box">
-<h4>⚖️ Compliance Features</h4>
 <ul>
 <li><strong>Cross-Border:</strong> International compliance standards</li>
 <li><strong>Token Classification:</strong> Clear utility token classification</li>

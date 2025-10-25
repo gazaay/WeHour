@@ -34,7 +34,6 @@ graph TD
 
 ### Core Features
 <div class="feature-box">
-<h4>🪙 VH$ Contract Specifications</h4>
 <ul>
 <li><strong>Standard:</strong> ERC-20 compatible utility token</li>
 <li><strong>Name:</strong> WeHours Token</li>
@@ -46,7 +45,6 @@ graph TD
 
 ### Key Functions
 <div class="feature-box">
-<h4>⚙️ VH$ Functions</h4>
 <ul>
 <li><strong>mint():</strong> Issue tokens for verified volunteer hours</li>
 <li><strong>burn():</strong> Destroy tokens when redeemed</li>
@@ -58,7 +56,6 @@ graph TD
 
 ### Security Features
 <div class="feature-box">
-<h4>🛡️ VH$ Security</h4>
 <ul>
 <li><strong>Access Control:</strong> Role-based minting permissions</li>
 <li><strong>Rate Limiting:</strong> Prevent excessive token issuance</li>
@@ -73,7 +70,6 @@ graph TD
 
 ### Core Features
 <div class="feature-box">
-<h4>🏆 VB$ Contract Specifications</h4>
 <ul>
 <li><strong>Standard:</strong> ERC-721 compatible Soulbound Token</li>
 <li><strong>Type:</strong> Non-fungible token (NFT)</li>
@@ -85,7 +81,6 @@ graph TD
 
 ### Key Functions
 <div class="feature-box">
-<h4>⚙️ VB$ Functions</h4>
 <ul>
 <li><strong>mintBadge():</strong> Issue badges for event participation</li>
 <li><strong>revokeBadge():</strong> Revoke badges for misconduct</li>
@@ -97,7 +92,6 @@ graph TD
 
 ### Soulbound Properties
 <div class="feature-box">
-<h4>🔒 Soulbound Features</h4>
 <ul>
 <li><strong>Non-Transferable:</strong> Tokens permanently bound to recipient</li>
 <li><strong>Identity Proof:</strong> Represents authentic participation</li>
@@ -112,7 +106,6 @@ graph TD
 
 ### Exchange Logic
 <div class="feature-box">
-<h4>🔄 Marketplace Functions</h4>
 <ul>
 <li><strong>createListing():</strong> Create reward listings</li>
 <li><strong>redeemReward():</strong> Redeem VH$ for rewards</li>
@@ -124,7 +117,6 @@ graph TD
 
 ### Reward Management
 <div class="feature-box">
-<h4>💰 Reward System</h4>
 <ul>
 <li><strong>Coupon Redemption:</strong> VH$ to coupon conversion</li>
 <li><strong>Donation Processing:</strong> VH$ to donation conversion</li>
@@ -139,7 +131,6 @@ graph TD
 
 ### Multi-Attestation System
 <div class="feature-box">
-<h4>🔍 Verification Functions</h4>
 <ul>
 <li><strong>attestParticipation():</strong> Record volunteer participation</li>
 <li><strong>verifyAttestation():</strong> Confirm attestation validity</li>
@@ -151,7 +142,6 @@ graph TD
 
 ### Verification Logic
 <div class="feature-box">
-<h4>✅ Verification Process</h4>
 <ul>
 <li><strong>Multi-Source:</strong> Multiple verifiers required</li>
 <li><strong>Time Validation:</strong> GPS and timestamp verification</li>
@@ -166,7 +156,6 @@ graph TD
 
 ### Voting System
 <div class="feature-box">
-<h4>🗳️ Governance Functions</h4>
 <ul>
 <li><strong>createProposal():</strong> Submit governance proposals</li>
 <li><strong>vote():</strong> Cast votes on proposals</li>
@@ -178,7 +167,6 @@ graph TD
 
 ### Governance Features
 <div class="feature-box">
-<h4>🏛️ Governance System</h4>
 <ul>
 <li><strong>Proposal Creation:</strong> Community-driven proposals</li>
 <li><strong>Voting Mechanism:</strong> Token-weighted voting</li>
@@ -193,7 +181,6 @@ graph TD
 
 ### Access Control
 <div class="feature-box">
-<h4>🔒 Access Management</h4>
 <ul>
 <li><strong>Role-Based Access:</strong> Different permissions for different roles</li>
 <li><strong>Multi-Signature:</strong> Multiple signatures for critical operations</li>
@@ -204,7 +191,6 @@ graph TD
 
 ### Fraud Prevention
 <div class="feature-box">
-<h4>🛡️ Anti-Fraud Measures</h4>
 <ul>
 <li><strong>Rate Limiting:</strong> Prevent excessive token issuance</li>
 <li><strong>Anomaly Detection:</strong> AI-powered fraud detection</li>
@@ -219,7 +205,6 @@ graph TD
 
 ### Inter-Contract Communication
 <div class="feature-box">
-<h4>🔗 Contract Integration</h4>
 <ul>
 <li><strong>Token Issuance:</strong> VH$ and VB$ coordinated issuance</li>
 <li><strong>Verification Flow:</strong> Verification triggers token issuance</li>
@@ -230,7 +215,6 @@ graph TD
 
 ### Event Synchronization
 <div class="feature-box">
-<h4>📡 Event System</h4>
 <ul>
 <li><strong>Token Events:</strong> Mint, burn, and transfer events</li>
 <li><strong>Verification Events:</strong> Attestation and verification events</li>
@@ -245,7 +229,6 @@ graph TD
 
 ### Performance Metrics
 <div class="feature-box">
-<h4>📈 Contract Metrics</h4>
 <ul>
 <li><strong>Transaction Volume:</strong> Contract interaction frequency</li>
 <li><strong>Gas Usage:</strong> Gas consumption optimization</li>
@@ -256,7 +239,6 @@ graph TD
 
 ### Health Monitoring
 <div class="feature-box">
-<h4>🔍 Health Tracking</h4>
 <ul>
 <li><strong>Contract State:</strong> Real-time contract state monitoring</li>
 <li><strong>Error Tracking:</strong> Contract error detection and logging</li>
@@ -271,7 +253,6 @@ graph TD
 
 ### Upgradeability
 <div class="feature-box">
-<h4>🔄 Upgrade System</h4>
 <ul>
 <li><strong>Proxy Pattern:</strong> Upgradeable contract implementation</li>
 <li><strong>Version Control:</strong> Contract version management</li>
@@ -282,7 +263,6 @@ graph TD
 
 ### Governance Updates
 <div class="feature-box">
-<h4>🏛️ Community Updates</h4>
 <ul>
 <li><strong>Proposal System:</strong> Community-driven updates</li>
 <li><strong>Voting Mechanism:</strong> Token-holder voting</li>
@@ -297,7 +277,6 @@ graph TD
 
 ### Volunteer Scenarios
 <div class="feature-box">
-<h4>👨‍🎓 Student Volunteer</h4>
 <ul>
 <li><strong>Event Participation:</strong> VB$ badge minted for event</li>
 <li><strong>Hour Tracking:</strong> VH$ tokens issued for hours</li>
@@ -308,7 +287,6 @@ graph TD
 
 ### Organization Scenarios
 <div class="feature-box">
-<h4>🏢 NGO Operations</h4>
 <ul>
 <li><strong>Event Creation:</strong> Events created and managed</li>
 <li><strong>Volunteer Tracking:</strong> Volunteer participation tracked</li>
@@ -319,7 +297,6 @@ graph TD
 
 ### Sponsor Scenarios
 <div class="feature-box">
-<h4>💰 Corporate Engagement</h4>
 <ul>
 <li><strong>Campaign Creation:</strong> Branded volunteer campaigns</li>
 <li><strong>Impact Verification:</strong> Transparent impact measurement</li>
@@ -334,7 +311,6 @@ graph TD
 
 ### Advanced Features
 <div class="feature-box">
-<h4>🚀 Planned Features</h4>
 <ul>
 <li><strong>AI Integration:</strong> Machine learning for fraud detection</li>
 <li><strong>Cross-Chain Support:</strong> Multi-network contract deployment</li>
@@ -345,7 +321,6 @@ graph TD
 
 ### Innovation Areas
 <div class="feature-box">
-<h4>💡 Innovation Focus</h4>
 <ul>
 <li><strong>Gas Optimization:</strong> Reduced transaction costs</li>
 <li><strong>Performance Enhancement:</strong> Faster contract execution</li>
@@ -360,7 +335,6 @@ graph TD
 
 ### Security Measures
 <div class="feature-box">
-<h4>🛡️ Security Features</h4>
 <ul>
 <li><strong>Code Audits:</strong> Professional security audits</li>
 <li><strong>Access Controls:</strong> Role-based access management</li>
@@ -371,7 +345,6 @@ graph TD
 
 ### Compliance Features
 <div class="feature-box">
-<h4>⚖️ Compliance Measures</h4>
 <ul>
 <li><strong>Regulatory Alignment:</strong> Compliance with local regulations</li>
 <li><strong>Audit Trails:</strong> Complete transaction history</li>

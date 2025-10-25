@@ -16,7 +16,6 @@ WeHour's blockchain infrastructure is designed for global accessibility, cost ef
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
 
 <div class="feature-box">
-<h4>🔗 Ethereum L2 (Primary)</h4>
 <ul>
 <li><strong>Networks:</strong> Polygon, Arbitrum, Optimism</li>
 <li><strong>Gas Cost:</strong> $0.01 - $0.05 per transaction</li>
@@ -27,7 +26,6 @@ WeHour's blockchain infrastructure is designed for global accessibility, cost ef
 </div>
 
 <div class="feature-box">
-<h4>🔗 BSC (Secondary)</h4>
 <ul>
 <li><strong>Network:</strong> Binance Smart Chain</li>
 <li><strong>Gas Cost:</strong> $0.001 - $0.01 per transaction</li>
@@ -38,7 +36,6 @@ WeHour's blockchain infrastructure is designed for global accessibility, cost ef
 </div>
 
 <div class="feature-box">
-<h4>🔗 Future Networks</h4>
 <ul>
 <li><strong>Planned:</strong> Avalanche, Solana, Cardano</li>
 <li><strong>Benefits:</strong> Enhanced scalability and speed</li>
@@ -55,7 +52,6 @@ WeHour's blockchain infrastructure is designed for global accessibility, cost ef
 
 ### Bridge Architecture
 <div class="feature-box">
-<h4>🌉 Cross-Chain Bridges</h4>
 <ul>
 <li><strong>Token Bridges:</strong> Secure VH$ transfers between networks</li>
 <li><strong>Credential Bridges:</strong> VB$ badge verification across chains</li>
@@ -66,7 +62,6 @@ WeHour's blockchain infrastructure is designed for global accessibility, cost ef
 
 ### Bridge Security
 <div class="feature-box">
-<h4>🛡️ Security Measures</h4>
 <ul>
 <li><strong>Multi-Signature:</strong> Multiple signatures required for bridge operations</li>
 <li><strong>Time Locks:</strong> Delayed execution for large transfers</li>
@@ -81,7 +76,6 @@ WeHour's blockchain infrastructure is designed for global accessibility, cost ef
 
 ### VH$ Token Contract
 <div class="feature-box">
-<h4>🪙 VH$ Contract Features</h4>
 <ul>
 <li><strong>ERC-20 Standard:</strong> Compatible with all ERC-20 wallets</li>
 <li><strong>Mint Function:</strong> Issue tokens for verified volunteer hours</li>
@@ -93,7 +87,6 @@ WeHour's blockchain infrastructure is designed for global accessibility, cost ef
 
 ### VB$ Badge Contract
 <div class="feature-box">
-<h4>🏆 VB$ Contract Features</h4>
 <ul>
 <li><strong>ERC-721 Standard:</strong> Non-fungible token (NFT) standard</li>
 <li><strong>Soulbound Properties:</strong> Non-transferable credentials</li>
@@ -109,7 +102,6 @@ WeHour's blockchain infrastructure is designed for global accessibility, cost ef
 
 ### Security Measures
 <div class="feature-box">
-<h4>🛡️ Contract Security</h4>
 <ul>
 <li><strong>Code Audits:</strong> Professional security audits</li>
 <li><strong>Access Controls:</strong> Role-based access management</li>
@@ -120,7 +112,6 @@ WeHour's blockchain infrastructure is designed for global accessibility, cost ef
 
 ### Verification System
 <div class="feature-box">
-<h4>✅ Verification Contracts</h4>
 <ul>
 <li><strong>Multi-Attestation:</strong> Multiple verifier confirmation</li>
 <li><strong>Time Validation:</strong> GPS and timestamp verification</li>
@@ -135,7 +126,6 @@ WeHour's blockchain infrastructure is designed for global accessibility, cost ef
 
 ### Gas Management
 <div class="feature-box">
-<h4>⛽ Gas Optimization</h4>
 <ul>
 <li><strong>Batch Operations:</strong> Group multiple transactions</li>
 <li><strong>Gas Estimation:</strong> Real-time gas cost calculation</li>
@@ -146,7 +136,6 @@ WeHour's blockchain infrastructure is designed for global accessibility, cost ef
 
 ### Cost Optimization
 <div class="feature-box">
-<h4>💰 Cost Management</h4>
 <ul>
 <li><strong>L2 Solutions:</strong> Layer 2 for cost efficiency</li>
 <li><strong>Batch Minting:</strong> Bulk token issuance</li>
@@ -161,7 +150,6 @@ WeHour's blockchain infrastructure is designed for global accessibility, cost ef
 
 ### Automatic Routing
 <div class="feature-box">
-<h4>🔄 Smart Routing</h4>
 <ul>
 <li><strong>Cost Analysis:</strong> Compare gas costs across networks</li>
 <li><strong>Speed Optimization:</strong> Balance cost vs. speed</li>
@@ -172,7 +160,6 @@ WeHour's blockchain infrastructure is designed for global accessibility, cost ef
 
 ### Network Health Monitoring
 <div class="feature-box">
-<h4>📊 Network Monitoring</h4>
 <ul>
 <li><strong>Performance Metrics:</strong> Transaction speed and success rates</li>
 <li><strong>Cost Tracking:</strong> Gas fee trends and optimization</li>
@@ -187,7 +174,6 @@ WeHour's blockchain infrastructure is designed for global accessibility, cost ef
 
 ### Transaction Flow
 <div class="feature-box">
-<h4>📝 Transaction Process</h4>
 <ol>
 <li><strong>User Initiation:</strong> User initiates transaction</li>
 <li><strong>Network Selection:</strong> Optimal network chosen</li>
@@ -200,7 +186,6 @@ WeHour's blockchain infrastructure is designed for global accessibility, cost ef
 
 ### Batch Processing
 <div class="feature-box">
-<h4>📦 Batch Operations</h4>
 <ul>
 <li><strong>Token Issuance:</strong> Bulk VH$ and VB$ minting</li>
 <li><strong>Verification:</strong> Batch verification processing</li>
@@ -215,7 +200,6 @@ WeHour's blockchain infrastructure is designed for global accessibility, cost ef
 
 ### Regional Optimization
 <div class="feature-box">
-<h4>🌏 Regional Features</h4>
 <ul>
 <li><strong>Asia-Pacific:</strong> BSC for cost efficiency, Ethereum L2 for premium</li>
 <li><strong>North America:</strong> Ethereum L2 for security, BSC for volume</li>
@@ -226,7 +210,6 @@ WeHour's blockchain infrastructure is designed for global accessibility, cost ef
 
 ### Localization
 <div class="feature-box">
-<h4>🌐 Localization Features</h4>
 <ul>
 <li><strong>Language Support:</strong> Multi-language interfaces</li>
 <li><strong>Currency Integration:</strong> Local currency conversion</li>
@@ -241,7 +224,6 @@ WeHour's blockchain infrastructure is designed for global accessibility, cost ef
 
 ### Network Metrics
 <div class="feature-box">
-<h4>📈 Network Analytics</h4>
 <ul>
 <li><strong>Transaction Volume:</strong> VH$ and VB$ transactions per network</li>
 <li><strong>Gas Costs:</strong> Average gas costs across networks</li>
@@ -252,7 +234,6 @@ WeHour's blockchain infrastructure is designed for global accessibility, cost ef
 
 ### Performance Tracking
 <div class="feature-box">
-<h4>📊 Performance Metrics</h4>
 <ul>
 <li><strong>Throughput:</strong> Transactions per second</li>
 <li><strong>Latency:</strong> Transaction confirmation times</li>
@@ -267,7 +248,6 @@ WeHour's blockchain infrastructure is designed for global accessibility, cost ef
 
 ### Advanced Features
 <div class="feature-box">
-<h4>🚀 Planned Features</h4>
 <ul>
 <li><strong>Atomic Swaps:</strong> Direct token exchanges between networks</li>
 <li><strong>Cross-Chain Staking:</strong> Stake tokens across multiple networks</li>
@@ -278,7 +258,6 @@ WeHour's blockchain infrastructure is designed for global accessibility, cost ef
 
 ### Network Expansion
 <div class="feature-box">
-<h4>🌍 Network Growth</h4>
 <ul>
 <li><strong>New Networks:</strong> Support for emerging blockchain networks</li>
 <li><strong>Specialized Networks:</strong> Purpose-built networks for specific use cases</li>
@@ -293,7 +272,6 @@ WeHour's blockchain infrastructure is designed for global accessibility, cost ef
 
 ### Global Volunteer
 <div class="feature-box">
-<h4>🌍 International Volunteer</h4>
 <ul>
 <li><strong>Hong Kong Event:</strong> Earns VB$ badge on Ethereum L2</li>
 <li><strong>Singapore Event:</strong> Earns VB$ badge on BSC</li>
@@ -304,7 +282,6 @@ WeHour's blockchain infrastructure is designed for global accessibility, cost ef
 
 ### Corporate Sponsor
 <div class="feature-box">
-<h4>💰 Multi-Network Sponsor</h4>
 <ul>
 <li><strong>Premium Campaigns:</strong> High-value campaigns on Ethereum L2</li>
 <li><strong>Mass Campaigns:</strong> High-volume campaigns on BSC</li>
@@ -319,7 +296,6 @@ WeHour's blockchain infrastructure is designed for global accessibility, cost ef
 
 ### Blockchain Security
 <div class="feature-box">
-<h4>🛡️ Security Features</h4>
 <ul>
 <li><strong>Immutable Records:</strong> Tamper-proof transaction history</li>
 <li><strong>Cryptographic Security:</strong> Advanced encryption and signatures</li>
@@ -330,7 +306,6 @@ WeHour's blockchain infrastructure is designed for global accessibility, cost ef
 
 ### Regulatory Compliance
 <div class="feature-box">
-<h4>⚖️ Compliance Features</h4>
 <ul>
 <li><strong>Token Classification:</strong> Clear utility token classification</li>
 <li><strong>KYC/AML:</strong> Required for high-value users</li>

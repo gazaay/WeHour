@@ -18,8 +18,6 @@
 ### 用户参与度
 
 <div class="feature-box">
-<h4>📈 Core Engagement Metrics</h4>
-<h4>核心参与度指标</h4>
 <ul>
 <li><strong>Monthly Active Users (MAU):</strong> Target 10,000+ by Year 1</li>
 <li><strong>Daily Active Users (DAU):</strong> Target 2,000+ by Year 1</li>
@@ -40,8 +38,6 @@
 ### 义工服务指标
 
 <div class="feature-box">
-<h4>⏰ Service Tracking</h4>
-<h4>服务追踪</h4>
 <ul>
 <li><strong>Total Volunteer Hours:</strong> 50,000+ hours by Year 1</li>
 <li><strong>Average Hours per User:</strong> 5+ hours per month</li>
@@ -67,8 +63,6 @@
 ### 收入产生
 
 <div class="feature-box">
-<h4>💳 Revenue KPIs</h4>
-<h4>收入KPI</h4>
 <ul>
 <li><strong>Monthly Recurring Revenue (MRR):</strong> HKD 500K+ by Year 1</li>
 <li><strong>Annual Recurring Revenue (ARR):</strong> HKD 6M+ by Year 1</li>
@@ -89,8 +83,6 @@
 ### 成本管理
 
 <div class="feature-box">
-<h4>📉 Cost Efficiency</h4>
-<h4>成本效率</h4>
 <ul>
 <li><strong>Customer Acquisition Cost (CAC):</strong> < HKD 100 per user</li>
 <li><strong>Customer Lifetime Value (CLV):</strong> > HKD 500 per user</li>
@@ -116,8 +108,6 @@
 ### 网络效应
 
 <div class="feature-box">
-<h4>🔗 Network Growth</h4>
-<h4>网络增长</h4>
 <ul>
 <li><strong>Partner Organizations:</strong> 100+ by Year 1</li>
 <li><strong>Merchant Integration:</strong> 50+ merchants by Year 1</li>
@@ -138,8 +128,6 @@
 ### 地理扩张
 
 <div class="feature-box">
-<h4>🌍 Regional Growth</h4>
-<h4>区域增长</h4>
 <ul>
 <li><strong>City Coverage:</strong> 5+ major cities by Year 1</li>
 <li><strong>International Markets:</strong> 2+ countries by Year 2</li>
@@ -165,8 +153,6 @@
 ### 服务质量
 
 <div class="feature-box">
-<h4>⭐ Quality Assurance</h4>
-<h4>质量保证</h4>
 <ul>
 <li><strong>Service Rating:</strong> 4.5+ stars average</li>
 <li><strong>Complaint Resolution:</strong> 95%+ resolved within 24 hours</li>
@@ -187,8 +173,6 @@
 ### 安全与合规
 
 <div class="feature-box">
-<h4>🛡️ Security Metrics</h4>
-<h4>安全指标</h4>
 <ul>
 <li><strong>Security Incidents:</strong> 0 major breaches</li>
 <li><strong>Compliance Score:</strong> 100% regulatory compliance</li>
@@ -214,8 +198,6 @@
 ### 第1年目标
 
 <div class="feature-box">
-<h4>🎯 Year 1 Milestones</h4>
-<h4>第1年里程碑</h4>
 <ul>
 <li><strong>Q1:</strong> 1,000 users, 5,000 volunteer hours</li>
 <li><strong>Q2:</strong> 3,000 users, 15,000 volunteer hours</li>
@@ -234,8 +216,6 @@
 ### 长期愿景
 
 <div class="feature-box">
-<h4>🚀 5-Year Goals</h4>
-<h4>5年目标</h4>
 <ul>
 <li><strong>Global Users:</strong> 1M+ users worldwide</li>
 <li><strong>Service Hours:</strong> 10M+ volunteer hours tracked</li>
@@ -261,8 +241,6 @@
 ### 数据收集
 
 <div class="feature-box">
-<h4>📋 Analytics Implementation</h4>
-<h4>分析实施</h4>
 <ul>
 <li><strong>Real-time Monitoring:</strong> Live dashboard updates</li>
 <li><strong>Automated Reporting:</strong> Daily, weekly, monthly reports</li>
@@ -283,8 +261,6 @@
 ### 性能优化
 
 <div class="feature-box">
-<h4>⚡ Continuous Improvement</h4>
-<h4>持续改进</h4>
 <ul>
 <li><strong>A/B Testing:</strong> Regular feature testing</li>
 <li><strong>Performance Monitoring:</strong> System optimization</li>

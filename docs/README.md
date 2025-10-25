@@ -55,7 +55,6 @@ WeHour通过引入全面的代币化系统来解决义工服务认可和价值�
 
 <div class="feature-box">
 <h4>For Volunteers</h4>
-<h4>对于义工</h4>
 <ul>
 <li>✅ Portable, verifiable service records</li>
 <li>✅ 可携带、可验证的服务记录</li>
@@ -68,7 +67,6 @@ WeHour通过引入全面的代币化系统来解决义工服务认可和价值�
 
 <div class="feature-box">
 <h4>For NGOs</h4>
-<h4>对于非政府组织</h4>
 <ul>
 <li>✅ Automated volunteer management</li>
 <li>✅ 自动化义工管理</li>
@@ -81,7 +79,6 @@ WeHour通过引入全面的代币化系统来解决义工服务认可和价值�
 
 <div class="feature-box">
 <h4>For Sponsors</h4>
-<h4>对于赞助商</h4>
 <ul>
 <li>✅ Verifiable CSR impact data</li>
 <li>✅ 可验证的企业社会责任影响数据</li>
@@ -139,8 +136,6 @@ WeHour通过引入全面的代币化系统来解决义工服务认可和价值�
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin: 20px 0;">
 
 <div class="feature-box">
-<h4>📋 Core Concepts</h4>
-<h4>📋 核心概念</h4>
 <p>Understanding the vision, problem, and solution</p>
 <p>了解愿景、问题和解决方案</p>
 <a href="core-concepts/vision-mission.md">Explore →</a>
@@ -148,8 +143,6 @@ WeHour通过引入全面的代币化系统来解决义工服务认可和价值�
 </div>
 
 <div class="feature-box">
-<h4>🪙 Tokenomics</h4>
-<h4>🪙 代币经济学</h4>
 <p>Deep dive into VH$ and VB$ token mechanics</p>
 <p>深入了解VH$和VB$代币机制</p>
 <a href="tokenomics/dual-token-model.md">Explore →</a>
@@ -157,8 +150,6 @@ WeHour通过引入全面的代币化系统来解决义工服务认可和价值�
 </div>
 
 <div class="feature-box">
-<h4>🏗️ Technical Architecture</h4>
-<h4>🏗️ 技术架构</h4>
 <p>Blockchain infrastructure and cross-chain design</p>
 <p>区块链基础设施和跨链设计</p>
 <a href="technical-architecture/system-overview.md">Explore →</a>
@@ -166,8 +157,6 @@ WeHour通过引入全面的代币化系统来解决义工服务认可和价值�
 </div>
 
 <div class="feature-box">
-<h4>💼 Business Model</h4>
-<h4>💼 商业模式</h4>
 <p>Revenue streams and market strategy</p>
 <p>收入流和市场策略</p>
 <a href="business-model/revenue-streams.md">Explore →</a>

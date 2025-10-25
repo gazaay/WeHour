@@ -18,8 +18,6 @@
 ### 代币流通
 
 <div class="feature-box">
-<h4>📊 Circulation Analytics</h4>
-<h4>流通分析</h4>
 <ul>
 <li><strong>Total Supply:</strong> 10,000,000 VH$ tokens</li>
 <li><strong>Circulating Supply:</strong> 6,000,000 VH$ (60%)</li>
@@ -40,8 +38,6 @@
 ### 代币效用
 
 <div class="feature-box">
-<h4>🔄 Usage Patterns</h4>
-<h4>使用模式</h4>
 <ul>
 <li><strong>Service Redemption:</strong> 70% of tokens used for rewards</li>
 <li><strong>Cross-Merchant Spending:</strong> 25% used for purchases</li>
@@ -62,8 +58,6 @@
 ### 价格稳定性
 
 <div class="feature-box">
-<h4>📈 Price Metrics</h4>
-<h4>价格指标</h4>
 <ul>
 <li><strong>Current Price:</strong> HKD 1.00 per VH$</li>
 <li><strong>Price Stability:</strong> ±2% monthly volatility</li>
@@ -89,8 +83,6 @@
 ### 成就分配
 
 <div class="feature-box">
-<h4>🎖️ Badge Analytics</h4>
-<h4>徽章分析</h4>
 <ul>
 <li><strong>Total Badges Issued:</strong> 25,000+ badges</li>
 <li><strong>Active Badge Holders:</strong> 8,000+ users</li>
@@ -111,8 +103,6 @@
 ### 徽章类别
 
 <div class="feature-box">
-<h4>📊 Category Distribution</h4>
-<h4>类别分布</h4>
 <ul>
 <li><strong>Service Hours:</strong> 40% of all badges</li>
 <li><strong>Skill Development:</strong> 25% of all badges</li>
@@ -133,8 +123,6 @@
 ### 徽章价值
 
 <div class="feature-box">
-<h4>💎 Value Metrics</h4>
-<h4>价值指标</h4>
 <ul>
 <li><strong>Base Badge Value:</strong> HKD 10-50 per badge</li>
 <li><strong>Rare Badge Value:</strong> HKD 100-500 per badge</li>
@@ -160,8 +148,6 @@
 ### 供需关系
 
 <div class="feature-box">
-<h4>⚖️ Economic Balance</h4>
-<h4>经济平衡</h4>
 <ul>
 <li><strong>Token Velocity:</strong> 2.5x monthly turnover</li>
 <li><strong>Demand Growth:</strong> 20%+ monthly increase</li>
@@ -182,8 +168,6 @@
 ### 激励机制
 
 <div class="feature-box">
-<h4>🎯 Incentive Analytics</h4>
-<h4>激励分析</h4>
 <ul>
 <li><strong>Staking Rewards:</strong> 8%+ annual yield</li>
 <li><strong>Referral Bonuses:</strong> 10%+ of new user value</li>
@@ -209,8 +193,6 @@
 ### 交易所性能
 
 <div class="feature-box">
-<h4>💹 Trading Analytics</h4>
-<h4>交易分析</h4>
 <ul>
 <li><strong>Daily Trading Volume:</strong> HKD 100K+ daily</li>
 <li><strong>Exchange Listings:</strong> 3+ major exchanges</li>
@@ -231,8 +213,6 @@
 ### 市场动态
 
 <div class="feature-box">
-<h4>📈 Market Metrics</h4>
-<h4>市场指标</h4>
 <ul>
 <li><strong>Bid-Ask Spread:</strong> <1% average spread</li>
 <li><strong>Market Depth:</strong> 20%+ of supply available</li>
@@ -258,8 +238,6 @@
 ### 代币流动分析
 
 <div class="feature-box">
-<h4>🌊 Flow Metrics</h4>
-<h4>流动指标</h4>
 <ul>
 <li><strong>Inflow Sources:</strong> 60% service rewards, 25% purchases, 15% other</li>
 <li><strong>Outflow Destinations:</strong> 45% redemptions, 30% trading, 25% staking</li>
@@ -280,8 +258,6 @@
 ### 风险指标
 
 <div class="feature-box">
-<h4>⚠️ Risk Assessment</h4>
-<h4>风险评估</h4>
 <ul>
 <li><strong>Concentration Risk:</strong> <10% held by top 10 holders</li>
 <li><strong>Liquidity Risk:</strong> 15%+ of supply in active trading</li>
@@ -307,8 +283,6 @@
 ### 增长轨迹
 
 <div class="feature-box">
-<h4>🚀 Growth Metrics</h4>
-<h4>增长指标</h4>
 <ul>
 <li><strong>Token Adoption Rate:</strong> 25%+ monthly growth</li>
 <li><strong>User Acquisition:</strong> 1,000+ new users monthly</li>
@@ -329,8 +303,6 @@
 ### 未来预测
 
 <div class="feature-box">
-<h4>🔮 5-Year Projections</h4>
-<h4>5年预测</h4>
 <ul>
 <li><strong>Total Token Supply:</strong> 50M+ VH$ tokens</li>
 <li><strong>Market Cap:</strong> HKD 100M+ total value</li>

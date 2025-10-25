@@ -25,7 +25,6 @@ WeHour implements a comprehensive risk management framework that identifies, ass
 
 ### Blockchain Technology Risks
 <div class="feature-box">
-<h4>🔗 Blockchain Risks</h4>
 <ul>
 <li><strong>Smart Contract Risks:</strong> Smart contract bugs and vulnerabilities</li>
 <li><strong>Network Risks:</strong> Blockchain network congestion and failures</li>
@@ -36,7 +35,6 @@ WeHour implements a comprehensive risk management framework that identifies, ass
 
 ### Platform Technology Risks
 <div class="feature-box">
-<h4>🖥️ Platform Risks</h4>
 <ul>
 <li><strong>Performance Risks:</strong> Platform performance and reliability issues</li>
 <li><strong>Security Risks:</strong> Platform security vulnerabilities and breaches</li>
@@ -47,7 +45,6 @@ WeHour implements a comprehensive risk management framework that identifies, ass
 
 ### Risk Mitigation Strategies
 <div class="feature-box">
-<h4>🛡️ Mitigation Strategies</h4>
 <ul>
 <li><strong>Code Audits:</strong> Professional security audits and testing</li>
 <li><strong>Backup Systems:</strong> Comprehensive backup and recovery systems</li>
@@ -62,7 +59,6 @@ WeHour implements a comprehensive risk management framework that identifies, ass
 
 ### Market Risks
 <div class="feature-box">
-<h4>📈 Market Risks</h4>
 <ul>
 <li><strong>Competition:</strong> Competitive threats and market disruption</li>
 <li><strong>Market Changes:</strong> Market demand and preference changes</li>
@@ -73,7 +69,7 @@ WeHour implements a comprehensive risk management framework that identifies, ass
 
 ### Financial Risks
 <div class="feature-box">
-<h4>💰 Financial Risks</h4>
+
 <ul>
 <li><strong>Funding Risks:</strong> Funding availability and investor confidence</li>
 <li><strong>Revenue Risks:</strong> Revenue generation and sustainability</li>
@@ -84,7 +80,6 @@ WeHour implements a comprehensive risk management framework that identifies, ass
 
 ### Risk Mitigation Strategies
 <div class="feature-box">
-<h4>🛡️ Mitigation Strategies</h4>
 <ul>
 <li><strong>Market Research:</strong> Continuous market research and analysis</li>
 <li><strong>Financial Planning:</strong> Comprehensive financial planning and management</li>
@@ -99,7 +94,6 @@ WeHour implements a comprehensive risk management framework that identifies, ass
 
 ### Team Risks
 <div class="feature-box">
-<h4>👥 Team Risks</h4>
 <ul>
 <li><strong>Key Person Risks:</strong> Dependence on key personnel</li>
 <li><strong>Recruitment Risks:</strong> Talent acquisition and retention</li>
@@ -110,7 +104,6 @@ WeHour implements a comprehensive risk management framework that identifies, ass
 
 ### Process Risks
 <div class="feature-box">
-<h4>📋 Process Risks</h4>
 <ul>
 <li><strong>Operational Risks:</strong> Operational process failures and inefficiencies</li>
 <li><strong>Quality Risks:</strong> Quality control and assurance issues</li>
@@ -121,7 +114,6 @@ WeHour implements a comprehensive risk management framework that identifies, ass
 
 ### Risk Mitigation Strategies
 <div class="feature-box">
-<h4>🛡️ Mitigation Strategies</h4>
 <ul>
 <li><strong>Team Building:</strong> Strong team building and retention</li>
 <li><strong>Process Improvement:</strong> Continuous process improvement</li>
@@ -136,7 +128,6 @@ WeHour implements a comprehensive risk management framework that identifies, ass
 
 ### Competitive Risks
 <div class="feature-box">
-<h4>🏆 Competitive Risks</h4>
 <ul>
 <li><strong>New Entrants:</strong> New competitors and market entrants</li>
 <li><strong>Technology Disruption:</strong> Technology disruption and innovation</li>
@@ -147,7 +138,6 @@ WeHour implements a comprehensive risk management framework that identifies, ass
 
 ### Regulatory Risks
 <div class="feature-box">
-<h4>⚖️ Regulatory Risks</h4>
 <ul>
 <li><strong>Policy Changes:</strong> Government policy and regulation changes</li>
 <li><strong>Compliance Requirements:</strong> New compliance requirements and standards</li>
@@ -158,7 +148,6 @@ WeHour implements a comprehensive risk management framework that identifies, ass
 
 ### Risk Mitigation Strategies
 <div class="feature-box">
-<h4>🛡️ Mitigation Strategies</h4>
 <ul>
 <li><strong>Competitive Analysis:</strong> Continuous competitive analysis and monitoring</li>
 <li><strong>Regulatory Monitoring:</strong> Regulatory monitoring and compliance</li>
@@ -173,7 +162,6 @@ WeHour implements a comprehensive risk management framework that identifies, ass
 
 ### Cybersecurity Risks
 <div class="feature-box">
-<h4>🔐 Security Risks</h4>
 <ul>
 <li><strong>Data Breaches:</strong> Data breaches and information security</li>
 <li><strong>Cyber Attacks:</strong> Cyber attacks and malicious activities</li>
@@ -184,7 +172,6 @@ WeHour implements a comprehensive risk management framework that identifies, ass
 
 ### Fraud Risks
 <div class="feature-box">
-<h4>🚨 Fraud Risks</h4>
 <ul>
 <li><strong>Identity Fraud:</strong> Identity fraud and impersonation</li>
 <li><strong>Transaction Fraud:</strong> Transaction fraud and manipulation</li>
@@ -195,7 +182,6 @@ WeHour implements a comprehensive risk management framework that identifies, ass
 
 ### Risk Mitigation Strategies
 <div class="feature-box">
-<h4>🛡️ Mitigation Strategies</h4>
 <ul>
 <li><strong>Security Measures:</strong> Comprehensive security measures and controls</li>
 <li><strong>Fraud Detection:</strong> Advanced fraud detection and prevention</li>
@@ -210,7 +196,6 @@ WeHour implements a comprehensive risk management framework that identifies, ass
 
 ### Risk Identification
 <div class="feature-box">
-<h4>🔍 Risk Identification</h4>
 <ul>
 <li><strong>Risk Mapping:</strong> Comprehensive risk mapping and identification</li>
 <li><strong>Stakeholder Analysis:</strong> Stakeholder risk analysis and assessment</li>
@@ -221,7 +206,6 @@ WeHour implements a comprehensive risk management framework that identifies, ass
 
 ### Risk Assessment
 <div class="feature-box">
-<h4>📊 Risk Assessment</h4>
 <ul>
 <li><strong>Probability Assessment:</strong> Risk probability assessment and analysis</li>
 <li><strong>Impact Assessment:</strong> Risk impact assessment and evaluation</li>
@@ -232,7 +216,6 @@ WeHour implements a comprehensive risk management framework that identifies, ass
 
 ### Risk Monitoring
 <div class="feature-box">
-<h4>📈 Risk Monitoring</h4>
 <ul>
 <li><strong>Key Risk Indicators:</strong> Key risk indicators and metrics</li>
 <li><strong>Risk Dashboards:</strong> Risk dashboards and reporting</li>
@@ -247,7 +230,6 @@ WeHour implements a comprehensive risk management framework that identifies, ass
 
 ### Risk Avoidance
 <div class="feature-box">
-<h4>🚫 Avoidance Strategies</h4>
 <ul>
 <li><strong>Risk Elimination:</strong> Eliminate risks where possible</li>
 <li><strong>Alternative Approaches:</strong> Alternative approaches and solutions</li>
@@ -258,7 +240,6 @@ WeHour implements a comprehensive risk management framework that identifies, ass
 
 ### Risk Mitigation
 <div class="feature-box">
-<h4>🛡️ Mitigation Strategies</h4>
 <ul>
 <li><strong>Risk Reduction:</strong> Reduce risk probability and impact</li>
 <li><strong>Control Measures:</strong> Implement control measures and safeguards</li>
@@ -269,7 +250,6 @@ WeHour implements a comprehensive risk management framework that identifies, ass
 
 ### Risk Transfer
 <div class="feature-box">
-<h4>🔄 Transfer Strategies</h4>
 <ul>
 <li><strong>Insurance:</strong> Insurance coverage and protection</li>
 <li><strong>Outsourcing:</strong> Outsourcing and third-party services</li>
@@ -280,7 +260,6 @@ WeHour implements a comprehensive risk management framework that identifies, ass
 
 ### Risk Acceptance
 <div class="feature-box">
-<h4>✅ Acceptance Strategies</h4>
 <ul>
 <li><strong>Risk Tolerance:</strong> Risk tolerance and acceptance levels</li>
 <li><strong>Contingency Planning:</strong> Contingency planning and reserves</li>
@@ -295,7 +274,6 @@ WeHour implements a comprehensive risk management framework that identifies, ass
 
 ### Key Risk Indicators
 <div class="feature-box">
-<h4>📊 Risk KPIs</h4>
 <ul>
 <li><strong>Risk Incidents:</strong> Number and severity of risk incidents</li>
 <li><strong>Risk Mitigation:</strong> Risk mitigation effectiveness and success</li>
@@ -306,7 +284,6 @@ WeHour implements a comprehensive risk management framework that identifies, ass
 
 ### Risk Management Performance
 <div class="feature-box">
-<h4>📈 Performance Metrics</h4>
 <ul>
 <li><strong>Risk Reduction:</strong> Risk reduction and improvement</li>
 <li><strong>Cost Management:</strong> Risk management cost and efficiency</li>
@@ -321,7 +298,6 @@ WeHour implements a comprehensive risk management framework that identifies, ass
 
 ### Emerging Risks
 <div class="feature-box">
-<h4>🔮 Future Risks</h4>
 <ul>
 <li><strong>Technology Risks:</strong> Emerging technology risks and challenges</li>
 <li><strong>Market Risks:</strong> New market risks and opportunities</li>
@@ -332,7 +308,6 @@ WeHour implements a comprehensive risk management framework that identifies, ass
 
 ### Risk Management Innovation
 <div class="feature-box">
-<h4>💡 Innovation Areas</h4>
 <ul>
 <li><strong>AI Risk Management:</strong> AI-powered risk management and prediction</li>
 <li><strong>Advanced Analytics:</strong> Advanced risk analytics and insights</li>
@@ -347,7 +322,6 @@ WeHour implements a comprehensive risk management framework that identifies, ass
 
 ### Technical Risk Scenarios
 <div class="feature-box">
-<h4>🔧 Technical Use Cases</h4>
 <ul>
 <li><strong>Smart Contract Risks:</strong> Smart contract bug and vulnerability management</li>
 <li><strong>Platform Risks:</strong> Platform performance and reliability management</li>
@@ -358,7 +332,6 @@ WeHour implements a comprehensive risk management framework that identifies, ass
 
 ### Business Risk Scenarios
 <div class="feature-box">
-<h4>💼 Business Use Cases</h4>
 <ul>
 <li><strong>Market Risks:</strong> Market demand and competitive risk management</li>
 <li><strong>Financial Risks:</strong> Financial and funding risk management</li>
@@ -369,7 +342,6 @@ WeHour implements a comprehensive risk management framework that identifies, ass
 
 ### Market Risk Scenarios
 <div class="feature-box">
-<h4>🌍 Market Use Cases</h4>
 <ul>
 <li><strong>Competitive Risks:</strong> Competitive threat and market disruption management</li>
 <li><strong>Regulatory Risks:</strong> Regulatory and compliance risk management</li>

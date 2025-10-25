@@ -24,7 +24,6 @@ WeHour's implementation roadmap provides a comprehensive 12-month plan for platf
 
 ### Technical Foundation
 <div class="feature-box">
-<h4>🔧 Technical Development</h4>
 <ul>
 <li><strong>Tokenomics Finalization:</strong> Complete VH$ and VB$ token design</li>
 <li><strong>Smart Contract Development:</strong> Core smart contract development</li>
@@ -35,7 +34,6 @@ WeHour's implementation roadmap provides a comprehensive 12-month plan for platf
 
 ### Business Foundation
 <div class="feature-box">
-<h4>💼 Business Development</h4>
 <ul>
 <li><strong>Partnership Development:</strong> Strategic partnership establishment</li>
 <li><strong>Team Building:</strong> Core team recruitment and development</li>
@@ -46,7 +44,6 @@ WeHour's implementation roadmap provides a comprehensive 12-month plan for platf
 
 ### Success Metrics
 <div class="feature-box">
-<h4>📊 Phase 0 Metrics</h4>
 <ul>
 <li><strong>Technical:</strong> Smart contracts deployed and audited</li>
 <li><strong>Business:</strong> 3-5 strategic partnerships established</li>
@@ -61,7 +58,6 @@ WeHour's implementation roadmap provides a comprehensive 12-month plan for platf
 
 ### Platform Launch
 <div class="feature-box">
-<h4>🖥️ Platform Deployment</h4>
 <ul>
 <li><strong>MVP Launch:</strong> Minimum viable product launch</li>
 <li><strong>User Onboarding:</strong> User onboarding and training</li>
@@ -72,7 +68,6 @@ WeHour's implementation roadmap provides a comprehensive 12-month plan for platf
 
 ### Market Development
 <div class="feature-box">
-<h4>📈 Market Activities</h4>
 <ul>
 <li><strong>Customer Acquisition:</strong> Initial customer acquisition</li>
 <li><strong>Partnership Growth:</strong> Partnership expansion</li>
@@ -83,7 +78,6 @@ WeHour's implementation roadmap provides a comprehensive 12-month plan for platf
 
 ### Success Metrics
 <div class="feature-box">
-<h4>📊 Phase 1 Metrics</h4>
 <ul>
 <li><strong>Organizations:</strong> 10+ active organizations</li>
 <li><strong>Volunteers:</strong> 1,000+ active volunteers</li>
@@ -98,7 +92,6 @@ WeHour's implementation roadmap provides a comprehensive 12-month plan for platf
 
 ### Platform Enhancement
 <div class="feature-box">
-<h4>🔧 Platform Development</h4>
 <ul>
 <li><strong>Feature Enhancement:</strong> Advanced feature development</li>
 <li><strong>Performance Optimization:</strong> Platform performance optimization</li>
@@ -109,7 +102,6 @@ WeHour's implementation roadmap provides a comprehensive 12-month plan for platf
 
 ### Market Expansion
 <div class="feature-box">
-<h4>🌍 Market Growth</h4>
 <ul>
 <li><strong>Customer Growth:</strong> Significant customer growth</li>
 <li><strong>Partnership Expansion:</strong> Partnership network expansion</li>
@@ -120,7 +112,6 @@ WeHour's implementation roadmap provides a comprehensive 12-month plan for platf
 
 ### Success Metrics
 <div class="feature-box">
-<h4>📊 Phase 2 Metrics</h4>
 <ul>
 <li><strong>Organizations:</strong> 25+ active organizations</li>
 <li><strong>Volunteers:</strong> 3,000+ active volunteers</li>
@@ -135,7 +126,6 @@ WeHour's implementation roadmap provides a comprehensive 12-month plan for platf
 
 ### Regional Expansion
 <div class="feature-box">
-<h4>🌏 Market Expansion</h4>
 <ul>
 <li><strong>Macau Launch:</strong> Macau market entry</li>
 <li><strong>Regional Partnerships:</strong> Regional partnership development</li>
@@ -146,7 +136,6 @@ WeHour's implementation roadmap provides a comprehensive 12-month plan for platf
 
 ### Platform Maturity
 <div class="feature-box">
-<h4>🏗️ Platform Development</h4>
 <ul>
 <li><strong>Advanced Analytics:</strong> Advanced analytics and reporting</li>
 <li><strong>Automation:</strong> Process automation and optimization</li>
@@ -157,7 +146,6 @@ WeHour's implementation roadmap provides a comprehensive 12-month plan for platf
 
 ### Success Metrics
 <div class="feature-box">
-<h4>📊 Phase 3 Metrics</h4>
 <ul>
 <li><strong>Organizations:</strong> 50+ active organizations</li>
 <li><strong>Volunteers:</strong> 5,000+ active volunteers</li>
@@ -172,7 +160,6 @@ WeHour's implementation roadmap provides a comprehensive 12-month plan for platf
 
 ### Global Expansion
 <div class="feature-box">
-<h4>🌍 Global Growth</h4>
 <ul>
 <li><strong>International Markets:</strong> Singapore, Taiwan, South Korea</li>
 <li><strong>Global Partnerships:</strong> International partnership development</li>
@@ -183,7 +170,6 @@ WeHour's implementation roadmap provides a comprehensive 12-month plan for platf
 
 ### Advanced Features
 <div class="feature-box">
-<h4>🚀 Innovation Development</h4>
 <ul>
 <li><strong>AI Integration:</strong> Artificial intelligence integration</li>
 <li><strong>Blockchain Evolution:</strong> Advanced blockchain features</li>
@@ -194,7 +180,6 @@ WeHour's implementation roadmap provides a comprehensive 12-month plan for platf
 
 ### Success Metrics
 <div class="feature-box">
-<h4>📊 Long-term Metrics</h4>
 <ul>
 <li><strong>Organizations:</strong> 100+ active organizations</li>
 <li><strong>Volunteers:</strong> 10,000+ active volunteers</li>
@@ -209,7 +194,6 @@ WeHour's implementation roadmap provides a comprehensive 12-month plan for platf
 
 ### Technical Milestones
 <div class="feature-box">
-<h4>🔧 Technical Achievements</h4>
 <ul>
 <li><strong>Smart Contract Deployment:</strong> VH$ and VB$ token contracts</li>
 <li><strong>Platform Launch:</strong> Full platform functionality</li>
@@ -220,7 +204,6 @@ WeHour's implementation roadmap provides a comprehensive 12-month plan for platf
 
 ### Business Milestones
 <div class="feature-box">
-<h4>💼 Business Achievements</h4>
 <ul>
 <li><strong>Partnership Establishment:</strong> Strategic partnership network</li>
 <li><strong>Customer Acquisition:</strong> Significant customer base</li>
@@ -231,7 +214,6 @@ WeHour's implementation roadmap provides a comprehensive 12-month plan for platf
 
 ### Market Milestones
 <div class="feature-box">
-<h4>📈 Market Achievements</h4>
 <ul>
 <li><strong>Market Entry:</strong> Successful market entry</li>
 <li><strong>User Adoption:</strong> Significant user adoption</li>
@@ -246,7 +228,6 @@ WeHour's implementation roadmap provides a comprehensive 12-month plan for platf
 
 ### Technical Risks
 <div class="feature-box">
-<h4>⚠️ Technical Risk Mitigation</h4>
 <ul>
 <li><strong>Security Risks:</strong> Comprehensive security measures</li>
 <li><strong>Performance Risks:</strong> Performance monitoring and optimization</li>
@@ -257,7 +238,6 @@ WeHour's implementation roadmap provides a comprehensive 12-month plan for platf
 
 ### Business Risks
 <div class="feature-box">
-<h4>⚠️ Business Risk Mitigation</h4>
 <ul>
 <li><strong>Market Risks:</strong> Market research and validation</li>
 <li><strong>Competitive Risks:</strong> Competitive analysis and differentiation</li>
@@ -268,7 +248,6 @@ WeHour's implementation roadmap provides a comprehensive 12-month plan for platf
 
 ### Operational Risks
 <div class="feature-box">
-<h4>⚠️ Operational Risk Mitigation</h4>
 <ul>
 <li><strong>Team Risks:</strong> Team building and retention</li>
 <li><strong>Partnership Risks:</strong> Partnership management and monitoring</li>
@@ -283,7 +262,6 @@ WeHour's implementation roadmap provides a comprehensive 12-month plan for platf
 
 ### Key Performance Indicators
 <div class="feature-box">
-<h4>📈 Implementation KPIs</h4>
 <ul>
 <li><strong>Technical Performance:</strong> Platform performance and reliability</li>
 <li><strong>User Adoption:</strong> User growth and retention</li>
@@ -294,7 +272,6 @@ WeHour's implementation roadmap provides a comprehensive 12-month plan for platf
 
 ### Success Criteria
 <div class="feature-box">
-<h4>📊 Success Standards</h4>
 <ul>
 <li><strong>Technical:</strong> Platform stability and performance</li>
 <li><strong>Business:</strong> Revenue and profitability</li>
@@ -309,7 +286,6 @@ WeHour's implementation roadmap provides a comprehensive 12-month plan for platf
 
 ### Pilot Program Implementation
 <div class="feature-box">
-<h4>🧪 Pilot Programs</h4>
 <ul>
 <li><strong>NGO Pilots:</strong> Pilot programs with key NGOs</li>
 <li><strong>Corporate Pilots:</strong> Corporate CSR program pilots</li>
@@ -320,7 +296,6 @@ WeHour's implementation roadmap provides a comprehensive 12-month plan for platf
 
 ### Partnership Implementation
 <div class="feature-box">
-<h4>🤝 Partnership Development</h4>
 <ul>
 <li><strong>Strategic Partnerships:</strong> Strategic partnership establishment</li>
 <li><strong>Technology Partnerships:</strong> Technology integration partnerships</li>
@@ -331,7 +306,6 @@ WeHour's implementation roadmap provides a comprehensive 12-month plan for platf
 
 ### Market Implementation
 <div class="feature-box">
-<h4>📈 Market Development</h4>
 <ul>
 <li><strong>Market Entry:</strong> Systematic market entry</li>
 <li><strong>Customer Acquisition:</strong> Customer acquisition and onboarding</li>
@@ -346,7 +320,6 @@ WeHour's implementation roadmap provides a comprehensive 12-month plan for platf
 
 ### Advanced Implementation
 <div class="feature-box">
-<h4>🚀 Future Development</h4>
 <ul>
 <li><strong>AI Integration:</strong> Artificial intelligence integration</li>
 <li><strong>Blockchain Evolution:</strong> Advanced blockchain features</li>
@@ -357,7 +330,6 @@ WeHour's implementation roadmap provides a comprehensive 12-month plan for platf
 
 ### Innovation Areas
 <div class="feature-box">
-<h4>💡 Innovation Focus</h4>
 <ul>
 <li><strong>Technology Innovation:</strong> Advanced technology development</li>
 <li><strong>Business Innovation:</strong> Innovative business models</li>

@@ -9,7 +9,6 @@ VB$ (Badge Token) is a Soulbound Token (SBT) that serves as an immutable, non-tr
 ## 🏗️ Token Specifications
 
 <div class="token-card">
-<h4>🏆 VB$ Technical Details</h4>
 <ul>
 <li><strong>Token Standard:</strong> ERC-721 compatible Soulbound Token (SBT)</li>
 <li><strong>Token Name:</strong> Volunteer Badge Token</li>
@@ -28,7 +27,6 @@ VB$ (Badge Token) is a Soulbound Token (SBT) that serves as an immutable, non-tr
 
 ### Non-Transferability
 <div class="feature-box">
-<h4>🔐 Soulbound Properties</h4>
 <ul>
 <li><strong>Permanent Binding:</strong> Tokens are permanently bound to the recipient's wallet</li>
 <li><strong>No Trading:</strong> Cannot be sold, traded, or transferred to other users</li>
@@ -39,7 +37,6 @@ VB$ (Badge Token) is a Soulbound Token (SBT) that serves as an immutable, non-tr
 
 ### Immutable Credentials
 <div class="feature-box">
-<h4>🛡️ Immutability Features</h4>
 <ul>
 <li><strong>Blockchain Storage:</strong> Credentials stored on immutable blockchain</li>
 <li><strong>Tamper-Proof:</strong> Cannot be altered or falsified</li>
@@ -54,7 +51,6 @@ VB$ (Badge Token) is a Soulbound Token (SBT) that serves as an immutable, non-tr
 
 ### Event Information
 <div class="feature-box">
-<h4>📅 Event Details</h4>
 <ul>
 <li><strong>Event Name:</strong> Official event title and description</li>
 <li><strong>Date & Time:</strong> Start and end times, duration</li>
@@ -66,7 +62,6 @@ VB$ (Badge Token) is a Soulbound Token (SBT) that serves as an immutable, non-tr
 
 ### Role & Responsibilities
 <div class="feature-box">
-<h4>👥 Role Information</h4>
 <ul>
 <li><strong>Role Title:</strong> Specific role and responsibilities</li>
 <li><strong>Skills Required:</strong> Competencies and qualifications needed</li>
@@ -78,7 +73,6 @@ VB$ (Badge Token) is a Soulbound Token (SBT) that serves as an immutable, non-tr
 
 ### Impact Metrics
 <div class="feature-box">
-<h4>📈 Performance Data</h4>
 <ul>
 <li><strong>Hours Served:</strong> Total volunteer hours contributed</li>
 <li><strong>People Helped:</strong> Number of beneficiaries served</li>
@@ -90,7 +84,6 @@ VB$ (Badge Token) is a Soulbound Token (SBT) that serves as an immutable, non-tr
 
 ### Verification Data
 <div class="feature-box">
-<h4>🔍 Verification Information</h4>
 <ul>
 <li><strong>Attestation Signatures:</strong> Digital signatures from verifiers</li>
 <li><strong>Verification Method:</strong> How participation was confirmed</li>
@@ -106,7 +99,6 @@ VB$ (Badge Token) is a Soulbound Token (SBT) that serves as an immutable, non-tr
 
 ### QR Code Verification
 <div class="feature-box">
-<h4>📱 Public Verification</h4>
 <ul>
 <li><strong>QR Code Generation:</strong> Unique QR code for each badge</li>
 <li><strong>Instant Verification:</strong> Real-time credential verification</li>
@@ -117,7 +109,6 @@ VB$ (Badge Token) is a Soulbound Token (SBT) that serves as an immutable, non-tr
 
 ### Multi-Attestation System
 <div class="feature-box">
-<h4>✅ Verification Requirements</h4>
 <ul>
 <li><strong>Organization Attestation:</strong> Host organization confirms participation</li>
 <li><strong>Peer Verification:</strong> Fellow volunteers attest to participation</li>
@@ -128,7 +119,6 @@ VB$ (Badge Token) is a Soulbound Token (SBT) that serves as an immutable, non-tr
 
 ### Fraud Prevention
 <div class="feature-box">
-<h4>🛡️ Anti-Fraud Measures</h4>
 <ul>
 <li><strong>Multi-Source Verification:</strong> Multiple independent confirmations</li>
 <li><strong>Time Validation:</strong> GPS and timestamp verification</li>
@@ -143,7 +133,6 @@ VB$ (Badge Token) is a Soulbound Token (SBT) that serves as an immutable, non-tr
 
 ### Educational Recognition
 <div class="feature-box">
-<h4>🎓 Academic Applications</h4>
 <ul>
 <li><strong>University Admissions:</strong> Proof of community service for applications</li>
 <li><strong>Scholarship Applications:</strong> Demonstrate commitment to social causes</li>
@@ -154,7 +143,6 @@ VB$ (Badge Token) is a Soulbound Token (SBT) that serves as an immutable, non-tr
 
 ### Professional Development
 <div class="feature-box">
-<h4>💼 Career Advancement</h4>
 <ul>
 <li><strong>Employer Verification:</strong> Prove volunteer experience to employers</li>
 <li><strong>Skill Demonstration:</strong> Showcase competencies and capabilities</li>
@@ -165,7 +153,6 @@ VB$ (Badge Token) is a Soulbound Token (SBT) that serves as an immutable, non-tr
 
 ### Social Recognition
 <div class="feature-box">
-<h4>🏆 Community Status</h4>
 <ul>
 <li><strong>Community Leadership:</strong> Recognition for community involvement</li>
 <li><strong>Social Impact:</strong> Demonstrate commitment to social causes</li>
@@ -180,7 +167,6 @@ VB$ (Badge Token) is a Soulbound Token (SBT) that serves as an immutable, non-tr
 
 ### Issuance Process
 <div class="feature-box">
-<h4>📝 Badge Creation</h4>
 <ol>
 <li><strong>Event Registration:</strong> Volunteer registers for event</li>
 <li><strong>Participation:</strong> Volunteer attends and participates</li>
@@ -193,7 +179,6 @@ VB$ (Badge Token) is a Soulbound Token (SBT) that serves as an immutable, non-tr
 
 ### Badge Management
 <div class="feature-box">
-<h4>🔄 Ongoing Management</h4>
 <ul>
 <li><strong>Badge Display:</strong> Showcase badges in volunteer profile</li>
 <li><strong>Verification Requests:</strong> Respond to verification requests</li>
@@ -204,7 +189,6 @@ VB$ (Badge Token) is a Soulbound Token (SBT) that serves as an immutable, non-tr
 
 ### Revocation Process
 <div class="feature-box">
-<h4>❌ Badge Revocation</h4>
 <ul>
 <li><strong>Fraud Detection:</strong> Identify fraudulent participation</li>
 <li><strong>Misconduct:</strong> Violation of volunteer code of conduct</li>
@@ -219,7 +203,6 @@ VB$ (Badge Token) is a Soulbound Token (SBT) that serves as an immutable, non-tr
 
 ### Integration Capabilities
 <div class="feature-box">
-<h4>🔗 Platform Integration</h4>
 <ul>
 <li><strong>LinkedIn Integration:</strong> Display badges on professional profiles</li>
 <li><strong>University Systems:</strong> Connect with academic record systems</li>
@@ -230,7 +213,6 @@ VB$ (Badge Token) is a Soulbound Token (SBT) that serves as an immutable, non-tr
 
 ### Verification Networks
 <div class="feature-box">
-<h4>🌍 Global Recognition</h4>
 <ul>
 <li><strong>International Standards:</strong> Cross-border credential recognition</li>
 <li><strong>Employer Networks:</strong> Recognition by global employers</li>
@@ -245,7 +227,6 @@ VB$ (Badge Token) is a Soulbound Token (SBT) that serves as an immutable, non-tr
 
 ### Individual Metrics
 <div class="feature-box">
-<h4>👤 Personal Analytics</h4>
 <ul>
 <li><strong>Badge Portfolio:</strong> Complete collection of volunteer credentials</li>
 <li><strong>Skill Development:</strong> Track competency growth over time</li>
@@ -256,7 +237,6 @@ VB$ (Badge Token) is a Soulbound Token (SBT) that serves as an immutable, non-tr
 
 ### Organizational Metrics
 <div class="feature-box">
-<h4>🏢 Organization Analytics</h4>
 <ul>
 <li><strong>Volunteer Engagement:</strong> Track volunteer participation patterns</li>
 <li><strong>Skill Distribution:</strong> Analyze volunteer competencies</li>
@@ -271,7 +251,6 @@ VB$ (Badge Token) is a Soulbound Token (SBT) that serves as an immutable, non-tr
 
 ### Advanced Features
 <div class="feature-box">
-<h4>🤖 AI-Powered Insights</h4>
 <ul>
 <li><strong>Skill Recommendations:</strong> AI-suggested volunteer opportunities</li>
 <li><strong>Impact Prediction:</strong> Forecast potential social impact</li>
@@ -282,7 +261,6 @@ VB$ (Badge Token) is a Soulbound Token (SBT) that serves as an immutable, non-tr
 
 ### Enhanced Verification
 <div class="feature-box">
-<h4>🔍 Advanced Verification</h4>
 <ul>
 <li><strong>Biometric Verification:</strong> Enhanced identity confirmation</li>
 <li><strong>Video Attestation:</strong> Video proof of participation</li>
@@ -297,7 +275,6 @@ VB$ (Badge Token) is a Soulbound Token (SBT) that serves as an immutable, non-tr
 
 ### Community Service Badge
 <div class="feature-box">
-<h4>🏘️ Community Cleanup</h4>
 <ul>
 <li><strong>Event:</strong> Neighborhood Cleanup Day</li>
 <li><strong>Role:</strong> Team Leader</li>
@@ -309,7 +286,6 @@ VB$ (Badge Token) is a Soulbound Token (SBT) that serves as an immutable, non-tr
 
 ### Educational Support Badge
 <div class="feature-box">
-<h4>📚 Tutoring Program</h4>
 <ul>
 <li><strong>Event:</strong> After-School Tutoring</li>
 <li><strong>Role:</strong> Math Tutor</li>
@@ -321,7 +297,6 @@ VB$ (Badge Token) is a Soulbound Token (SBT) that serves as an immutable, non-tr
 
 ### Healthcare Support Badge
 <div class="feature-box">
-<h4>🏥 Health Screening</h4>
 <ul>
 <li><strong>Event:</strong> Community Health Fair</li>
 <li><strong>Role:</strong> Medical Volunteer</li>
@@ -337,7 +312,6 @@ VB$ (Badge Token) is a Soulbound Token (SBT) that serves as an immutable, non-tr
 
 ### Data Protection
 <div class="feature-box">
-<h4>🛡️ Privacy Measures</h4>
 <ul>
 <li><strong>Data Minimization:</strong> Only necessary information stored</li>
 <li><strong>Consent Management:</strong> Granular control over data sharing</li>
@@ -348,7 +322,6 @@ VB$ (Badge Token) is a Soulbound Token (SBT) that serves as an immutable, non-tr
 
 ### Security Features
 <div class="feature-box">
-<h4>🔐 Security Measures</h4>
 <ul>
 <li><strong>Cryptographic Signatures:</strong> Tamper-proof credential verification</li>
 <li><strong>Multi-Factor Authentication:</strong> Enhanced wallet security</li>

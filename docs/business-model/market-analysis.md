@@ -14,7 +14,6 @@ WeHour operates in a rapidly growing market with significant opportunities for v
 
 ### Market Size & Growth
 <div class="feature-box">
-<h4>📈 Market Metrics</h4>
 <ul>
 <li><strong>Global Market:</strong> $2.3B volunteer service market globally</li>
 <li><strong>Asia-Pacific:</strong> $800M volunteer service market in Asia-Pacific</li>
@@ -25,7 +24,6 @@ WeHour operates in a rapidly growing market with significant opportunities for v
 
 ### Market Drivers
 <div class="feature-box">
-<h4>🚀 Growth Drivers</h4>
 <ul>
 <li><strong>ESG Focus:</strong> Growing emphasis on environmental, social, and governance factors</li>
 <li><strong>CSR Programs:</strong> Increased corporate social responsibility initiatives</li>
@@ -42,7 +40,6 @@ WeHour operates in a rapidly growing market with significant opportunities for v
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
 
 <div class="feature-box">
-<h4>🏢 NGOs & Charities</h4>
 <ul>
 <li><strong>Market Size:</strong> 1,000+ NGOs in Hong Kong</li>
 <li><strong>Pain Points:</strong> Manual tracking, limited funding</li>
@@ -52,7 +49,6 @@ WeHour operates in a rapidly growing market with significant opportunities for v
 </div>
 
 <div class="feature-box">
-<h4>🎓 Educational Institutions</h4>
 <ul>
 <li><strong>Market Size:</strong> 500+ schools and universities</li>
 <li><strong>Pain Points:</strong> Student engagement, credential recognition</li>
@@ -62,7 +58,6 @@ WeHour operates in a rapidly growing market with significant opportunities for v
 </div>
 
 <div class="feature-box">
-<h4>💰 Corporate CSR</h4>
 <ul>
 <li><strong>Market Size:</strong> 2,000+ corporations with CSR programs</li>
 <li><strong>Pain Points:</strong> Impact measurement, ROI uncertainty</li>
@@ -72,7 +67,6 @@ WeHour operates in a rapidly growing market with significant opportunities for v
 </div>
 
 <div class="feature-box">
-<h4>🏛️ Government Agencies</h4>
 <ul>
 <li><strong>Market Size:</strong> 100+ government agencies</li>
 <li><strong>Pain Points:</strong> Public service tracking, transparency</li>
@@ -89,7 +83,6 @@ WeHour operates in a rapidly growing market with significant opportunities for v
 
 ### Total Addressable Market (TAM)
 <div class="feature-box">
-<h4>🌍 TAM Analysis</h4>
 <ul>
 <li><strong>Global Volunteer Market:</strong> $2.3B globally</li>
 <li><strong>Asia-Pacific Market:</strong> $800M in Asia-Pacific</li>
@@ -100,7 +93,6 @@ WeHour operates in a rapidly growing market with significant opportunities for v
 
 ### Serviceable Addressable Market (SAM)
 <div class="feature-box">
-<h4>🎯 SAM Analysis</h4>
 <ul>
 <li><strong>Hong Kong Market:</strong> $180M Hong Kong volunteer ecosystem</li>
 <li><strong>Macau Market:</strong> $20M Macau volunteer market</li>
@@ -111,7 +103,6 @@ WeHour operates in a rapidly growing market with significant opportunities for v
 
 ### Serviceable Obtainable Market (SOM)
 <div class="feature-box">
-<h4>📈 SOM Analysis</h4>
 <ul>
 <li><strong>Year 1 Target:</strong> $2M (1% of SAM)</li>
 <li><strong>Year 3 Target:</strong> $15M (5% of SAM)</li>
@@ -126,7 +117,6 @@ WeHour operates in a rapidly growing market with significant opportunities for v
 
 ### Direct Competitors
 <div class="feature-box">
-<h4>🏢 Direct Competition</h4>
 <ul>
 <li><strong>Volunteer Management Platforms:</strong> Traditional volunteer management systems</li>
 <li><strong>Blockchain Volunteer Projects:</strong> Other blockchain-based volunteer platforms</li>
@@ -137,7 +127,6 @@ WeHour operates in a rapidly growing market with significant opportunities for v
 
 ### Competitive Advantages
 <div class="feature-box">
-<h4>✅ WeHour Advantages</h4>
 <ul>
 <li><strong>Tokenization:</strong> Unique dual-token model</li>
 <li><strong>Cross-Chain:</strong> Multi-network blockchain support</li>
@@ -148,7 +137,6 @@ WeHour operates in a rapidly growing market with significant opportunities for v
 
 ### Competitive Positioning
 <div class="feature-box">
-<h4>🎯 Market Position</h4>
 <ul>
 <li><strong>Innovation Leader:</strong> First-mover advantage in tokenized volunteer service</li>
 <li><strong>Technology Leader:</strong> Advanced blockchain and cross-chain technology</li>
@@ -163,7 +151,6 @@ WeHour operates in a rapidly growing market with significant opportunities for v
 
 ### Technology Trends
 <div class="feature-box">
-<h4>🔮 Tech Trends</h4>
 <ul>
 <li><strong>Blockchain Adoption:</strong> Growing blockchain technology adoption</li>
 <li><strong>AI Integration:</strong> Artificial intelligence in volunteer management</li>
@@ -174,7 +161,6 @@ WeHour operates in a rapidly growing market with significant opportunities for v
 
 ### Social Trends
 <div class="feature-box">
-<h4>👥 Social Trends</h4>
 <ul>
 <li><strong>ESG Focus:</strong> Environmental, social, and governance focus</li>
 <li><strong>Social Impact:</strong> Increased focus on social impact measurement</li>
@@ -185,7 +171,6 @@ WeHour operates in a rapidly growing market with significant opportunities for v
 
 ### Economic Trends
 <div class="feature-box">
-<h4>💰 Economic Trends</h4>
 <ul>
 <li><strong>CSR Investment:</strong> Increased corporate social responsibility investment</li>
 <li><strong>Social Impact Investing:</strong> Growth in social impact investing</li>
@@ -200,7 +185,6 @@ WeHour operates in a rapidly growing market with significant opportunities for v
 
 ### Hong Kong Market
 <div class="feature-box">
-<h4>🇭🇰 Hong Kong Analysis</h4>
 <ul>
 <li><strong>Market Size:</strong> $180M volunteer ecosystem</li>
 <li><strong>Key Players:</strong> 1,000+ NGOs, 500+ schools, 2,000+ corporations</li>
@@ -211,7 +195,6 @@ WeHour operates in a rapidly growing market with significant opportunities for v
 
 ### Macau Market
 <div class="feature-box">
-<h4>🇲🇴 Macau Analysis</h4>
 <ul>
 <li><strong>Market Size:</strong> $20M volunteer market</li>
 <li><strong>Key Players:</strong> 100+ NGOs, 50+ schools, 200+ corporations</li>
@@ -222,7 +205,6 @@ WeHour operates in a rapidly growing market with significant opportunities for v
 
 ### Regional Expansion
 <div class="feature-box">
-<h4>🌍 Regional Opportunities</h4>
 <ul>
 <li><strong>Singapore:</strong> $50M volunteer market</li>
 <li><strong>Taiwan:</strong> $80M volunteer market</li>
@@ -237,7 +219,6 @@ WeHour operates in a rapidly growing market with significant opportunities for v
 
 ### Market Entry Approach
 <div class="feature-box">
-<h4>🚀 Entry Strategy</h4>
 <ul>
 <li><strong>Hong Kong First:</strong> Establish strong Hong Kong presence</li>
 <li><strong>Pilot Programs:</strong> Launch pilot programs with key partners</li>
@@ -248,7 +229,6 @@ WeHour operates in a rapidly growing market with significant opportunities for v
 
 ### Partnership Strategy
 <div class="feature-box">
-<h4>🤝 Partnership Approach</h4>
 <ul>
 <li><strong>NGO Partnerships:</strong> Strategic partnerships with key NGOs</li>
 <li><strong>Corporate Partnerships:</strong> Corporate CSR program partnerships</li>
@@ -263,7 +243,6 @@ WeHour operates in a rapidly growing market with significant opportunities for v
 
 ### User Research
 <div class="feature-box">
-<h4>👥 User Insights</h4>
 <ul>
 <li><strong>Volunteer Needs:</strong> Recognition, rewards, portability</li>
 <li><strong>Organization Needs:</strong> Efficiency, impact measurement, funding</li>
@@ -274,7 +253,6 @@ WeHour operates in a rapidly growing market with significant opportunities for v
 
 ### Market Gaps
 <div class="feature-box">
-<h4>🔍 Market Gaps</h4>
 <ul>
 <li><strong>Verification:</strong> Lack of verifiable volunteer service records</li>
 <li><strong>Portability:</strong> Limited cross-organization credential portability</li>
@@ -289,7 +267,6 @@ WeHour operates in a rapidly growing market with significant opportunities for v
 
 ### Immediate Opportunities
 <div class="feature-box">
-<h4>⚡ Immediate Opportunities</h4>
 <ul>
 <li><strong>Hong Kong Launch:</strong> Establish Hong Kong market presence</li>
 <li><strong>Pilot Programs:</strong> Launch pilot programs with key partners</li>
@@ -300,7 +277,6 @@ WeHour operates in a rapidly growing market with significant opportunities for v
 
 ### Long-term Opportunities
 <div class="feature-box">
-<h4>🔮 Long-term Opportunities</h4>
 <ul>
 <li><strong>Regional Expansion:</strong> Expand to Macau and other regional markets</li>
 <li><strong>Global Expansion:</strong> International market expansion</li>
@@ -315,7 +291,6 @@ WeHour operates in a rapidly growing market with significant opportunities for v
 
 ### Volunteer Scenarios
 <div class="feature-box">
-<h4>👥 Volunteer Use Cases</h4>
 <ul>
 <li><strong>Student Volunteers:</strong> Academic recognition and career development</li>
 <li><strong>Professional Volunteers:</strong> Skill development and networking</li>
@@ -326,7 +301,6 @@ WeHour operates in a rapidly growing market with significant opportunities for v
 
 ### Organization Scenarios
 <div class="feature-box">
-<h4>🏢 Organization Use Cases</h4>
 <ul>
 <li><strong>NGO Management:</strong> Efficient volunteer management and tracking</li>
 <li><strong>Educational Programs:</strong> Student volunteer program management</li>
@@ -337,7 +311,6 @@ WeHour operates in a rapidly growing market with significant opportunities for v
 
 ### Sponsor Scenarios
 <div class="feature-box">
-<h4>💰 Sponsor Use Cases</h4>
 <ul>
 <li><strong>CSR Campaigns:</strong> Corporate social responsibility campaigns</li>
 <li><strong>Brand Campaigns:</strong> Brand association with social causes</li>
@@ -352,7 +325,6 @@ WeHour operates in a rapidly growing market with significant opportunities for v
 
 ### 5-Year Market Forecast
 <div class="feature-box">
-<h4>📊 Market Forecast</h4>
 <ul>
 <li><strong>Year 1:</strong> $2M market penetration</li>
 <li><strong>Year 2:</strong> $10M market penetration</li>
@@ -363,7 +335,6 @@ WeHour operates in a rapidly growing market with significant opportunities for v
 
 ### Growth Drivers
 <div class="feature-box">
-<h4>🚀 Growth Factors</h4>
 <ul>
 <li><strong>Market Growth:</strong> 15-20% annual market growth</li>
 <li><strong>Technology Adoption:</strong> Growing blockchain adoption</li>

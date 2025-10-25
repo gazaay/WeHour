@@ -24,7 +24,6 @@ WeHour implements a comprehensive privacy and compliance framework that protects
 
 ### Data Classification
 <div class="feature-box">
-<h4>📊 Data Categories</h4>
 <ul>
 <li><strong>Public Data:</strong> Volunteer service records (with consent)</li>
 <li><strong>Internal Data:</strong> Platform usage and analytics</li>
@@ -35,7 +34,6 @@ WeHour implements a comprehensive privacy and compliance framework that protects
 
 ### Data Handling
 <div class="feature-box">
-<h4>🔄 Data Processing</h4>
 <ul>
 <li><strong>Collection:</strong> Minimal data collection with clear purpose</li>
 <li><strong>Storage:</strong> Secure storage with encryption</li>
@@ -50,7 +48,6 @@ WeHour implements a comprehensive privacy and compliance framework that protects
 
 ### Global Compliance
 <div class="feature-box">
-<h4>⚖️ Regulatory Framework</h4>
 <ul>
 <li><strong>GDPR:</strong> European General Data Protection Regulation</li>
 <li><strong>CCPA:</strong> California Consumer Privacy Act</li>
@@ -61,7 +58,6 @@ WeHour implements a comprehensive privacy and compliance framework that protects
 
 ### Compliance Measures
 <div class="feature-box">
-<h4>📋 Compliance Implementation</h4>
 <ul>
 <li><strong>Data Mapping:</strong> Complete data flow mapping</li>
 <li><strong>Risk Assessment:</strong> Regular privacy risk assessments</li>
@@ -76,7 +72,6 @@ WeHour implements a comprehensive privacy and compliance framework that protects
 
 ### Encryption Standards
 <div class="feature-box">
-<h4>🔐 Encryption Implementation</h4>
 <ul>
 <li><strong>Data at Rest:</strong> AES-256 encryption for stored data</li>
 <li><strong>Data in Transit:</strong> TLS 1.3 encryption for transmission</li>
@@ -87,7 +82,6 @@ WeHour implements a comprehensive privacy and compliance framework that protects
 
 ### Access Controls
 <div class="feature-box">
-<h4>🔑 Access Management</h4>
 <ul>
 <li><strong>Role-Based Access:</strong> Role-based data access controls</li>
 <li><strong>Multi-Factor Auth:</strong> Multi-factor authentication for sensitive data</li>
@@ -102,7 +96,6 @@ WeHour implements a comprehensive privacy and compliance framework that protects
 
 ### User Rights
 <div class="feature-box">
-<h4>👥 User Privacy Rights</h4>
 <ul>
 <li><strong>Right to Access:</strong> Users can access their personal data</li>
 <li><strong>Right to Rectification:</strong> Users can correct inaccurate data</li>
@@ -113,7 +106,6 @@ WeHour implements a comprehensive privacy and compliance framework that protects
 
 ### Consent Management
 <div class="feature-box">
-<h4>✅ Consent Framework</h4>
 <ul>
 <li><strong>Granular Consent:</strong> Specific consent for different data uses</li>
 <li><strong>Withdrawal Rights:</strong> Users can withdraw consent at any time</li>
@@ -128,7 +120,6 @@ WeHour implements a comprehensive privacy and compliance framework that protects
 
 ### Collection Principles
 <div class="feature-box">
-<h4>📊 Data Collection</h4>
 <ul>
 <li><strong>Necessity:</strong> Only collect necessary data</li>
 <li><strong>Purpose:</strong> Clear purpose for data collection</li>
@@ -139,7 +130,6 @@ WeHour implements a comprehensive privacy and compliance framework that protects
 
 ### Retention Policies
 <div class="feature-box">
-<h4>⏰ Data Retention</h4>
 <ul>
 <li><strong>Retention Periods:</strong> Defined retention periods for different data types</li>
 <li><strong>Automatic Deletion:</strong> Automatic deletion after retention period</li>
@@ -154,7 +144,6 @@ WeHour implements a comprehensive privacy and compliance framework that protects
 
 ### International Transfers
 <div class="feature-box">
-<h4>🌍 Cross-Border Framework</h4>
 <ul>
 <li><strong>Adequacy Decisions:</strong> Transfer to countries with adequate protection</li>
 <li><strong>Standard Contracts:</strong> Standard contractual clauses for transfers</li>
@@ -165,7 +154,6 @@ WeHour implements a comprehensive privacy and compliance framework that protects
 
 ### Transfer Safeguards
 <div class="feature-box">
-<h4>🛡️ Transfer Protection</h4>
 <ul>
 <li><strong>Encryption:</strong> Data encrypted during transfer</li>
 <li><strong>Access Controls:</strong> Restricted access to transferred data</li>
@@ -180,7 +168,6 @@ WeHour implements a comprehensive privacy and compliance framework that protects
 
 ### Privacy Metrics
 <div class="feature-box">
-<h4>📈 Privacy KPIs</h4>
 <ul>
 <li><strong>Consent Rates:</strong> User consent acceptance rates</li>
 <li><strong>Data Requests:</strong> User data access and deletion requests</li>
@@ -191,7 +178,6 @@ WeHour implements a comprehensive privacy and compliance framework that protects
 
 ### Monitoring Systems
 <div class="feature-box">
-<h4>🔍 Privacy Monitoring</h4>
 <ul>
 <li><strong>Data Usage Tracking:</strong> Track how data is used</li>
 <li><strong>Access Monitoring:</strong> Monitor data access patterns</li>
@@ -206,7 +192,6 @@ WeHour implements a comprehensive privacy and compliance framework that protects
 
 ### Incident Management
 <div class="feature-box">
-<h4>🚨 Incident Response</h4>
 <ul>
 <li><strong>Detection:</strong> Rapid privacy incident detection</li>
 <li><strong>Assessment:</strong> Impact assessment and risk evaluation</li>
@@ -217,7 +202,6 @@ WeHour implements a comprehensive privacy and compliance framework that protects
 
 ### Response Procedures
 <div class="feature-box">
-<h4>🔄 Response Framework</h4>
 <ul>
 <li><strong>Response Team:</strong> Dedicated privacy incident response team</li>
 <li><strong>Procedures:</strong> Standardized incident response procedures</li>
@@ -232,7 +216,6 @@ WeHour implements a comprehensive privacy and compliance framework that protects
 
 ### On-Chain Privacy
 <div class="feature-box">
-<h4>🔗 Blockchain Privacy</h4>
 <ul>
 <li><strong>Hash Storage:</strong> Only hashes stored on-chain</li>
 <li><strong>Metadata Protection:</strong> Sensitive metadata encrypted</li>
@@ -243,7 +226,6 @@ WeHour implements a comprehensive privacy and compliance framework that protects
 
 ### Off-Chain Privacy
 <div class="feature-box">
-<h4>💾 Off-Chain Protection</h4>
 <ul>
 <li><strong>Encrypted Storage:</strong> Personal data encrypted off-chain</li>
 <li><strong>Access Controls:</strong> Strict access controls for sensitive data</li>
@@ -258,7 +240,6 @@ WeHour implements a comprehensive privacy and compliance framework that protects
 
 ### Privacy Governance
 <div class="feature-box">
-<h4>🏛️ Governance Framework</h4>
 <ul>
 <li><strong>Privacy Officer:</strong> Dedicated privacy officer</li>
 <li><strong>Privacy Committee:</strong> Cross-functional privacy committee</li>
@@ -269,7 +250,6 @@ WeHour implements a comprehensive privacy and compliance framework that protects
 
 ### Oversight Mechanisms
 <div class="feature-box">
-<h4>👁️ Oversight Systems</h4>
 <ul>
 <li><strong>Internal Audits:</strong> Regular internal privacy audits</li>
 <li><strong>External Reviews:</strong> Independent privacy assessments</li>
@@ -284,7 +264,6 @@ WeHour implements a comprehensive privacy and compliance framework that protects
 
 ### Advanced Privacy Features
 <div class="feature-box">
-<h4>🚀 Planned Features</h4>
 <ul>
 <li><strong>Differential Privacy:</strong> Advanced privacy protection techniques</li>
 <li><strong>Homomorphic Encryption:</strong> Computation on encrypted data</li>
@@ -295,7 +274,6 @@ WeHour implements a comprehensive privacy and compliance framework that protects
 
 ### Privacy Innovation
 <div class="feature-box">
-<h4>💡 Innovation Areas</h4>
 <ul>
 <li><strong>Blockchain Privacy:</strong> Enhanced blockchain privacy features</li>
 <li><strong>Zero-Knowledge Proofs:</strong> Advanced zero-knowledge implementations</li>
@@ -310,7 +288,6 @@ WeHour implements a comprehensive privacy and compliance framework that protects
 
 ### Volunteer Privacy
 <div class="feature-box">
-<h4>👥 Volunteer Protection</h4>
 <ul>
 <li><strong>Personal Data:</strong> Protection of personal information</li>
 <li><strong>Service Records:</strong> Privacy of volunteer service records</li>
@@ -321,7 +298,6 @@ WeHour implements a comprehensive privacy and compliance framework that protects
 
 ### Organization Privacy
 <div class="feature-box">
-<h4>🏢 Organization Protection</h4>
 <ul>
 <li><strong>Internal Data:</strong> Protection of internal organization data</li>
 <li><strong>Volunteer Data:</strong> Privacy of volunteer information</li>
@@ -332,7 +308,6 @@ WeHour implements a comprehensive privacy and compliance framework that protects
 
 ### Platform Privacy
 <div class="feature-box">
-<h4>🖥️ Platform Protection</h4>
 <ul>
 <li><strong>User Data:</strong> Protection of all user data</li>
 <li><strong>Analytics Data:</strong> Privacy of analytics and insights</li>
@@ -347,7 +322,6 @@ WeHour implements a comprehensive privacy and compliance framework that protects
 
 ### Compliance KPIs
 <div class="feature-box">
-<h4>📈 Compliance Metrics</h4>
 <ul>
 <li><strong>Compliance Score:</strong> Overall compliance rating</li>
 <li><strong>Audit Results:</strong> Privacy audit results</li>
@@ -368,7 +342,6 @@ WeHour implements a comprehensive privacy and compliance framework that protects
 
 ### User Best Practices
 <div class="feature-box">
-<h4>👤 User Guidelines</h4>
 <ul>
 <li><strong>Data Sharing:</strong> Be mindful of data sharing</li>
 <li><strong>Privacy Settings:</strong> Regularly review privacy settings</li>
@@ -379,7 +352,6 @@ WeHour implements a comprehensive privacy and compliance framework that protects
 
 ### Organization Best Practices
 <div class="feature-box">
-<h4>🏢 Organization Guidelines</h4>
 <ul>
 <li><strong>Data Classification:</strong> Properly classify and protect data</li>
 <li><strong>Access Controls:</strong> Implement proper access controls</li>

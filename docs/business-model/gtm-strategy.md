@@ -53,7 +53,6 @@ graph TD
 
 ### Market Entry Strategy
 <div class="feature-box">
-<h4>🏢 Hong Kong Launch</h4>
 <ul>
 <li><strong>Pilot Programs:</strong> 2-3 anchor events with 500-1,000 volunteers</li>
 <li><strong>Partner Onboarding:</strong> 10+ organizations, 1-2 retailers</li>
@@ -64,7 +63,6 @@ graph TD
 
 ### Key Activities
 <div class="feature-box">
-<h4>📋 Foundation Activities</h4>
 <ul>
 <li><strong>Platform Launch:</strong> Full platform deployment and testing</li>
 <li><strong>Partnership Development:</strong> Strategic partnership establishment</li>
@@ -75,7 +73,6 @@ graph TD
 
 ### Success Metrics
 <div class="feature-box">
-<h4>📊 Phase 1 Metrics</h4>
 <ul>
 <li><strong>Organizations:</strong> 10+ active organizations</li>
 <li><strong>Volunteers:</strong> 1,000+ active volunteers</li>
@@ -90,7 +87,6 @@ graph TD
 
 ### Market Expansion
 <div class="feature-box">
-<h4>🌍 Regional Expansion</h4>
 <ul>
 <li><strong>Macau Launch:</strong> Macau market entry and expansion</li>
 <li><strong>Regional Partnerships:</strong> Regional partnership development</li>
@@ -101,7 +97,6 @@ graph TD
 
 ### Key Activities
 <div class="feature-box">
-<h4>📋 Growth Activities</h4>
 <ul>
 <li><strong>Market Expansion:</strong> Regional market expansion</li>
 <li><strong>Partnership Growth:</strong> Strategic partnership expansion</li>
@@ -112,7 +107,6 @@ graph TD
 
 ### Success Metrics
 <div class="feature-box">
-<h4>📊 Phase 2 Metrics</h4>
 <ul>
 <li><strong>Organizations:</strong> 50+ active organizations</li>
 <li><strong>Volunteers:</strong> 5,000+ active volunteers</li>
@@ -127,7 +121,6 @@ graph TD
 
 ### Global Expansion
 <div class="feature-box">
-<h4>🌏 Global Growth</h4>
 <ul>
 <li><strong>International Markets:</strong> Singapore, Taiwan, South Korea</li>
 <li><strong>Global Partnerships:</strong> International partnership development</li>
@@ -138,7 +131,6 @@ graph TD
 
 ### Key Activities
 <div class="feature-box">
-<h4>📋 Maturity Activities</h4>
 <ul>
 <li><strong>Global Expansion:</strong> International market expansion</li>
 <li><strong>Technology Innovation:</strong> Advanced technology development</li>
@@ -149,7 +141,6 @@ graph TD
 
 ### Success Metrics
 <div class="feature-box">
-<h4>📊 Phase 3 Metrics</h4>
 <ul>
 <li><strong>Organizations:</strong> 100+ active organizations</li>
 <li><strong>Volunteers:</strong> 10,000+ active volunteers</li>
@@ -164,7 +155,6 @@ graph TD
 
 ### Strategic Partnerships
 <div class="feature-box">
-<h4>🤝 Partnership Types</h4>
 <ul>
 <li><strong>NGO Partnerships:</strong> Strategic partnerships with key NGOs</li>
 <li><strong>Corporate Partnerships:</strong> Corporate CSR program partnerships</li>
@@ -175,7 +165,6 @@ graph TD
 
 ### Partnership Development
 <div class="feature-box">
-<h4>📋 Partnership Process</h4>
 <ul>
 <li><strong>Identification:</strong> Identify potential partnership opportunities</li>
 <li><strong>Outreach:</strong> Strategic outreach and relationship building</li>
@@ -190,7 +179,6 @@ graph TD
 
 ### Marketing Channels
 <div class="feature-box">
-<h4>📢 Marketing Channels</h4>
 <ul>
 <li><strong>Digital Marketing:</strong> Online advertising and social media</li>
 <li><strong>Content Marketing:</strong> Educational content and thought leadership</li>
@@ -201,7 +189,6 @@ graph TD
 
 ### Marketing Activities
 <div class="feature-box">
-<h4>📋 Marketing Activities</h4>
 <ul>
 <li><strong>Brand Building:</strong> Brand awareness and recognition building</li>
 <li><strong>Lead Generation:</strong> Lead generation and qualification</li>
@@ -247,7 +234,6 @@ graph TD
 
 ### Customer Segments
 <div class="feature-box">
-<h4>👥 Target Segments</h4>
 <ul>
 <li><strong>NGOs:</strong> Non-profit organizations and charities</li>
 <li><strong>Educational Institutions:</strong> Schools and universities</li>
@@ -258,7 +244,6 @@ graph TD
 
 ### Acquisition Strategy
 <div class="feature-box">
-<h4>📈 Acquisition Approach</h4>
 <ul>
 <li><strong>Pilot Programs:</strong> Launch pilot programs with key customers</li>
 <li><strong>Proof of Concept:</strong> Demonstrate value through results</li>
@@ -273,7 +258,6 @@ graph TD
 
 ### Pricing Model
 <div class="feature-box">
-<h4>💰 Pricing Approach</h4>
 <ul>
 <li><strong>Value-Based Pricing:</strong> Price based on value delivered</li>
 <li><strong>Tiered Pricing:</strong> Multiple pricing tiers for different needs</li>
@@ -284,7 +268,6 @@ graph TD
 
 ### Pricing Tiers
 <div class="feature-box">
-<h4>📊 Pricing Structure</h4>
 <ul>
 <li><strong>Basic Plan:</strong> HKD 500/org/month (up to 100 volunteers)</li>
 <li><strong>Professional Plan:</strong> HKD 1,000/org/month (up to 500 volunteers)</li>
@@ -299,7 +282,6 @@ graph TD
 
 ### Sales Process
 <div class="feature-box">
-<h4>📋 Sales Process</h4>
 <ul>
 <li><strong>Lead Generation:</strong> Lead generation and qualification</li>
 <li><strong>Discovery:</strong> Customer needs and requirements discovery</li>
@@ -310,7 +292,6 @@ graph TD
 
 ### Sales Channels
 <div class="feature-box">
-<h4>📢 Sales Channels</h4>
 <ul>
 <li><strong>Direct Sales:</strong> Direct sales team and approach</li>
 <li><strong>Partner Sales:</strong> Partner-driven sales and referrals</li>
@@ -325,7 +306,6 @@ graph TD
 
 ### Key Performance Indicators
 <div class="feature-box">
-<h4>📈 GTM KPIs</h4>
 <ul>
 <li><strong>Customer Acquisition:</strong> New customer acquisition rate</li>
 <li><strong>Revenue Growth:</strong> Month-over-month revenue growth</li>
@@ -336,7 +316,6 @@ graph TD
 
 ### Success Metrics
 <div class="feature-box">
-<h4>📊 Success Indicators</h4>
 <ul>
 <li><strong>Organizations:</strong> Number of active organizations</li>
 <li><strong>Volunteers:</strong> Number of active volunteers</li>
@@ -351,7 +330,6 @@ graph TD
 
 ### Advanced Strategies
 <div class="feature-box">
-<h4>🚀 Future Strategies</h4>
 <ul>
 <li><strong>AI-Powered Marketing:</strong> AI-driven marketing and personalization</li>
 <li><strong>Global Expansion:</strong> International market expansion</li>
@@ -362,7 +340,6 @@ graph TD
 
 ### Innovation Areas
 <div class="feature-box">
-<h4>💡 Innovation Focus</h4>
 <ul>
 <li><strong>Marketing Automation:</strong> Automated marketing and sales processes</li>
 <li><strong>Personalization:</strong> Personalized customer experiences</li>
@@ -377,7 +354,6 @@ graph TD
 
 ### NGO Acquisition
 <div class="feature-box">
-<h4>🏢 NGO Strategy</h4>
 <ul>
 <li><strong>Pilot Programs:</strong> Launch pilot programs with key NGOs</li>
 <li><strong>Value Demonstration:</strong> Demonstrate value through results</li>
@@ -388,7 +364,6 @@ graph TD
 
 ### Corporate Acquisition
 <div class="feature-box">
-<h4>💰 Corporate Strategy</h4>
 <ul>
 <li><strong>CSR Programs:</strong> Corporate social responsibility programs</li>
 <li><strong>Brand Campaigns:</strong> Brand association with social causes</li>
@@ -399,7 +374,6 @@ graph TD
 
 ### Educational Acquisition
 <div class="feature-box">
-<h4>🎓 Educational Strategy</h4>
 <ul>
 <li><strong>Student Programs:</strong> Student volunteer programs</li>
 <li><strong>Academic Recognition:</strong> Academic credit for volunteer service</li>
@@ -414,7 +388,6 @@ graph TD
 
 ### Performance Tracking
 <div class="feature-box">
-<h4>📈 Performance Metrics</h4>
 <ul>
 <li><strong>Customer Acquisition Cost (CAC):</strong> Cost to acquire customers</li>
 <li><strong>Customer Lifetime Value (CLV):</strong> Long-term customer value</li>
@@ -425,7 +398,6 @@ graph TD
 
 ### Market Intelligence
 <div class="feature-box">
-<h4>🔍 Market Insights</h4>
 <ul>
 <li><strong>Market Trends:</strong> Market trend analysis and insights</li>
 <li><strong>Competitive Analysis:</strong> Competitive landscape analysis</li>

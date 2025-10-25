@@ -25,7 +25,6 @@ WeHour's pilot programs are designed to validate the platform's value propositio
 
 ### NGO Pilot Programs
 <div class="feature-box">
-<h4>🏢 NGO Pilots</h4>
 <ul>
 <li><strong>Target Organizations:</strong> 2-3 key NGOs in Hong Kong</li>
 <li><strong>Program Scope:</strong> 3-6 month pilot programs</li>
@@ -36,7 +35,6 @@ WeHour's pilot programs are designed to validate the platform's value propositio
 
 ### Corporate Pilot Programs
 <div class="feature-box">
-<h4>💰 Corporate Pilots</h4>
 <ul>
 <li><strong>Target Companies:</strong> 2-3 corporations with CSR programs</li>
 <li><strong>Program Scope:</strong> Employee volunteer programs</li>
@@ -47,7 +45,6 @@ WeHour's pilot programs are designed to validate the platform's value propositio
 
 ### Educational Pilot Programs
 <div class="feature-box">
-<h4>🎓 Educational Pilots</h4>
 <ul>
 <li><strong>Target Institutions:</strong> 2-3 schools or universities</li>
 <li><strong>Program Scope:</strong> Student volunteer programs</li>
@@ -62,7 +59,6 @@ WeHour's pilot programs are designed to validate the platform's value propositio
 
 ### Program Phases
 <div class="feature-box">
-<h4>📅 Program Timeline</h4>
 <ul>
 <li><strong>Phase 1 (Month 1):</strong> Program setup and onboarding</li>
 <li><strong>Phase 2 (Months 2-4):</strong> Active pilot program execution</li>
@@ -73,7 +69,6 @@ WeHour's pilot programs are designed to validate the platform's value propositio
 
 ### Program Components
 <div class="feature-box">
-<h4>🔧 Program Elements</h4>
 <ul>
 <li><strong>Platform Training:</strong> Comprehensive platform training</li>
 <li><strong>Technical Support:</strong> Ongoing technical support</li>
@@ -88,7 +83,6 @@ WeHour's pilot programs are designed to validate the platform's value propositio
 
 ### Primary Goals
 <div class="feature-box">
-<h4>🎯 Primary Objectives</h4>
 <ul>
 <li><strong>Value Demonstration:</strong> Demonstrate clear value to all stakeholders</li>
 <li><strong>Technical Validation:</strong> Validate platform functionality and performance</li>
@@ -99,7 +93,6 @@ WeHour's pilot programs are designed to validate the platform's value propositio
 
 ### Secondary Goals
 <div class="feature-box">
-<h4>📈 Secondary Objectives</h4>
 <ul>
 <li><strong>Partnership Building:</strong> Establish long-term partnerships</li>
 <li><strong>Market Education:</strong> Educate market about platform benefits</li>
@@ -114,7 +107,6 @@ WeHour's pilot programs are designed to validate the platform's value propositio
 
 ### Key Performance Indicators
 <div class="feature-box">
-<h4>📈 Pilot KPIs</h4>
 <ul>
 <li><strong>User Adoption:</strong> Number of active users and engagement</li>
 <li><strong>Platform Usage:</strong> Platform usage and feature adoption</li>
@@ -125,7 +117,6 @@ WeHour's pilot programs are designed to validate the platform's value propositio
 
 ### Success Metrics
 <div class="feature-box">
-<h4>📊 Success Criteria</h4>
 <ul>
 <li><strong>Volunteer Engagement:</strong> 80%+ volunteer engagement rate</li>
 <li><strong>Organization Satisfaction:</strong> 90%+ organization satisfaction</li>
@@ -140,7 +131,6 @@ WeHour's pilot programs are designed to validate the platform's value propositio
 
 ### Strategic Partnerships
 <div class="feature-box">
-<h4>🤝 Partnership Types</h4>
 <ul>
 <li><strong>NGO Partnerships:</strong> Strategic partnerships with key NGOs</li>
 <li><strong>Corporate Partnerships:</strong> Corporate CSR program partnerships</li>
@@ -151,7 +141,6 @@ WeHour's pilot programs are designed to validate the platform's value propositio
 
 ### Partnership Benefits
 <div class="feature-box">
-<h4>💼 Partnership Value</h4>
 <ul>
 <li><strong>Market Access:</strong> Access to target markets and users</li>
 <li><strong>Credibility:</strong> Enhanced credibility and market recognition</li>
@@ -166,7 +155,6 @@ WeHour's pilot programs are designed to validate the platform's value propositio
 
 ### Implementation Process
 <div class="feature-box">
-<h4>🚀 Implementation Steps</h4>
 <ul>
 <li><strong>Partner Identification:</strong> Identify and select pilot partners</li>
 <li><strong>Program Design:</strong> Design pilot program structure and goals</li>
@@ -177,7 +165,6 @@ WeHour's pilot programs are designed to validate the platform's value propositio
 
 ### Execution Management
 <div class="feature-box">
-<h4>📋 Execution Process</h4>
 <ul>
 <li><strong>Program Launch:</strong> Launch pilot programs with partners</li>
 <li><strong>Ongoing Support:</strong> Provide ongoing support and assistance</li>
@@ -192,7 +179,6 @@ WeHour's pilot programs are designed to validate the platform's value propositio
 
 ### Expected Outcomes
 <div class="feature-box">
-<h4>📈 Expected Results</h4>
 <ul>
 <li><strong>User Adoption:</strong> 1,000+ active users across all pilots</li>
 <li><strong>Verified Hours:</strong> 10,000+ verified volunteer hours</li>
@@ -203,7 +189,6 @@ WeHour's pilot programs are designed to validate the platform's value propositio
 
 ### Success Indicators
 <div class="feature-box">
-<h4>✅ Success Metrics</h4>
 <ul>
 <li><strong>Platform Performance:</strong> Stable and reliable platform performance</li>
 <li><strong>User Engagement:</strong> High user engagement and retention</li>
@@ -218,7 +203,6 @@ WeHour's pilot programs are designed to validate the platform's value propositio
 
 ### Program Expansion
 <div class="feature-box">
-<h4>📈 Program Growth</h4>
 <ul>
 <li><strong>Scale Expansion:</strong> Scale successful pilot programs</li>
 <li><strong>Feature Enhancement:</strong> Enhance platform features based on feedback</li>
@@ -229,7 +213,6 @@ WeHour's pilot programs are designed to validate the platform's value propositio
 
 ### Advanced Features
 <div class="feature-box">
-<h4>🚀 Feature Development</h4>
 <ul>
 <li><strong>AI Integration:</strong> Artificial intelligence integration</li>
 <li><strong>Advanced Analytics:</strong> Advanced analytics and insights</li>
@@ -244,7 +227,6 @@ WeHour's pilot programs are designed to validate the platform's value propositio
 
 ### NGO Pilot Scenarios
 <div class="feature-box">
-<h4>🏢 NGO Use Cases</h4>
 <ul>
 <li><strong>Community Service:</strong> Community service volunteer programs</li>
 <li><strong>Environmental Programs:</strong> Environmental volunteer programs</li>
@@ -255,7 +237,6 @@ WeHour's pilot programs are designed to validate the platform's value propositio
 
 ### Corporate Pilot Scenarios
 <div class="feature-box">
-<h4>💰 Corporate Use Cases</h4>
 <ul>
 <li><strong>Employee Volunteering:</strong> Employee volunteer programs</li>
 <li><strong>CSR Campaigns:</strong> Corporate social responsibility campaigns</li>
@@ -266,7 +247,6 @@ WeHour's pilot programs are designed to validate the platform's value propositio
 
 ### Educational Pilot Scenarios
 <div class="feature-box">
-<h4>🎓 Educational Use Cases</h4>
 <ul>
 <li><strong>Student Service:</strong> Student community service programs</li>
 <li><strong>Academic Recognition:</strong> Academic credit for volunteer service</li>
@@ -281,7 +261,6 @@ WeHour's pilot programs are designed to validate the platform's value propositio
 
 ### Data Collection
 <div class="feature-box">
-<h4>📈 Data Gathering</h4>
 <ul>
 <li><strong>Usage Analytics:</strong> Platform usage and engagement data</li>
 <li><strong>User Feedback:</strong> User feedback and satisfaction data</li>
@@ -292,7 +271,6 @@ WeHour's pilot programs are designed to validate the platform's value propositio
 
 ### Analysis and Reporting
 <div class="feature-box">
-<h4>📊 Data Analysis</h4>
 <ul>
 <li><strong>Performance Analysis:</strong> Platform performance analysis</li>
 <li><strong>User Analysis:</strong> User behavior and engagement analysis</li>
@@ -307,7 +285,6 @@ WeHour's pilot programs are designed to validate the platform's value propositio
 
 ### Critical Success Factors
 <div class="feature-box">
-<h4>✅ Success Factors</h4>
 <ul>
 <li><strong>Partner Selection:</strong> Careful selection of pilot partners</li>
 <li><strong>Program Design:</strong> Well-designed pilot program structure</li>
@@ -318,7 +295,6 @@ WeHour's pilot programs are designed to validate the platform's value propositio
 
 ### Risk Mitigation
 <div class="feature-box">
-<h4>⚠️ Risk Management</h4>
 <ul>
 <li><strong>Technical Risks:</strong> Technical risk mitigation and management</li>
 <li><strong>User Risks:</strong> User adoption and engagement risks</li>
