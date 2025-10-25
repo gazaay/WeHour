@@ -1,24 +1,21 @@
-# Revenue Streams
-## 收入来源
+# Revenue Streams 收入来源
 
-## 💰 Sustainable Business Model
-## 可持续商业模式
+## 💰 Sustainable Business Model 可持续商业模式
 
 WeHour's revenue model is designed for long-term sustainability, focusing on value creation for all stakeholders while generating sustainable revenue through multiple streams.
 WeHour的收入模式旨在实现长期可持续发展，专注于为所有利益相关者创造价值，同时通过多种收入来源产生可持续收入。
 
 ---
 
-## 🎯 Revenue Strategy
-## 收入策略
+## 🎯 Revenue Strategy 收入策略
 
 <div class="highlight">
 **Value-Driven Revenue**: Revenue is generated through value creation for volunteers, organizations, and sponsors, ensuring sustainable growth and stakeholder satisfaction.
 **价值驱动收入**：通过为志愿者、组织和赞助商创造价值来产生收入，确保可持续增长和利益相关者满意度。
 </div>
 
-### Revenue Principles
-### 收入原则
+### Revenue Principles 收入原则
+
 - **Value Creation**: Revenue tied to actual value delivered
 - **Stakeholder Alignment**: Revenue benefits all platform participants
 - **Sustainable Growth**: Long-term revenue sustainability
