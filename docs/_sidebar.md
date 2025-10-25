@@ -1,4 +1,4 @@
-* [🏠 Home](README.md)
+# [🏠 Home](README.md)
 
 ## 💼 Business Model
 * [Revenue Streams](business-model/revenue-streams.md)
@@ -6,6 +6,7 @@
 * [Market Analysis](business-model/market-analysis.md)
 * [Competitive Landscape](business-model/competitive-landscape.md)
 * [Go-to-Market Strategy](business-model/gtm-strategy.md)
+
 
 ## 📋 Core Concepts
 * [Vision & Mission](core-concepts/vision-mission.md)

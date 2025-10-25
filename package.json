@@ -6,7 +6,7 @@
   "scripts": {
     "serve": "docsify serve docs",
     "start": "docsify serve docs",
-    "dev": "docsify serve docs --port 3000"
+    "dev": "docsify serve docs --port 3003"
   },
   "keywords": [
     "docsify",
