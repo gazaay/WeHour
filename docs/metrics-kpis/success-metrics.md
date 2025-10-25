@@ -7,7 +7,6 @@
 <div class="highlight">
 **Comprehensive Metrics Framework**: WeHour's success metrics provide a comprehensive framework for measuring platform performance, user engagement, and ecosystem growth across multiple dimensions.
 **综合指标框架**：WeHour的成功指标提供了一个综合框架，用于衡量平台性能、用户参与度和跨多个维度的生态系统增长。
-</div>
 
 ---
 
@@ -17,7 +16,6 @@
 ### User Engagement
 ### 用户参与度
 
-<div class="feature-box">
 <ul>
 <li><strong>Monthly Active Users (MAU):</strong> Target 10,000+ by Year 1</li>
 <li><strong>Daily Active Users (DAU):</strong> Target 2,000+ by Year 1</li>
@@ -32,12 +30,10 @@
 <li><strong>会话时长</strong>：每次会话平均15+分钟</li>
 <li><strong>每次会话页面浏览量</strong>：每次访问5+页面</li>
 </ul>
-</div>
 
 ### Volunteer Service Metrics
 ### 义工服务指标
 
-<div class="feature-box">
 <ul>
 <li><strong>Total Volunteer Hours:</strong> 50,000+ hours by Year 1</li>
 <li><strong>Average Hours per User:</strong> 5+ hours per month</li>
@@ -52,7 +48,6 @@
 <li><strong>服务验证率</strong>：95%+验证准确性</li>
 <li><strong>跨组织参与</strong>：60%+用户服务多个组织</li>
 </ul>
-</div>
 
 ---
 
@@ -62,7 +57,6 @@
 ### Revenue Generation
 ### 收入产生
 
-<div class="feature-box">
 <ul>
 <li><strong>Monthly Recurring Revenue (MRR):</strong> HKD 500K+ by Year 1</li>
 <li><strong>Annual Recurring Revenue (ARR):</strong> HKD 6M+ by Year 1</li>
@@ -77,12 +71,10 @@
 <li><strong>每用户平均收入 (ARPU)</strong>：每月50+港币</li>
 <li><strong>转换率</strong>：从免费到付费用户15%+</li>
 </ul>
-</div>
 
 ### Cost Management
 ### 成本管理
 
-<div class="feature-box">
 <ul>
 <li><strong>Customer Acquisition Cost (CAC):</strong> < HKD 100 per user</li>
 <li><strong>Customer Lifetime Value (CLV):</strong> > HKD 500 per user</li>
@@ -97,7 +89,6 @@
 <li><strong>运营利润率</strong>：第2年30%+</li>
 <li><strong>烧钱率</strong>：每月<20万港币</li>
 </ul>
-</div>
 
 ---
 
@@ -107,7 +98,6 @@
 ### Network Effects
 ### 网络效应
 
-<div class="feature-box">
 <ul>
 <li><strong>Partner Organizations:</strong> 100+ by Year 1</li>
 <li><strong>Merchant Integration:</strong> 50+ merchants by Year 1</li>
@@ -122,12 +112,10 @@
 <li><strong>推荐率</strong>：25%+新用户来自推荐</li>
 <li><strong>网络密度</strong>：每用户3+连接</li>
 </ul>
-</div>
 
 ### Geographic Expansion
 ### 地理扩张
 
-<div class="feature-box">
 <ul>
 <li><strong>City Coverage:</strong> 5+ major cities by Year 1</li>
 <li><strong>International Markets:</strong> 2+ countries by Year 2</li>
@@ -142,7 +130,6 @@
 <li><strong>跨境交易</strong>：总交易量15%+</li>
 <li><strong>文化适应</strong>：90%+本地语言支持</li>
 </ul>
-</div>
 
 ---
 
@@ -152,7 +139,6 @@
 ### Service Quality
 ### 服务质量
 
-<div class="feature-box">
 <ul>
 <li><strong>Service Rating:</strong> 4.5+ stars average</li>
 <li><strong>Complaint Resolution:</strong> 95%+ resolved within 24 hours</li>
@@ -167,12 +153,10 @@
 <li><strong>服务正常运行时间</strong>：99.9%+可用性</li>
 <li><strong>数据准确性</strong>：99.5%+验证准确性</li>
 </ul>
-</div>
 
 ### Security & Compliance
 ### 安全与合规
 
-<div class="feature-box">
 <ul>
 <li><strong>Security Incidents:</strong> 0 major breaches</li>
 <li><strong>Compliance Score:</strong> 100% regulatory compliance</li>
@@ -187,7 +171,6 @@
 <li><strong>审计结果</strong>：清洁审计报告</li>
 <li><strong>用户信任评分</strong>：10分中9.0+</li>
 </ul>
-</div>
 
 ---
 
@@ -197,7 +180,6 @@
 ### Year 1 Targets
 ### 第1年目标
 
-<div class="feature-box">
 <ul>
 <li><strong>Q1:</strong> 1,000 users, 5,000 volunteer hours</li>
 <li><strong>Q2:</strong> 3,000 users, 15,000 volunteer hours</li>
@@ -210,12 +192,10 @@
 <li><strong>第3季度</strong>：6,000用户，30,000义工时数</li>
 <li><strong>第4季度</strong>：10,000用户，50,000义工时数</li>
 </ul>
-</div>
 
 ### Long-term Vision
 ### 长期愿景
 
-<div class="feature-box">
 <ul>
 <li><strong>Global Users:</strong> 1M+ users worldwide</li>
 <li><strong>Service Hours:</strong> 10M+ volunteer hours tracked</li>
@@ -230,7 +210,6 @@
 <li><strong>市场存在</strong>：20+国家</li>
 <li><strong>生态系统价值</strong>：创造100亿+港币总价值</li>
 </ul>
-</div>
 
 ---
 
@@ -240,7 +219,6 @@
 ### Data Collection
 ### 数据收集
 
-<div class="feature-box">
 <ul>
 <li><strong>Real-time Monitoring:</strong> Live dashboard updates</li>
 <li><strong>Automated Reporting:</strong> Daily, weekly, monthly reports</li>
@@ -255,12 +233,10 @@
 <li><strong>基准测试</strong>：行业比较指标</li>
 <li><strong>用户反馈</strong>：持续反馈收集</li>
 </ul>
-</div>
 
 ### Performance Optimization
 ### 性能优化
 
-<div class="feature-box">
 <ul>
 <li><strong>A/B Testing:</strong> Regular feature testing</li>
 <li><strong>Performance Monitoring:</strong> System optimization</li>
@@ -275,7 +251,6 @@
 <li><strong>反馈整合</strong>：快速迭代周期</li>
 <li><strong>创新指标</strong>：新功能采用率</li>
 </ul>
-</div>
 
 ---
 

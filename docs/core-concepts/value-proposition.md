@@ -11,110 +11,88 @@ WeHour creates unprecedented value by transforming volunteer service from an inv
 
 ### 👥 For Volunteers
 
-<div class="feature-box">
 <ul>
 <li><strong>Portable Credentials:</strong> Service records follow you across organizations and borders</li>
 <li><strong>Employer Verification:</strong> Prove volunteer experience to potential employers</li>
 <li><strong>Academic Recognition:</strong> Demonstrate community service for educational applications</li>
 <li><strong>Social Proof:</strong> Verifiable badges showcase your commitment to social causes</li>
 </ul>
-</div>
 
-<div class="feature-box">
 <ul>
 <li><strong>Tangible Benefits:</strong> Convert volunteer hours into coupons, discounts, and rewards</li>
 <li><strong>Donation Power:</strong> Direct your earned tokens to causes you care about</li>
 <li><strong>Cross-Platform Integration:</strong> Use rewards across multiple retailers and services</li>
 <li><strong>Long-term Value:</strong> Accumulate tokens for significant rewards and recognition</li>
 </ul>
-</div>
 
-<div class="feature-box">
 <ul>
 <li><strong>Zero-Crypto UX:</strong> Traditional app experience with blockchain benefits</li>
 <li><strong>Seamless Integration:</strong> Works with existing volunteer management systems</li>
 <li><strong>Mobile-First:</strong> Optimized for smartphone usage and convenience</li>
 <li><strong>Community Connection:</strong> Connect with like-minded volunteers and causes</li>
 </ul>
-</div>
 
 ### 🏢 For Organizations (NGOs)
 
-<div class="feature-box">
 <ul>
 <li><strong>Automated Tracking:</strong> Reduce administrative burden by 80%</li>
 <li><strong>Real-Time Analytics:</strong> Instant insights into volunteer engagement and impact</li>
 <li><strong>Streamlined Verification:</strong> Multi-attestation system ensures accuracy</li>
 <li><strong>Cost Reduction:</strong> Lower operational costs through automation</li>
 </ul>
-</div>
 
-<div class="feature-box">
 <ul>
 <li><strong>Transparent Impact:</strong> Verifiable data attracts more sponsors and funders</li>
 <li><strong>CSR Partnerships:</strong> Direct connection with corporate social responsibility programs</li>
 <li><strong>Grant Applications:</strong> Strong data supports funding applications</li>
 <li><strong>Donor Confidence:</strong> Transparent reporting builds trust with supporters</li>
 </ul>
-</div>
 
-<div class="feature-box">
 <ul>
 <li><strong>Recognition System:</strong> Volunteers feel valued and appreciated</li>
 <li><strong>Reward Incentives:</strong> Tangible benefits encourage continued participation</li>
 <li><strong>Community Building:</strong> Platform facilitates volunteer connections</li>
 <li><strong>Long-term Engagement:</strong> Sustainable volunteer relationships</li>
 </ul>
-</div>
 
 ### 💰 For Sponsors & Corporations
 
-<div class="feature-box">
 <ul>
 <li><strong>Verifiable Data:</strong> Transparent, auditable volunteer impact metrics</li>
 <li><strong>ROI Measurement:</strong> Clear return on social investment</li>
 <li><strong>ESG Compliance:</strong> Meet environmental, social, and governance requirements</li>
 <li><strong>Brand Association:</strong> Positive association with verified social impact</li>
 </ul>
-</div>
 
-<div class="feature-box">
 <ul>
 <li><strong>Direct Connection:</strong> Engage directly with volunteer communities</li>
 <li><strong>Brand Campaigns:</strong> Create branded volunteer programs and initiatives</li>
 <li><strong>Employee Engagement:</strong> Corporate volunteer programs with measurable impact</li>
 <li><strong>Community Relations:</strong> Build stronger relationships with local communities</li>
 </ul>
-</div>
 
-<div class="feature-box">
 <ul>
 <li><strong>Customer Acquisition:</strong> Attract customers who value social responsibility</li>
 <li><strong>Employee Retention:</strong> Engage employees through meaningful volunteer programs</li>
 <li><strong>Stakeholder Relations:</strong> Strengthen relationships with investors and partners</li>
 <li><strong>Competitive Advantage:</strong> Differentiate through authentic social impact</li>
 </ul>
-</div>
 
 ### 🏪 For Retailers & Partners
 
-<div class="feature-box">
 <ul>
 <li><strong>Loyalty Programs:</strong> Integrate with existing customer loyalty systems</li>
 <li><strong>Social Impact:</strong> Attract customers who value social responsibility</li>
 <li><strong>Data Insights:</strong> Understand customer values and preferences</li>
 <li><strong>Brand Differentiation:</strong> Stand out through social impact association</li>
 </ul>
-</div>
 
-<div class="feature-box">
 <ul>
 <li><strong>Customer Acquisition:</strong> Reach new customers through volunteer networks</li>
 <li><strong>Retention Programs:</strong> Reward loyal customers with volunteer-earned benefits</li>
 <li><strong>CSR Initiatives:</strong> Authentic corporate social responsibility programs</li>
 <li><strong>Community Relations:</strong> Build stronger local community connections</li>
 </ul>
-</div>
 
 ---
 
@@ -123,7 +101,6 @@ WeHour creates unprecedented value by transforming volunteer service from an inv
 ### 🔗 Network Effects
 <div class="highlight">
 **The more participants join WeHour, the more valuable the platform becomes for everyone**
-</div>
 
 - **Volunteer Network**: Larger volunteer base attracts more organizations
 - **Organization Network**: More organizations attract more volunteers
@@ -133,7 +110,6 @@ WeHour creates unprecedented value by transforming volunteer service from an inv
 ### 🏆 Trust & Credibility
 <div class="highlight">
 **Blockchain technology ensures immutable, verifiable records that build trust across the ecosystem**
-</div>
 
 - **Transparent Verification**: Multi-attestation system prevents fraud
 - **Immutable Records**: Blockchain ensures data integrity
@@ -143,7 +119,6 @@ WeHour creates unprecedented value by transforming volunteer service from an inv
 ### 💎 Value Creation
 <div class="highlight">
 **WeHour creates new value streams that didn't exist before**
-</div>
 
 - **Monetizable Service**: Convert volunteer hours into real value
 - **Cross-Border Recognition**: International credential portability
@@ -155,34 +130,28 @@ WeHour creates unprecedented value by transforming volunteer service from an inv
 ## 🎯 Competitive Advantages
 
 ### vs. Traditional Volunteer Management
-<div class="feature-box">
 <ul>
 <li><strong>Verification:</strong> Blockchain-verified vs. manual records</li>
 <li><strong>Portability:</strong> Cross-organization vs. siloed data</li>
 <li><strong>Value:</strong> Tokenized rewards vs. no rewards</li>
 <li><strong>Transparency:</strong> Public verification vs. private records</li>
 </ul>
-</div>
 
 ### vs. Other Blockchain Projects
-<div class="feature-box">
 <ul>
 <li><strong>Real Utility:</strong> Practical use cases vs. speculative tokens</li>
 <li><strong>User Experience:</strong> Zero-crypto UX vs. complex interfaces</li>
 <li><strong>Ecosystem Integration:</strong> Existing system compatibility vs. isolated platforms</li>
 <li><strong>Regulatory Compliance:</strong> Clear legal framework vs. regulatory uncertainty</li>
 </ul>
-</div>
 
 ### vs. Point Systems & Loyalty Programs
-<div class="feature-box">
 <ul>
 <li><strong>Social Impact:</strong> Meaningful contribution vs. commercial transactions</li>
 <li><strong>Verification:</strong> Multi-attestation vs. self-reported activities</li>
 <li><strong>Portability:</strong> Cross-platform vs. single-brand loyalty</li>
 <li><strong>Value Creation:</strong> Community impact vs. individual benefits</li>
 </ul>
-</div>
 
 ---
 
@@ -234,7 +203,6 @@ WeHour creates unprecedented value by transforming volunteer service from an inv
 
 <div class="highlight">
 **WeHour transforms volunteer service from an invisible contribution into a verifiable, valuable, and rewarding experience that benefits everyone in the ecosystem.**
-</div>
 
 ### For Society
 - **Recognition**: Volunteers receive proper recognition for their contributions

@@ -7,7 +7,6 @@
 <div class="highlight">
 **Universal Exchange Medium**: WeHour's stable coin serves as a universal exchange medium that enables cross-merchant consumption, breaking down barriers between different point systems and volunteer hour programs.
 **通用交换媒介**：WeHour的稳定币作为通用交换媒介，实现跨商家消费，打破不同积分系统和义工时数计划之间的壁垒。
-</div>
 
 ---
 
@@ -53,7 +52,6 @@ graph TD
 ### Point Acquisition Phase
 ### 积分获取阶段
 
-<div class="feature-box">
 <ul>
 <li><strong>Merchant A Points:</strong> Users earn points from Merchant A through purchases</li>
 <li><strong>Merchant B Points:</strong> Users earn points from Merchant B through purchases</li>
@@ -66,12 +64,10 @@ graph TD
 <li><strong>义工时数</strong>：志愿者通过社区服务获得时数</li>
 <li><strong>跨平台积分</strong>：来自集成合作伙伴平台的积分</li>
 </ul>
-</div>
 
 ### Usage Choice Phase
 ### 使用选择阶段
 
-<div class="feature-box">
 <ul>
 <li><strong>Direct Usage:</strong> Use points/hours directly within original ecosystem</li>
 <li><strong>Stable Coin Conversion:</strong> Convert points/hours to stable coins for flexibility</li>
@@ -84,12 +80,10 @@ graph TD
 <li><strong>混合方法</strong>：结合直接使用和稳定币转换</li>
 <li><strong>战略规划</strong>：根据商家可用性和偏好规划使用</li>
 </ul>
-</div>
 
 ### Cross-Merchant Consumption Phase
 ### 跨商家消费阶段
 
-<div class="feature-box">
 <ul>
 <li><strong>Universal Spending:</strong> Use stable coins across any participating merchant</li>
 <li><strong>Value Preservation:</strong> Maintain value across different merchant ecosystems</li>
@@ -102,7 +96,6 @@ graph TD
 <li><strong>增强效用</strong>：增加消费选择和灵活性</li>
 <li><strong>网络效应</strong>：从不断增长的商家网络中受益</li>
 </ul>
-</div>
 
 ---
 
@@ -140,7 +133,6 @@ graph LR
 ### Conversion Fees
 ### 转换费用
 
-<div class="feature-box">
 <ul>
 <li><strong>Point to Stable Coin:</strong> 2-5% conversion fee</li>
 <li><strong>Volunteer Hours to Stable Coin:</strong> 1-3% conversion fee</li>
@@ -153,12 +145,10 @@ graph LR
 <li><strong>稳定币转积分</strong>：2-5%转换费用</li>
 <li><strong>跨商家交易</strong>：1-2%交易费用</li>
 </ul>
-</div>
 
 ### Liquidity Pool Revenue
 ### 流动性池收入
 
-<div class="feature-box">
 <ul>
 <li><strong>Liquidity Provision:</strong> Revenue from providing liquidity for conversions</li>
 <li><strong>Interest Generation:</strong> Interest earned on stable coin reserves</li>
@@ -171,7 +161,6 @@ graph LR
 <li><strong>套利机会</strong>：从商家间价格套利中获得收入</li>
 <li><strong>网络费用</strong>：维护跨商家网络的费用</li>
 </ul>
-</div>
 
 ---
 
@@ -228,7 +217,6 @@ graph TB
 ### Merchant Onboarding
 ### 商家入驻
 
-<div class="feature-box">
 <ul>
 <li><strong>Application Review:</strong> Comprehensive merchant application review</li>
 <li><strong>Technical Integration:</strong> API integration and testing</li>
@@ -241,12 +229,10 @@ graph TB
 <li><strong>合规检查</strong>：监管和合规验证</li>
 <li><strong>启动支持</strong>：营销和启动支持</li>
 </ul>
-</div>
 
 ### Merchant Benefits
 ### 商家优势
 
-<div class="feature-box">
 <ul>
 <li><strong>Customer Acquisition:</strong> Access to cross-merchant customer base</li>
 <li><strong>Revenue Growth:</strong> Increased transaction volume and revenue</li>
@@ -259,7 +245,6 @@ graph TB
 <li><strong>成本降低</strong>：降低客户获取成本</li>
 <li><strong>数据洞察</strong>：增强客户行为分析</li>
 </ul>
-</div>
 
 ---
 
@@ -269,7 +254,6 @@ graph TB
 ### Seamless Integration
 ### 无缝整合
 
-<div class="feature-box">
 <ul>
 <li><strong>Point Earning:</strong> Earn points from various sources</li>
 <li><strong>Conversion Decision:</strong> Choose to convert to stable coins</li>
@@ -282,12 +266,10 @@ graph TB
 <li><strong>跨商家消费</strong>：在任何地方消费稳定币</li>
 <li><strong>价值最大化</strong>：通过战略使用最大化价值</li>
 </ul>
-</div>
 
 ### Mobile App Features
 ### 移动应用功能
 
-<div class="feature-box">
 <ul>
 <li><strong>Point Tracking:</strong> Track points from all sources</li>
 <li><strong>Conversion Tools:</strong> Easy conversion to stable coins</li>
@@ -300,7 +282,6 @@ graph TB
 <li><strong>商家发现</strong>：找到参与的商家</li>
 <li><strong>交易历史</strong>：完整的交易历史</li>
 </ul>
-</div>
 
 ---
 
@@ -310,7 +291,6 @@ graph TB
 ### Key Performance Indicators
 ### 关键绩效指标
 
-<div class="feature-box">
 <ul>
 <li><strong>Conversion Rate:</strong> Percentage of points/hours converted to stable coins</li>
 <li><strong>Cross-Merchant Usage:</strong> Usage of stable coins across merchants</li>
@@ -323,12 +303,10 @@ graph TB
 <li><strong>商家网络增长</strong>：参与商家数量</li>
 <li><strong>交易量</strong>：稳定币总交易量</li>
 </ul>
-</div>
 
 ### Revenue Projections
 ### 收入预测
 
-<div class="feature-box">
 <ul>
 <li><strong>Year 1:</strong> HKD 5-10M from conversion fees</li>
 <li><strong>Year 2:</strong> HKD 15-25M from network effects</li>
@@ -341,7 +319,6 @@ graph TB
 <li><strong>第3年</strong>：从完整生态系统中获得3000-5000万港币</li>
 <li><strong>第5年</strong>：从全球扩张中获得1亿+港币</li>
 </ul>
-</div>
 
 ---
 
@@ -351,7 +328,6 @@ graph TB
 ### Technology Evolution
 ### 技术演进
 
-<div class="feature-box">
 <ul>
 <li><strong>AI-Powered Optimization:</strong> AI-driven conversion recommendations</li>
 <li><strong>Predictive Analytics:</strong> Predictive spending behavior analysis</li>
@@ -364,12 +340,10 @@ graph TB
 <li><strong>区块链整合</strong>：增强区块链安全性和透明度</li>
 <li><strong>全球扩张</strong>：国际商家网络扩张</li>
 </ul>
-</div>
 
 ### Market Expansion
 ### 市场扩张
 
-<div class="feature-box">
 <ul>
 <li><strong>Regional Growth:</strong> Expand to Macau, Singapore, Taiwan</li>
 <li><strong>Industry Diversification:</strong> Enter new industry verticals</li>
@@ -382,7 +356,6 @@ graph TB
 <li><strong>合作伙伴发展</strong>：与主要零售商的战略合作</li>
 <li><strong>技术整合</strong>：与现有支付系统整合</li>
 </ul>
-</div>
 
 ---
 

@@ -12,12 +12,10 @@ WeHour采用复杂的双代币模型，将效用与凭证分离，创建一个�
 <div class="highlight">
 **Universal Exchange Medium**: VH$ tokens can be converted to stable coins for cross-merchant consumption, enabling users to spend their volunteer hours across different merchant networks.
 **通用交换媒介**：VH$代币可转换为稳定币用于跨商家消费，使用户能够在不同商家网络中消费其义工时数。
-</div>
 
 ### Stable Coin Conversion Process
 ### 稳定币转换流程
 
-<div class="feature-box">
 <ul>
 <li><strong>VH$ to Stable Coin:</strong> Convert volunteer hours to stable coins for cross-merchant use</li>
 <li><strong>Point Integration:</strong> Integrate with existing merchant point systems</li>
@@ -30,7 +28,6 @@ WeHour采用复杂的双代币模型，将效用与凭证分离，创建一个�
 <li><strong>跨商家消费</strong>：在不同商家网络中使用稳定币</li>
 <li><strong>价值保持</strong>：在不同生态系统中保持价值</li>
 </ul>
-</div>
 
 ---
 
@@ -38,7 +35,6 @@ WeHour采用复杂的双代币模型，将效用与凭证分离，创建一个�
 
 <div class="highlight">
 **Two Complementary Tokens**: VH$ (WeHours Token) for utility and rewards + VB$ (Badge Token) for credentials and proof of participation
-</div>
 
 ### Token Relationship Matrix
 
@@ -84,7 +80,6 @@ graph TD
 <li><strong>Cross-Chain:</strong> Compatible across multiple blockchains</li>
 <li><strong>Total Supply:</strong> Unlimited (based on verified hours)</li>
 </ul>
-</div>
 
 ### Economic Model
 - **Base Rate**: 1 VH$ per verified hour
@@ -97,32 +92,26 @@ graph TD
 - **Retention Rewards**: Long-term volunteer loyalty bonuses
 
 ### Utility Functions
-<div class="feature-box">
 <ul>
 <li>Convert VH$ to retailer coupons and discounts</li>
 <li>Exchange for gift cards and vouchers</li>
 <li>Redeem for exclusive experiences and services</li>
 <li>Access to premium volunteer opportunities</li>
 </ul>
-</div>
 
-<div class="feature-box">
 <ul>
 <li>Direct donations to supported causes</li>
 <li>Matching donation programs with sponsors</li>
 <li>Community impact fund contributions</li>
 <li>Emergency relief fund donations</li>
 </ul>
-</div>
 
-<div class="feature-box">
 <ul>
 <li>Transfer tokens across supported blockchains</li>
 <li>Participate in cross-chain reward programs</li>
 <li>Access global volunteer opportunities</li>
 <li>International recognition and benefits</li>
 </ul>
-</div>
 
 ---
 
@@ -138,7 +127,6 @@ graph TD
 <li><strong>Revocation:</strong> Possible for fraud or misconduct</li>
 <li><strong>Metadata:</strong> Rich event and role information</li>
 </ul>
-</div>
 
 ### Credential Structure
 - **Event Information**: Date, location, organization, cause
@@ -148,32 +136,26 @@ graph TD
 - **Skills Demonstrated**: Competencies and capabilities shown
 
 ### Verification Features
-<div class="feature-box">
 <ul>
 <li>Instant verification for employers and institutions</li>
 <li>Public verification without revealing personal data</li>
 <li>Cross-platform credential recognition</li>
 <li>Mobile-friendly verification process</li>
 </ul>
-</div>
 
-<div class="feature-box">
 <ul>
 <li>Detailed event and role information</li>
 <li>Impact metrics and outcomes achieved</li>
 <li>Skills and competencies demonstrated</li>
 <li>Verification and attestation data</li>
 </ul>
-</div>
 
-<div class="feature-box">
 <ul>
 <li>Multi-attestation verification system</li>
 <li>Immutable blockchain records</li>
 <li>Revocation capabilities for misconduct</li>
 <li>Audit trail for all credential activities</li>
 </ul>
-</div>
 
 ---
 
@@ -182,7 +164,6 @@ graph TD
 ### Complementary Functions
 <div class="highlight">
 **VH$ and VB$ work together to create a comprehensive volunteer service ecosystem**
-</div>
 
 - **VB$ provides proof** → **VH$ provides value**
 - **VB$ enables verification** → **VH$ enables rewards**
@@ -200,24 +181,20 @@ graph TD
 ## 💰 Economic Mechanisms
 
 ### Token Issuance
-<div class="feature-box">
 <ul>
 <li><strong>Event Completion:</strong> VB$ issued after verified participation</li>
 <li><strong>Hour Verification:</strong> VH$ issued for each verified hour</li>
 <li><strong>Quality Bonuses:</strong> Additional VH$ for exceptional service</li>
 <li><strong>Retention Rewards:</strong> Long-term volunteer bonuses</li>
 </ul>
-</div>
 
 ### Token Sinks (Value Destruction)
-<div class="feature-box">
 <ul>
 <li><strong>Reward Redemption:</strong> VH$ burned when redeeming rewards</li>
 <li><strong>Donation Processing:</strong> VH$ converted to donations</li>
 <li><strong>Verification Fees:</strong> Small VH$ fees for advanced features</li>
 <li><strong>Cross-Chain Transfers:</strong> Gas fees and bridge costs</li>
 </ul>
-</div>
 
 ### Value Stability
 - **Utility-Driven**: Value based on real-world utility, not speculation
@@ -232,43 +209,34 @@ graph TD
 ### Supported Networks
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin: 20px 0;">
 
-<div class="feature-box">
 <ul>
 <li>Primary network for operations</li>
 <li>Low-cost transactions</li>
 <li>High security and decentralization</li>
 <li>EVM compatibility</li>
 </ul>
-</div>
 
-<div class="feature-box">
 <ul>
 <li>Secondary network for scalability</li>
 <li>Ultra-low transaction costs</li>
 <li>Fast transaction processing</li>
 <li>Ethereum compatibility</li>
 </ul>
-</div>
 
-<div class="feature-box">
 <ul>
 <li>Alternative network for cost efficiency</li>
 <li>High throughput capabilities</li>
 <li>Lower gas fees</li>
 <li>EVM compatibility</li>
 </ul>
-</div>
 
-<div class="feature-box">
 <ul>
 <li>Planned expansion to other chains</li>
 <li>Cross-chain interoperability</li>
 <li>Global accessibility</li>
 <li>Network-agnostic design</li>
 </ul>
-</div>
 
-</div>
 
 ### Cross-Chain Features
 - **Unified Wallet**: Single interface for multi-chain operations
@@ -281,60 +249,48 @@ graph TD
 ## 🎯 Token Use Cases
 
 ### VH$ Use Cases
-<div class="feature-box">
 <ul>
 <li>Retailer coupons and discounts</li>
 <li>Restaurant vouchers and deals</li>
 <li>Entertainment and experience tickets</li>
 <li>Transportation and travel benefits</li>
 </ul>
-</div>
 
-<div class="feature-box">
 <ul>
 <li>Direct donations to causes</li>
 <li>Matching donation programs</li>
 <li>Community fund contributions</li>
 <li>Emergency relief support</li>
 </ul>
-</div>
 
-<div class="feature-box">
 <ul>
 <li>Cross-border volunteer opportunities</li>
 <li>International recognition programs</li>
 <li>Global reward networks</li>
 <li>Multi-currency integration</li>
 </ul>
-</div>
 
 ### VB$ Use Cases
-<div class="feature-box">
 <ul>
 <li>University application credentials</li>
 <li>Scholarship and grant applications</li>
 <li>Academic credit recognition</li>
 <li>Extracurricular activity proof</li>
 </ul>
-</div>
 
-<div class="feature-box">
 <ul>
 <li>Employer verification of volunteer experience</li>
 <li>Skill demonstration and competency proof</li>
 <li>Professional networking and connections</li>
 <li>Career advancement opportunities</li>
 </ul>
-</div>
 
-<div class="feature-box">
 <ul>
 <li>Community leadership recognition</li>
 <li>Social impact demonstration</li>
 <li>Peer recognition and status</li>
 <li>Long-term volunteer commitment proof</li>
 </ul>
-</div>
 
 ---
 

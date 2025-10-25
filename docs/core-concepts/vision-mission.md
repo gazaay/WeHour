@@ -49,25 +49,17 @@ WeHour致力于通过以下方式改变义工服务生态系统：
 ## 🏛️ Core Principles
 ## 🏛️ 核心原则
 
-<div class="feature-box">
 <p>Every transaction and verification is recorded on-chain, creating an immutable audit trail that builds trust between all stakeholders.</p>
 <p>每笔交易和验证都记录在链上，创建不可变的审计轨迹，在所有利益相关者之间建立信任。</p>
-</div>
 
-<div class="feature-box">
 <p>Zero-crypto user experience ensures mainstream adoption while maintaining blockchain benefits for power users.</p>
 <p>零加密用户体验确保主流采用，同时为高级用户保持区块链优势。</p>
-</div>
 
-<div class="feature-box">
 <p>Open ecosystem design enables integration with existing systems, creating value for all participants.</p>
 <p>开放生态系统设计使与现有系统的集成成为可能，为所有参与者创造价值。</p>
-</div>
 
-<div class="feature-box">
 <p>Equitable reward mechanisms ensure all volunteers receive appropriate recognition regardless of background or affiliation.</p>
 <p>公平的奖励机制确保所有义工无论背景或隶属关系都能获得适当的认可。</p>
-</div>
 
 ---
 
@@ -152,35 +144,26 @@ Our vision will be realized when we achieve:
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
 
-<div class="feature-box">
 <p><strong>Goal:</strong> Recognition and rewards for service</p>
 <p><strong>目标:</strong> 服务的认可和奖励</p>
 <p><strong>Value:</strong> Portable credentials, real rewards, community recognition</p>
 <p><strong>价值:</strong> 可携带凭证、真实奖励、社区认可</p>
-</div>
 
-<div class="feature-box">
 <p><strong>Goal:</strong> Efficient volunteer management and impact measurement</p>
 <p><strong>目标:</strong> 高效的义工管理和影响测量</p>
 <p><strong>Value:</strong> Automated tracking, transparent reporting, enhanced funding</p>
 <p><strong>价值:</strong> 自动化追踪、透明报告、增强融资</p>
-</div>
 
-<div class="feature-box">
 <p><strong>Goal:</strong> Measurable CSR impact and community engagement</p>
 <p><strong>目标:</strong> 可衡量的企业社会责任影响和社区参与</p>
 <p><strong>Value:</strong> Verifiable data, direct impact, measurable ROI</p>
 <p><strong>价值:</strong> 可验证数据、直接影响、可衡量投资回报率</p>
-</div>
 
-<div class="feature-box">
 <p><strong>Goal:</strong> Customer acquisition and brand loyalty</p>
 <p><strong>目标:</strong> 客户获取和品牌忠诚度</p>
 <p><strong>Value:</strong> Engaged customer base, social impact association, data insights</p>
 <p><strong>价值:</strong> 参与客户群、社会影响关联、数据洞察</p>
-</div>
 
-</div>
 
 ---
 

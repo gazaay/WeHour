@@ -7,7 +7,6 @@
 <div class="highlight">
 **Comprehensive Token Analytics**: WeHour's token metrics provide detailed insights into VH$ and VB$ token performance, circulation patterns, and economic health across the platform ecosystem.
 **综合代币分析**：WeHour的代币指标提供VH$和VB$代币性能、流通模式以及平台生态系统经济健康的详细洞察。
-</div>
 
 ---
 
@@ -17,7 +16,6 @@
 ### Token Circulation
 ### 代币流通
 
-<div class="feature-box">
 <ul>
 <li><strong>Total Supply:</strong> 10,000,000 VH$ tokens</li>
 <li><strong>Circulating Supply:</strong> 6,000,000 VH$ (60%)</li>
@@ -32,12 +30,10 @@
 <li><strong>储备池</strong>：2,000,000 VH$ (20%)</li>
 <li><strong>日交易量</strong>：每日交易50,000+ VH$</li>
 </ul>
-</div>
 
 ### Token Utility
 ### 代币效用
 
-<div class="feature-box">
 <ul>
 <li><strong>Service Redemption:</strong> 70% of tokens used for rewards</li>
 <li><strong>Cross-Merchant Spending:</strong> 25% used for purchases</li>
@@ -52,12 +48,10 @@
 <li><strong>捐赠池</strong>：10%捐赠给事业</li>
 <li><strong>平台费用</strong>：5%用于交易费用</li>
 </ul>
-</div>
 
 ### Price Stability
 ### 价格稳定性
 
-<div class="feature-box">
 <ul>
 <li><strong>Current Price:</strong> HKD 1.00 per VH$</li>
 <li><strong>Price Stability:</strong> ±2% monthly volatility</li>
@@ -72,7 +66,6 @@
 <li><strong>流动性池</strong>：储备金500万+港币</li>
 <li><strong>价格底线</strong>：最低价值0.95港币</li>
 </ul>
-</div>
 
 ---
 
@@ -82,7 +75,6 @@
 ### Achievement Distribution
 ### 成就分配
 
-<div class="feature-box">
 <ul>
 <li><strong>Total Badges Issued:</strong> 25,000+ badges</li>
 <li><strong>Active Badge Holders:</strong> 8,000+ users</li>
@@ -97,12 +89,10 @@
 <li><strong>稀有徽章持有者</strong>：500+用户 (2%)</li>
 <li><strong>徽章完成率</strong>：85%+成就率</li>
 </ul>
-</div>
 
 ### Badge Categories
 ### 徽章类别
 
-<div class="feature-box">
 <ul>
 <li><strong>Service Hours:</strong> 40% of all badges</li>
 <li><strong>Skill Development:</strong> 25% of all badges</li>
@@ -117,12 +107,10 @@
 <li><strong>领导力</strong>：所有徽章的10%</li>
 <li><strong>创新</strong>：所有徽章的5%</li>
 </ul>
-</div>
 
 ### Badge Value
 ### 徽章价值
 
-<div class="feature-box">
 <ul>
 <li><strong>Base Badge Value:</strong> HKD 10-50 per badge</li>
 <li><strong>Rare Badge Value:</strong> HKD 100-500 per badge</li>
@@ -137,7 +125,6 @@
 <li><strong>徽章交易量</strong>：每月50,000+港币</li>
 <li><strong>徽章升值</strong>：年增长15%+</li>
 </ul>
-</div>
 
 ---
 
@@ -147,7 +134,6 @@
 ### Supply & Demand
 ### 供需关系
 
-<div class="feature-box">
 <ul>
 <li><strong>Token Velocity:</strong> 2.5x monthly turnover</li>
 <li><strong>Demand Growth:</strong> 20%+ monthly increase</li>
@@ -162,12 +148,10 @@
 <li><strong>市值</strong>：总价值600万+港币</li>
 <li><strong>流动性比率</strong>：流通中供应量15%+</li>
 </ul>
-</div>
 
 ### Incentive Mechanisms
 ### 激励机制
 
-<div class="feature-box">
 <ul>
 <li><strong>Staking Rewards:</strong> 8%+ annual yield</li>
 <li><strong>Referral Bonuses:</strong> 10%+ of new user value</li>
@@ -182,7 +166,6 @@
 <li><strong>社区奖励</strong>：平台收入的5%+</li>
 <li><strong>创新激励</strong>：新功能采用的2%+</li>
 </ul>
-</div>
 
 ---
 
@@ -192,7 +175,6 @@
 ### Exchange Performance
 ### 交易所性能
 
-<div class="feature-box">
 <ul>
 <li><strong>Daily Trading Volume:</strong> HKD 100K+ daily</li>
 <li><strong>Exchange Listings:</strong> 3+ major exchanges</li>
@@ -207,12 +189,10 @@
 <li><strong>订单簿深度</strong>：日交易量10%+</li>
 <li><strong>价格发现</strong>：准确定价95%+</li>
 </ul>
-</div>
 
 ### Market Dynamics
 ### 市场动态
 
-<div class="feature-box">
 <ul>
 <li><strong>Bid-Ask Spread:</strong> <1% average spread</li>
 <li><strong>Market Depth:</strong> 20%+ of supply available</li>
@@ -227,7 +207,6 @@
 <li><strong>流动性评分</strong>：10分中8.5+</li>
 <li><strong>市场效率</strong>：价格准确性90%+</li>
 </ul>
-</div>
 
 ---
 
@@ -237,7 +216,6 @@
 ### Token Flow Analysis
 ### 代币流动分析
 
-<div class="feature-box">
 <ul>
 <li><strong>Inflow Sources:</strong> 60% service rewards, 25% purchases, 15% other</li>
 <li><strong>Outflow Destinations:</strong> 45% redemptions, 30% trading, 25% staking</li>
@@ -252,12 +230,10 @@
 <li><strong>智能合约交互</strong>：80%+自动化</li>
 <li><strong>Gas效率</strong>：每笔交易<$0.01</li>
 </ul>
-</div>
 
 ### Risk Metrics
 ### 风险指标
 
-<div class="feature-box">
 <ul>
 <li><strong>Concentration Risk:</strong> <10% held by top 10 holders</li>
 <li><strong>Liquidity Risk:</strong> 15%+ of supply in active trading</li>
@@ -272,7 +248,6 @@
 <li><strong>智能合约风险</strong>：正常运行时间99.9%+</li>
 <li><strong>监管风险</strong>：合规评分100%</li>
 </ul>
-</div>
 
 ---
 
@@ -282,7 +257,6 @@
 ### Growth Trajectory
 ### 增长轨迹
 
-<div class="feature-box">
 <ul>
 <li><strong>Token Adoption Rate:</strong> 25%+ monthly growth</li>
 <li><strong>User Acquisition:</strong> 1,000+ new users monthly</li>
@@ -297,12 +271,10 @@
 <li><strong>市场扩张</strong>：每季度2+新市场</li>
 <li><strong>功能采用</strong>：60%+用户尝试新功能</li>
 </ul>
-</div>
 
 ### Future Projections
 ### 未来预测
 
-<div class="feature-box">
 <ul>
 <li><strong>Total Token Supply:</strong> 50M+ VH$ tokens</li>
 <li><strong>Market Cap:</strong> HKD 100M+ total value</li>
@@ -317,7 +289,6 @@
 <li><strong>全球采用</strong>：100万+代币持有者</li>
 <li><strong>生态系统价值</strong>：总生态系统10亿+港币</li>
 </ul>
-</div>
 
 ---
 

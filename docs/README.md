@@ -6,7 +6,6 @@
 <div class="highlight">
 **WeHour** is a revolutionary blockchain-based platform that transforms volunteer service into verifiable, portable, and valuable digital assets through a dual-token ecosystem.
 **WeHour** 是一个革命性的基于区块链的平台，通过双代币生态系统将义工服务转化为可验证、可携带和有价值的数字资产。
-</div>
 
 ---
 
@@ -32,7 +31,6 @@ WeHour通过引入全面的代币化系统来解决义工服务认可和价值�
 <li>Cross-chain compatible for global accessibility</li>
 <li>跨链兼容，全球可访问</li>
 </ul>
-</div>
 
 <div class="token-card">
 <h3>🏆 VB$ (Badge Token)</h3>
@@ -46,14 +44,12 @@ WeHour通过引入全面的代币化系统来解决义工服务认可和价值�
 <li>Fraud-resistant with multi-attestation verification</li>
 <li>通过多重认证验证防欺诈</li>
 </ul>
-</div>
 
 ---
 
 ## 🌟 Core Value Propositions
 ## 🌟 核心价值主张
 
-<div class="feature-box">
 <h4>For Volunteers</h4>
 <ul>
 <li>✅ Portable, verifiable service records</li>
@@ -63,9 +59,7 @@ WeHour通过引入全面的代币化系统来解决义工服务认可和价值�
 <li>✅ Seamless integration with existing systems</li>
 <li>✅ 与现有系统无缝集成</li>
 </ul>
-</div>
 
-<div class="feature-box">
 <h4>For NGOs</h4>
 <ul>
 <li>✅ Automated volunteer management</li>
@@ -75,9 +69,7 @@ WeHour通过引入全面的代币化系统来解决义工服务认可和价值�
 <li>✅ Enhanced funding opportunities</li>
 <li>✅ 增强的融资机会</li>
 </ul>
-</div>
 
-<div class="feature-box">
 <h4>For Sponsors</h4>
 <ul>
 <li>✅ Verifiable CSR impact data</li>
@@ -87,7 +79,6 @@ WeHour通过引入全面的代币化系统来解决义工服务认可和价值�
 <li>✅ Measurable ROI on social investments</li>
 <li>✅ 社会投资的可衡量投资回报率</li>
 </ul>
-</div>
 
 ---
 
@@ -135,35 +126,26 @@ WeHour通过引入全面的代币化系统来解决义工服务认可和价值�
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin: 20px 0;">
 
-<div class="feature-box">
 <p>Understanding the vision, problem, and solution</p>
 <p>了解愿景、问题和解决方案</p>
 <a href="core-concepts/vision-mission.md">Explore →</a>
 <a href="core-concepts/vision-mission.md">探索 →</a>
-</div>
 
-<div class="feature-box">
 <p>Deep dive into VH$ and VB$ token mechanics</p>
 <p>深入了解VH$和VB$代币机制</p>
 <a href="tokenomics/dual-token-model.md">Explore →</a>
 <a href="tokenomics/dual-token-model.md">探索 →</a>
-</div>
 
-<div class="feature-box">
 <p>Blockchain infrastructure and cross-chain design</p>
 <p>区块链基础设施和跨链设计</p>
 <a href="technical-architecture/system-overview.md">Explore →</a>
 <a href="technical-architecture/system-overview.md">探索 →</a>
-</div>
 
-<div class="feature-box">
 <p>Revenue streams and market strategy</p>
 <p>收入流和市场策略</p>
 <a href="business-model/revenue-streams.md">Explore →</a>
 <a href="business-model/revenue-streams.md">探索 →</a>
-</div>
 
-</div>
 
 ---
 

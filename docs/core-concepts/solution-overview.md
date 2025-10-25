@@ -16,50 +16,40 @@ WeHour是一个综合性的基于区块链的平台，通过双代币生态系�
 <div class="highlight">
 **Dual-Token Model**: VH$ (WeHours Token) for utility and rewards + VB$ (Badge Token) for credentials and proof of participation
 **双代币模式**: VH$（WeHours代币）用于实用性和奖励 + VB$（徽章代币）用于凭证和参与证明
-</div>
 
 ### Platform Components
 ### 平台组件
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
 
-<div class="feature-box">
 <ul>
 <li>Event creation and management</li>
 <li>Volunteer role assignment</li>
 <li>Real-time verification workflows</li>
 <li>Impact reporting and analytics</li>
 </ul>
-</div>
 
-<div class="feature-box">
 <ul>
 <li>Event discovery and registration</li>
 <li>Time tracking and logging</li>
 <li>Digital wallet for tokens</li>
 <li>Reward redemption and donations</li>
 </ul>
-</div>
 
-<div class="feature-box">
 <ul>
 <li>Volunteer hour purchasing</li>
 <li>Brand campaign management</li>
 <li>ESG impact reporting</li>
 <li>ROI analytics and insights</li>
 </ul>
-</div>
 
-<div class="feature-box">
 <ul>
 <li>Coupon and reward catalog</li>
 <li>Retailer integration</li>
 <li>Donation opportunities</li>
 <li>Cross-platform rewards</li>
 </ul>
-</div>
 
-</div>
 
 ---
 
@@ -98,7 +88,6 @@ Sponsors → Purchase Hours → Volunteers → Redeem Rewards → Donate to Caus
 <li><strong>Transferability:</strong> Transferable between users</li>
 <li><strong>Cross-Chain:</strong> Compatible across multiple blockchains</li>
 </ul>
-</div>
 
 ### VB$ (Badge Token) - Credentials & Proof
 <div class="token-card">
@@ -109,7 +98,6 @@ Sponsors → Purchase Hours → Volunteers → Redeem Rewards → Donate to Caus
 <li><strong>Verification:</strong> QR code verification for employers/schools</li>
 <li><strong>Permanence:</strong> Non-expiring, fraud-resistant</li>
 </ul>
-</div>
 
 ---
 
@@ -132,43 +120,25 @@ Sponsors → Purchase Hours → Volunteers → Redeem Rewards → Donate to Caus
 ## 🎯 Key Features
 
 ### For Volunteers
-<div class="feature-box">
 <p>Traditional app interface with blockchain benefits hidden from users</p>
-</div>
 
-<div class="feature-box">
 <p>Service records follow volunteers across organizations and borders</p>
-</div>
 
-<div class="feature-box">
 <p>Convert volunteer hours into tangible benefits and donations</p>
-</div>
 
 ### For Organizations
-<div class="feature-box">
 <p>Streamlined volunteer tracking and verification processes</p>
-</div>
 
-<div class="feature-box">
 <p>Real-time analytics and transparent reporting capabilities</p>
-</div>
 
-<div class="feature-box">
 <p>Enhanced ability to demonstrate impact to funders and sponsors</p>
-</div>
 
 ### For Sponsors
-<div class="feature-box">
 <p>Transparent, auditable data on volunteer service impact</p>
-</div>
 
-<div class="feature-box">
 <p>Direct connection with volunteer communities and causes</p>
-</div>
 
-<div class="feature-box">
 <p>Clear metrics on social investment returns and community impact</p>
-</div>
 
 ---
 

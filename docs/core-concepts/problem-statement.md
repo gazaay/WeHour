@@ -45,7 +45,6 @@ Volunteer service, despite its immense social value, suffers from fundamental sy
 ## 🔍 Root Cause Analysis
 ## 🔍 根本原因分析
 
-<div class="feature-box">
 <ul>
 <li><strong>Legacy Systems:</strong> Outdated, non-interoperable tracking systems</li>
 <li><strong>遗留系统:</strong> 过时、不可互操作的追踪系统</li>
@@ -54,9 +53,7 @@ Volunteer service, despite its immense social value, suffers from fundamental sy
 <li><strong>Manual Processes:</strong> Time-consuming, error-prone record keeping</li>
 <li><strong>手动流程:</strong> 耗时、易出错的记录保存</li>
 </ul>
-</div>
 
-<div class="feature-box">
 <ul>
 <li><strong>No Standardization:</strong> Inconsistent verification methods across organizations</li>
 <li><strong>缺乏标准化:</strong> 各组织间验证方法不一致</li>
@@ -65,9 +62,7 @@ Volunteer service, despite its immense social value, suffers from fundamental sy
 <li><strong>Limited Portability:</strong> Service records don't follow volunteers</li>
 <li><strong>有限的可携带性:</strong> 服务记录不跟随义工</li>
 </ul>
-</div>
 
-<div class="feature-box">
 <ul>
 <li><strong>Invisible Impact:</strong> Volunteer contributions lack measurable value</li>
 <li><strong>无形影响:</strong> 义工贡献缺乏可衡量的价值</li>
@@ -76,7 +71,6 @@ Volunteer service, despite its immense social value, suffers from fundamental sy
 <li><strong>Weak Incentives:</strong> Insufficient motivation for continued participation</li>
 <li><strong>激励不足:</strong> 持续参与的动机不足</li>
 </ul>
-</div>
 
 ---
 
@@ -133,7 +127,6 @@ Volunteer service, despite its immense social value, suffers from fundamental sy
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
 
-<div class="feature-box">
 <ul>
 <li>❌ No portable service records</li>
 <li>❌ Limited recognition from employers</li>
@@ -141,9 +134,7 @@ Volunteer service, despite its immense social value, suffers from fundamental sy
 <li>❌ Difficulty proving impact</li>
 <li>❌ Time-consuming administrative tasks</li>
 </ul>
-</div>
 
-<div class="feature-box">
 <ul>
 <li>❌ Manual volunteer management</li>
 <li>❌ Difficulty proving impact to funders</li>
@@ -151,9 +142,7 @@ Volunteer service, despite its immense social value, suffers from fundamental sy
 <li>❌ Limited funding opportunities</li>
 <li>❌ Administrative overhead</li>
 </ul>
-</div>
 
-<div class="feature-box">
 <ul>
 <li>❌ Cannot verify CSR impact</li>
 <li>❌ Limited ROI measurement</li>
@@ -161,9 +150,7 @@ Volunteer service, despite its immense social value, suffers from fundamental sy
 <li>❌ Compliance challenges</li>
 <li>❌ Brand association risks</li>
 </ul>
-</div>
 
-<div class="feature-box">
 <ul>
 <li>❌ Limited customer engagement</li>
 <li>❌ Weak loyalty programs</li>
@@ -171,9 +158,7 @@ Volunteer service, despite its immense social value, suffers from fundamental sy
 <li>❌ Limited data on customer values</li>
 <li>❌ Ineffective CSR initiatives</li>
 </ul>
-</div>
 
-</div>
 
 ---
 
