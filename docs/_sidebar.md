@@ -1,5 +1,12 @@
 * [🏠 Home](README.md)
 
+## 💼 Business Model
+* [Revenue Streams](business-model/revenue-streams.md)
+* [Cross-Merchant Model](business-model/cross-merchant-model.md)
+* [Market Analysis](business-model/market-analysis.md)
+* [Competitive Landscape](business-model/competitive-landscape.md)
+* [Go-to-Market Strategy](business-model/gtm-strategy.md)
+
 ## 📋 Core Concepts
 * [Vision & Mission](core-concepts/vision-mission.md)
 * [Problem Statement](core-concepts/problem-statement.md)
@@ -22,12 +29,6 @@
 * [Security Framework](technical-architecture/security-framework.md)
 * [Privacy & Compliance](technical-architecture/privacy-compliance.md)
 
-## 💼 Business Model
-* [Revenue Streams](business-model/revenue-streams.md)
-* [Cross-Merchant Model](business-model/cross-merchant-model.md)
-* [Market Analysis](business-model/market-analysis.md)
-* [Competitive Landscape](business-model/competitive-landscape.md)
-* [Go-to-Market Strategy](business-model/gtm-strategy.md)
 
 ## 🚀 Implementation
 * [Roadmap](implementation/roadmap.md)

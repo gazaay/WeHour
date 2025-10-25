@@ -7,59 +7,21 @@ WeHour operates in a rapidly growing market with significant opportunities for v
 ---
 
 ## 🌍 Market Overview
-## 市场概述
-
-### Market Size Visualization
-### 市场规模可视化
-
-```mermaid
-pie title Global Volunteer Service Market
-    "Asia-Pacific" : 35
-    "North America" : 30
-    "Europe" : 20
-    "Other Regions" : 15
-```
-
-### Market Growth Timeline
-### 市场增长时间线
-
-```mermaid
-gantt
-    title Market Growth Projection
-    dateFormat  YYYY-MM-DD
-    section Market Development
-    Traditional Platforms (2010-2020)    :done, traditional, 2010-01-01, 2020-12-31
-    Digital Transformation (2020-2023)   :done, digital, 2020-01-01, 2023-12-31
-    Blockchain Integration (2023-2025)   :active, blockchain, 2023-01-01, 2025-12-31
-    Tokenization Era (2025-2030)         :tokenization, 2025-01-01, 2030-12-31
-```
 
 <div class="highlight">
 **Growing Market**: The volunteer service market is experiencing rapid growth, driven by increased focus on social impact, corporate social responsibility, and blockchain technology adoption.
-**增长市场**：义工服务市场正在快速增长，由对社会影响、企业社会责任和区块链技术采用的日益关注所驱动。
 </div>
 
-### TAM/SAM/SOM Analysis
-### TAM/SAM/SOM分析
-
-```mermaid
-graph TD
-    A[Total Addressable Market<br/>总可寻址市场<br/>$2.3B] --> B[Serviceable Addressable Market<br/>可服务可寻址市场<br/>$800M Asia-Pacific]
-    B --> C[Serviceable Obtainable Market<br/>可服务可获得市场<br/>$180M Hong Kong]
-    C --> D[Target Market<br/>目标市场<br/>$15M Tokenized Services]
-    
-    E[Global Volunteer Market<br/>全球义工市场] --> A
-    F[Asia-Pacific Market<br/>亚太市场] --> B
-    G[Hong Kong Market<br/>香港市场] --> C
-    H[WeHour Target<br/>WeHour目标] --> D
-    
-    style A fill:#ff6b9d,stroke:#333,stroke-width:3px
-    style B fill:#4ecdc4,stroke:#333,stroke-width:2px
-    style C fill:#ffd93d,stroke:#333,stroke-width:2px
-    style D fill:#6bcf7f,stroke:#333,stroke-width:3px
-```
-
 ### Market Size & Growth
+<div class="feature-box">
+<h4>📈 Market Metrics</h4>
+<ul>
+<li><strong>Global Market:</strong> $2.3B volunteer service market globally</li>
+<li><strong>Asia-Pacific:</strong> $800M volunteer service market in Asia-Pacific</li>
+<li><strong>Hong Kong:</strong> $180M volunteer ecosystem in Hong Kong</li>
+<li><strong>Growth Rate:</strong> 15-20% annual market growth</li>
+</ul>
+</div>
 
 ### Market Drivers
 <div class="feature-box">

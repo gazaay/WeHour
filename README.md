@@ -5,13 +5,25 @@ This repository contains the WeHour documentation site built with Docsify.
 ## 🚀 Quick Start
 
 ### Local Development
+
+**Option 1: Using the start script (Recommended)**
 ```bash
-# Start local server
+./start.sh
+```
+
+**Option 2: Using Python directly**
+```bash
+cd docs
+python3 server.py
+```
+
+**Option 3: Using simple HTTP server**
+```bash
 cd docs
 python3 -m http.server 3001
 ```
 
-Visit: http://localhost:3001
+Visit: http://localhost:3000 (or http://localhost:3001 for option 3)
 
 ### Netlify Deployment
 
