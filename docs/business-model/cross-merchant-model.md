@@ -192,48 +192,47 @@ graph LR
 ### 商家生态系统图
 
 ```mermaid
+---
+config:
+  look: handDrawn
+  theme: neutral
+---
 graph TB
     subgraph "WeHour Platform<br/>WeHour平台"
         A[Stable Coin Pool<br/>稳定币池]
         B[Conversion Engine<br/>转换引擎]
         C[Cross-Merchant Network<br/>跨商家网络]
     end
-    
     subgraph "Merchant A Ecosystem<br/>商家A生态系统"
         D[Merchant A Points<br/>商家A积分]
         E[Merchant A Store<br/>商家A商店]
         F[Merchant A Customers<br/>商家A客户]
     end
-    
     subgraph "Merchant B Ecosystem<br/>商家B生态系统"
         G[Merchant B Points<br/>商家B积分]
         H[Merchant B Store<br/>商家B商店]
         I[Merchant B Customers<br/>商家B客户]
     end
-    
     subgraph "Volunteer Ecosystem<br/>义工生态系统"
         J[Volunteer Hours<br/>义工时数]
         K[Volunteer Bureau<br/>义工局]
         L[Volunteers<br/>义工]
     end
-    
     D --> B
     G --> B
     J --> B
     B --> A
     A --> C
-    
     C --> E
     C --> H
     C --> K
-    
     F --> D
     I --> G
     L --> J
-    
     style A fill:#ff6b9d,stroke:#333,stroke-width:3px
     style B fill:#4ecdc4,stroke:#333,stroke-width:2px
     style C fill:#ffd93d,stroke:#333,stroke-width:2px
+
 ```
 
 ### Merchant Onboarding
