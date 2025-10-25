@@ -146,6 +146,19 @@
   <script src="//unpkg.com/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
   <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
   <script src="//unpkg.com/mermaid@10/dist/mermaid.min.js"></script>
+  
+  <script>
+    // Configure Mermaid globally for handDrawn style
+    mermaid.initialize({
+      startOnLoad: false,
+      theme: 'neutral',
+      flowchart: {
+        useMaxWidth: true,
+        htmlLabels: true
+      }
+    });
+  </script>
+  
   <script src="//unpkg.com/docsify-mermaid@latest/dist/docsify-mermaid.js"></script>
   <script src="//unpkg.com/docsify/lib/plugins/emoji.min.js"></script>
 
@@ -176,17 +189,13 @@
       },
       mermaid: {
         theme: 'neutral',
-        config: {
-          look: 'handDrawn',
-          theme: 'neutral',
-          themeVariables: {
-            primaryColor: '#ff69b4',
-            primaryTextColor: '#333333',
-            primaryBorderColor: '#ff69b4',
-            lineColor: '#ff69b4',
-            secondaryColor: '#f8f8f8',
-            tertiaryColor: '#ffffff'
-          }
+        themeVariables: {
+          primaryColor: '#ff69b4',
+          primaryTextColor: '#333333',
+          primaryBorderColor: '#ff69b4',
+          lineColor: '#ff69b4',
+          secondaryColor: '#f8f8f8',
+          tertiaryColor: '#ffffff'
         }
       },
       copyCode: {
