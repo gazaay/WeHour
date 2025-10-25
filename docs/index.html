@@ -57,8 +57,8 @@
     .markdown-section h5,
     .markdown-section h6 {
       color: inherit;
-      background: none;
-      padding: inherit;
+      /* background: none; */
+      /* padding: inherit; */
       border: none;
       margin: inherit;
     }
@@ -89,11 +89,11 @@
 
     /* Feature boxes */
     .feature-box {
-      background-color: #f8f8f8;
+      /* background-color: #f8f8f8;
       border-left: 4px solid var(--accent-color);
       padding: 15px;
       margin: 15px 0;
-      border-radius: 0 6px 6px 0;
+      border-radius: 0 6px 6px 0; */
     }
 
     .feature-box h4 {
@@ -169,7 +169,18 @@
         buttonText: 'Copy',
         errorText: 'Error',
         successText: 'Copied!'
-      }
+      },
+      plugins: [
+        function(hook) {
+          hook.beforeEach(function(html) {
+            // Remove emojis from Chinese headers (headers with Chinese characters)
+            html = html.replace(/^(#{1,6})\s*[🌟🎯🏢💰🔒🌍🤝⚖️🚀📊💼🪙💳🏦💻💡🎓📈🔍🔄🏗️📋📁🛒💎🌐🎨👥🔧⚡💹🚨📉🏛️🧡🟡🟢🔴🔵🟣🟠⚫⚪\u{1F600}-\u{1F64F}\u{1F300}-\u{1F5FF}\u{1F680}-\u{1F6FF}\u{2600}-\u{26FF}\u{2700}-\u{27BF}]+\s*(.*[\u4e00-\u9fff])/gmu, function(match, hashes, chineseText) {
+              return hashes + ' ' + chineseText.trim();
+            });
+            return html;
+          });
+        }
+      ]
     };
   </script>
   

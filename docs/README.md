@@ -122,20 +122,14 @@ WeHour通过引入全面的代币化系统来解决义工服务认可和价值�
 
 ---
 
-## 🎯 12-Month Roadmap
-## 🎯 12个月路线图
+## 12-Month Roadmap 12个月路线图
 
-| Phase | Timeline | Key Milestones |
-| 阶段 | 时间线 | 关键里程碑 |
+| Phase 阶段 | Timeline 时间线 | Key Milestones 关键里程碑 |
 |-------|----------|----------------|
-| **Phase 0** | M1-2 | Tokenomics finalization, legal framework, security audit |
-| **阶段0** | 第1-2月 | 代币经济学最终确定、法律框架、安全审计 |
-| **Phase 1** | M3-6 | 10 organizations, 2-3 anchor events, marketplace beta |
-| **阶段1** | 第3-6月 | 10个组织、2-3个锚定活动、市场测试版 |
-| **Phase 2** | M6-9 | 5-10k volunteers, 100k+ verified hours, employer APIs |
-| **阶段2** | 第6-9月 | 5-10k义工、10万+验证时数、雇主API |
-| **Phase 3** | M9-12 | 3-5 major retailers, Macau expansion, points integration |
-| **阶段3** | 第9-12月 | 3-5个主要零售商、澳门扩张、积分整合 |
+| **Phase 0 阶段0** | M1-2 第1-2月 | Tokenomics finalization, legal framework, security audit / 代币经济学最终确定、法律框架、安全审计 |
+| **Phase 1 阶段1** | M3-6 第3-6月 | 10 organizations, 2-3 anchor events, marketplace beta / 10个组织、2-3个锚定活动、市场测试版 |
+| **Phase 2 阶段2** | M6-9 第6-9月 | 5-10k volunteers, 100k+ verified hours, employer APIs / 5-10k义工、10万+验证时数、雇主API |
+| **Phase 3 阶段3** | M9-12 第9-12月 | 3-5 major retailers, Macau expansion, points integration / 3-5个主要零售商、澳门扩张、积分整合 |
 
 ---
 
