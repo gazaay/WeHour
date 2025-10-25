@@ -45,18 +45,22 @@
       font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     }
 
-    /* Chinese content styling */
-    .markdown-section h2:not(:first-of-type),
-    .markdown-section h3:not(:first-of-type),
-    .markdown-section h4:not(:first-of-type),
-    .markdown-section h5:not(:first-of-type),
-    .markdown-section h6:not(:first-of-type) {
-      color: var(--chinese-color);
-      background: linear-gradient(135deg, var(--chinese-bg) 0%, #ffffff 100%);
-      padding: 8px 16px;
-      border-left: 4px solid var(--accent-color);
-      margin: 16px 0 8px 0;
-      border-radius: 4px;
+    /* Only H1 should be pink */
+    .markdown-section h1 {
+      color: var(--accent-color) !important;
+    }
+
+    /* Remove special styling from other headers - they should use default colors */
+    .markdown-section h2,
+    .markdown-section h3,
+    .markdown-section h4,
+    .markdown-section h5,
+    .markdown-section h6 {
+      color: inherit;
+      background: none;
+      padding: inherit;
+      border: none;
+      margin: inherit;
     }
 
     .markdown-section p:not(:first-child) {
